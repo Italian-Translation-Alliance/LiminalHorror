@@ -36,7 +36,7 @@ Un SRD (o System Reference Document) è spesso usato nel design dei giochi per i
 - [Regole](#regole)
 - [Combattimento](#combattimento)
 - [Magia](#magia)
-- [Stress & Ricaduta](#stress-&-ricaduta)
+- [Stress & Crollo](#stress-&-crollo)
 - [Bestiario Paranaturale](#bestiario-paranaturale)
 - [Spark Tables](#spark-tables)
 - [Riassunto delle Regole](#riassunto-delle-regole)
@@ -54,10 +54,10 @@ I Facilitatori forniscono ai giocatori quante più informazioni possibili per es
 Gli investigatori non sono limitati da una classe predefinita. La specialità di un personaggio inizia con il suo background, il suo equipaggiamento e le sue esperienze.
 
 ### Crescita
-Non c'è livellamento o esperienza meccanica in **Liminal Horror**. Il successo e il fallimento portano a storie memorabili. Costruire relazioni, incontrare reliquie toccate dal vuoto e le ricadute dello stress portano alla crescita del personaggio.
+Non c'è livellamento o esperienza meccanica in **Liminal Horror**. Il successo e il fallimento portano a storie memorabili. Costruire relazioni, incontrare reliquie toccate dal vuoto e i Crolli da Stress portano alla crescita del personaggio.
 
-### Stress e ricadute
-Il gioco tratta i temi dell'orrore cosmico. Questo è rappresentato meccanicamente con lo stress e la ricaduta da stress. La ricaduta ruota attorno al cambiamento subito dai personaggi venendo in contatto con gli Antichi Poteri. Il design evita intenzionalmente di usare la malattia mentale e il trauma come meccaniche di gioco.
+### Stress e Crollo
+Il gioco tratta i temi dell'orrore cosmico. Questo è rappresentato meccanicamente con lo stress e il crollo da stress. La crollo ruota attorno al cambiamento subito dai personaggi venendo in contatto con gli Antichi Poteri. Il design evita intenzionalmente di usare la malattia mentale e il trauma come meccaniche di gioco.
 
 ### Il Bizzarro
 **Liminal Horror** è progettato per essere ambientato in una città moderna. I personaggi imparano lentamente a conoscere le cose strane e pericolose nascoste nell'oscurità. Si piegheranno, o si romperanno, sotto il peso dell'ignoto.
@@ -100,7 +100,7 @@ La morte arriva per tutti, ma alcuni subiscono un destino peggiore.
 - Premiate l'intelligenza e l'ingegno.
 
 ### Pericolo
-- Il rischio è grande per i danni duraturi, le ricadute dello stress e il pericolo schiacciante di incontrare le Antiche Potenze o la loro progenie.
+- Il rischio è grande per i danni duraturi, i crolli dello stress e il pericolo schiacciante di incontrare le Antiche Potenze o la loro progenie.
 - Presentate chiaramente ai giocatori il potenziale di pericolo e dai loro l'opportunità di reagire.
 - Aumentando la quantità di stress aumenterà la velocità con cui gli investigatori vengono avvolti dalla corruzione delle Antiche Potenze.
 - I personaggi muoiono.
@@ -183,7 +183,7 @@ Tirate 1d6 per determinare la Protezione dai Colpi (PC) iniziale del tuo PG. La 
 
 **(+_Stabilità)** è un'etichetta che gli oggetti speciali hanno per indicare che forniscono protezione dallo stress e lo riducono prima che sia applicato alla PC.  Qualsiasi danno o stress in eccesso (oltre 0 PC) viene applicato all'attributo appropriato.
 
-Se lo stress porterebbe la PC di un PG esattamente a 0, il giocatore deve tirare sulla tabella [Ricaduta da Stress](#tabelle-ricaduta-stress).
+Se lo stress porterebbe la PC di un PG esattamente a 0, il giocatore deve tirare sulla tabella [Crollo da Stress](#tabelle-crollo-stress).
 
 #### 3. Dettagli dell'investigatore
 - Scegliete un nome per il vostro personaggio,
@@ -638,7 +638,7 @@ Non ci sono tiri per colpire. Non ci sono fallimenti, solo livelli variabili di 
 
 Al proprio turno, l'attaccante tira il dado della propria arma, sottrae l'eventuale bonus Armatura e infligge il totale rimanente alla PC dell'avversario. Il danno in eccesso viene poi inflitto alla FOR (vedi Danno Critico)
 
-Alcuni attacchi invece infliggono Stress. Questi seguono lo stesso processo di tirare il dado dello stress, sottrarre qualsiasi bonus di Stabilità rilevante e poi infliggere il totale rimanente alla PC. Lo stress in eccesso viene inflitto al CTRL (vedi [Stress critico - Innesco di Ricaduta](#ricaduta-da-stress-tabelle))
+Alcuni attacchi invece infliggono Stress. Questi seguono lo stesso processo di tirare il dado dello stress, sottrarre qualsiasi bonus di Stabilità rilevante e poi infliggere il totale rimanente alla PC. Lo stress in eccesso viene inflitto al CTRL (vedi [Stress critico - Innesco di Crollo](#crollo-da-stress-tabelle))
 
 ### Attaccanti multipli
 Se più attaccanti bersagliano lo stesso nemico, tirate tutti i dadi dei danni e tenete il singolo risultato più alto.
@@ -662,12 +662,12 @@ Fuggire da una situazione condannata richiede un tiro salvezza di DES riuscito e
 Se il danno porta la PC di un bersaglio sotto lo zero, la sua FOR viene diminuita della quantità rimanente. Dovete quindi effettuare un tiro salvezza su FOR per evitare di subire **danni critici**.
 <br>Subire un danno critico disabilita la vittima. Tutto ciò che può fare è strisciare e aggrapparsi alla vita. Sono richiesti aiuto e riposo per perseverare o moriranno entro un'ora.
 
-### Stress Critico = Ricaduta
+### Stress Critico = Crollo
 Lo **Stress** che riduce la PC di un bersaglio sotto zero diminuisce il CTRL del bersaglio della quantità rimanente. Dovete quindi effettuare un tiro salvezza CTRL per evitare lo **Stress Critico**.
-<br>Se un personaggio fallisce il tiro salvezza su CTRL, subisce uno stress critico e guadagna la Ricaduta dalla tabella [Ricaduta da Stress](#tabelle-ricaduta-da-stress).
+<br>Se un personaggio fallisce il tiro salvezza su CTRL, subisce uno stress critico e guadagna il Crollo dalla tabella [Crollo da Stress](#tabelle-crollo-da-stress).
 
-### 0 PC Stress = Ricaduta
-Se lo stress di un PG riduce la sua PC esattamente a 0, deve immediatamente tirare o scegliere un risultato dalla tabella [Ricaduta da Stress](#tabelle-ricaduta-da-stress) proprio come se avesse fallito il tiro salvezza CTRL.
+### 0 PC Stress = Crollo
+Se lo stress di un PG riduce la sua PC esattamente a 0, deve immediatamente tirare o scegliere un risultato dalla tabella [Crollo da Stress](#tabelle-crollo-da-stress) proprio come se avesse fallito il tiro salvezza CTRL.
 
 
 
@@ -701,7 +701,7 @@ Il morale non ha effetto sui PG.
 ## Sistema della magia
 I personaggi possono essere in grado di usare la **magia** se:
 - Tirata durante la creazione del personaggio.
-- L'hanno ottenuta attraverso la **Ricaduta da Stress**.
+- L'hanno ottenuta attraverso la **Crollo da Stress**.
 - Sono stati esposti e cambiati dagli Antichi Poteri durante il gioco. Ci sono quelli che cercano di fare da mentori e altri che cercano di infliggere le loro lezioni agli altri.
 
 Gli incantesimi casuali sono generati usando la tabella e il procedimento qui sotto.

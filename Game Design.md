@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Game Design
+title: Progettazione di gioco
 nav_order: 6
 has_children: true
 ---
 
-# Designing Your Own Game
-Below is a collection of resources I found to help guide me through the process of becoming a game designer. It is not comprehensive, and is a living document. My hope is to continue to grow this resource (maybe even in a different form) so that others can benefit from the collective insight of the ttrpg/design community.
+# Progettare il proprio gioco
+Qui sotto c'è una raccolta di risorse che ho trovato per aiutarmi a guidare il processo per diventare un game designer. Non è completa, ed è un documento vivente. La mia speranza è di continuare a far crescere questa risorsa (forse anche in una forma diversa) in modo che altri possano beneficiare dell'intuizione collettiva della comunità di gdr/design.
 
-Note: Down the line my hope is to start a community based resource that focuses on pushing PDF design and different forms of accessibility/information access in regards to TTRPGs.
+Nota: In futuro la mia speranza è di iniziare una risorsa basata sulla comunità che si concentri sulla spinta del design PDF e sulle diverse forme di accessibilità/accesso alle informazioni per quanto riguarda i GDR.

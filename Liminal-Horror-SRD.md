@@ -6,218 +6,204 @@ nav_order: 7
 
 # Liminal Horror System Reference Document (v.2.25)
 
-## What is an SRD? How can is use it to create my own hack?
-SRD (or System Reference Document) is often used in game design to mean a document that contains the information that is licensed for use by others to hack/create their own materials. Since Liminal Horror is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) all of the text is open for use (other systems leave the rules open for use but restrict specific lore/content). A project down the line may be an actual Hacking Guide that talks about the different components and how to use them. Until then, you can see how I adapted the core game text from [Cairn](https://cairnrpg.com/cairn-srd/).
+## Cos'è un SRD? Come posso usarlo per creare il mio hack?
+Un SRD (o System Reference Document) è spesso usato nel design dei giochi per indicare un documento che contiene le informazioni che sono concesse in licenza d'uso da altri per hackerare/creare i propri materiali. Dal momento che Liminal Horror è sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) tutto il testo è aperto all'uso (altri sistemi lasciano le regole aperte all'uso ma limitano la storia/contenuti specifici). Un progetto futuro potrebbe essere una vera e propria Guida all'Hacking che parli dei diversi componenti e di come usarli. Fino ad allora, potete vedere come ho adattato il testo base del gioco da [Cairn](https://cairnrpg.com/cairn-srd/).
 
-## Other formats for the SRD (files updated on 7/10/21):
-- [Github Repository](https://github.com/GoblinArchives/LiminalHorror) - actively updated
+## Altri formati per l'SRD (file aggiornati al 10/07/2021):
+- [Repository Github](https://github.com/Italian-Translation-Alliance/LiminalHorror) - aggiornato attivamente
 - [Google Doc](https://docs.google.com/document/d/16Px6ov7QiRNE3KBz1sgOO4CLOqV7eowX5_YIxNMa7ik/edit?usp=sharing)
 - [SRD Markdown](https://drive.google.com/file/d/1weiNEjzW9s6xMeBUCt6SPMnZQrVE3G3K/view?usp=sharing)
 - [Affinity Publisher File](https://drive.google.com/file/d/1JKIryoyCWBKh9vfYgBf1I2RFuXUc-soy/view?usp=sharing)
 
 <p></p>
 
-## Acknowledgements
-- Yochai Gal, for the [Cairn SRD](https://cairnrpg.com/cairn-srd/), base rules, tables, and framework necessary to make this hack.
-- Chris McDowell, for Into the Odd and [BASTIONLAND.com](BASTIONLAND.com)
-- [Ben Milton](https://itch.io/profile/questingbeast) - for Knave and the Maze Rats magic system.
-- Xenio for adapting [Maze Rats magic to Cairn](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html).
+## Riconoscimenti
+- Yochai Gal, per il [Cairn SRD](https://cairnrpg.com/cairn-srd/), le regole di base, le tabelle e la struttura necessaria per realizzare questo hack.
+- Chris McDowell, per Into the Odd e [BASTIONLAND.com](https://BASTIONLAND.com)
+- [Ben Milton](https://itch.io/profile/questingbeast) - per Knave e il sistema magico Maze Rats.
+- Xenio per aver adattato [la magia di Maze Rats a Cairn](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html).
 
-**Liminal Horror** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+**Liminal Horror** è sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-**Liminal Horror** is a tabletop role playing game with one Facilitator (the facilitator) and at least two other players. Players act as investigators navigating a modern world full of terrible and unknowable things that hide in the spaces between, looking for a way in.
+**Liminal Horror** è un gioco di ruolo da tavolo con un Facilitatore e almeno altri due giocatori. I giocatori agiscono come investigatori che navigano in un mondo moderno pieno di cose terribili e inconoscibili che si nascondono negli spazi intermedi, cercando un modo per entrare.
 
-## Index
-- [Overview](#overview)
-- [Principles for Facilitators](#principles-for-Facilitators)
-- [Principles for Players](#principles-for-players)
-- [Character Creation](#character-creation)
-- [Equipment List](#equipment-list)
-- [Rules](#rules)
-- [Combat](#combat)
-- [Magic](#magic)
-- [Stress & Fallout](#stress-&-fallout)
-- [Paranatural Bestiary](#paranatural-bestiary)
+## Indice
+- [Panoramica](#panoramica)
+- [Principi per i Facilitatori](#principi-per-i-facilitatori)
+- [Principi per i Giocatori](#principi-per-i-giocatori)
+- [Creazione dei personaggi](#creazione-dei-personaggi)
+- [Equipaggiamento](#equipaggiamento)
+- [Regole](#regole)
+- [Combattimento](#combattimento)
+- [Magia](#magia)
+- [Stress & Ricaduta](#stress-&-ricaduta)
+- [Bestiario Paranaturale](#bestiario-paranaturale)
 - [Spark Tables](#spark-tables)
-- [Rules Summary](#rules-summary)
+- [Riassunto delle Regole](#riassunto-delle-regole)
 
 
-## Overview
+## Panoramica
 
-### Facilitator and Player
-Facilitators make consistent rulings during play and facilitate situations in which the players can engage with the fiction. The goal is to create interesting stories of horror and struggle against powers greater than oneself.
+### Facilitatore e Giocatori
+I Facilitatori prendono decisioni coerenti durante il gioco e facilitano situazioni in cui i giocatori possono impegnarsi con la narrativa. L'obiettivo è quello di creare interessanti storie di orrore e di lotta contro poteri più grandi di sé stessi.
 
-### Player Choice
-Facilitators provide players with as much information as possible in order to be innovative and clever in their problem solving. Risks should be clear, with multiple options for player choice present. Every choice matters.
+### Scelta per i giocatori
+I Facilitatori forniscono ai giocatori quante più informazioni possibili per essere innovativi e intelligenti nella risoluzione dei problemi. I rischi dovrebbero essere chiari, con opzioni multiple per la scelta del giocatore. Ogni scelta è importante.
 
-### No Classes
-Investigators are not limited by a predefined class. A character’s specialty begins with their background, equipment, and experiences.
+### Nessuna classe
+Gli investigatori non sono limitati da una classe predefinita. La specialità di un personaggio inizia con il suo background, il suo equipaggiamento e le sue esperienze.
 
-### Growth
-There is no leveling or mechanical experience in **Liminal Horror**. Success and failure lead to memorable stories. Building relationships, encountering void-touched relics, and stress fallout lead to character growth.
+### Crescita
+Non c'è livellamento o esperienza meccanica in **Liminal Horror**. Il successo e il fallimento portano a storie memorabili. Costruire relazioni, incontrare reliquie toccate dal vuoto e le ricadute dello stress portano alla crescita del personaggio.
 
-### Stress and Fallout
-Play deals with themes of cosmic horror. This is represented mechanically with stress and Stress Fallout. Fallout centers on how characters are changed by the Old Powers. The design intentionally avoids using mental illness and trauma as gameplay mechanics.
+### Stress e ricadute
+Il gioco tratta i temi dell'orrore cosmico. Questo è rappresentato meccanicamente con lo stress e la ricaduta da stress. La ricaduta ruota attorno al cambiamento subito dai personaggi venendo in contatto con gli Antichi Poteri. Il design evita intenzionalmente di usare la malattia mentale e il trauma come meccaniche di gioco.
 
-### The Weird
-**Liminal Horror** is designed to be set in a modern city. Characters slowly learn of the weird and dangerous things hidden in the dark. They will bend, or break, under the weight of the unknown.
+### Il Bizzarro
+**Liminal Horror** è progettato per essere ambientato in una città moderna. I personaggi imparano lentamente a conoscere le cose strane e pericolose nascoste nell'oscurità. Si piegheranno, o si romperanno, sotto il peso dell'ignoto.
 
-### The Old Powers and their Progeny
-The Old Powers are bound in the deep, far away spaces. Their progeny act as a connection to reality. Some scurry across its surface while others are trapped beneath it. Many serve knowingly while even more are oblivious to the plans they further.
+### Gli Antichi Poteri e la loro Progenie
+Gli Antichi Poteri sono legati negli spazi profondi e lontani. La loro progenie funge da collegamento con la realtà. Alcuni si muovono sulla sua superficie mentre altri sono intrappolati sotto di essa. Molti servono consapevolmente mentre altri ancora sono ignari dei piani che portano avanti.
 
-### Death
-The world is dangerous and death is always a possible consequence. It should be ever present but never random or unexpected.
+### Morte
+Il mondo è pericoloso e la morte è sempre una possibile conseguenza. Dovrebbe essere sempre presente ma mai casuale o inaspettata.
 
-Death comes for everyone, but some suffer a fate worse.
+La morte arriva per tutti, ma alcuni subiscono un destino peggiore.
 
-
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
-## Principles for Facilitators
-### Information
-- Information should never be kept behind rolls.
-- Provide information readily and freely to facilitate critical thinking and clever play.
-- Elicit questions from players and give them direct answers.
-- The weird and their mysteries should be layered, leading players ever downward into the unknown.
+## Principi per i Facilitatori
 
-### Secrets
-- Leverage the themes of dread, forbidden knowledge, and fear of the unknown.
-- Provide information on the physical and tangible reality to players but keep the true nature of things beyond reach.
-- Slowly give investigators opportunities to pull at threads, drawing them deeper into the weird.
-- The scale of what the PCs face is incomprehensible. True understanding is unattainable.
+### Informazioni
+- Le informazioni non dovrebbero mai essere nascoste dietro ai tiri.
+- Fornire informazioni prontamente e liberamente per facilitare il pensiero critico e il gioco intelligente.
+- Esplicitare le domande da parte dei giocatori e dare loro risposte dirette.
+- Le stranezze e i loro misteri dovrebbero essere stratificati, conducendo i giocatori sempre più giù verso l'ignoto.
 
+### Segreti.
+- Fate leva sui temi del terrore, della conoscenza proibita e della paura dell'ignoto.
+- Fornite informazioni sulla realtà fisica e tangibile ai giocatori, ma mantenete la vera natura delle cose al di là della loro portata.
+- Date lentamente agli investigatori l'opportunità di tirare i fili, attirandoli più a fondo nelle stranezze.
+- La portata di ciò che i PG affrontano è incomprensibile. La vera comprensione è irraggiungibile.
 
+### Preparazione
+- Rendete il mondo vivo, permettetegli di cambiare e crescere a causa delle azioni dei vostri giocatori.
+- Siate flessibili nella vostra preparazione. Create situazioni e possibilità. La trama e la storia non dovrebbero essere predefinite.
+- Date ai PNG e alle fazioni motivazioni, difetti e sproni. Fate in modo che i PNG reagiscano in coerenza ai loro principi, dentro e fuori dallo schermo. I PNG dovrebbero sempre avere una spinta a sopravvivere.
+- Giocate per scoprire cosa succede.
 
-### Preparation
-- Make the world alive, allow it to change and grow because of your players’ actions.
-- Be flexible in your preparation. Create situations and possibilities. Plot and story should not be predefined.
-- Give NPCs and factions motivations, flaws and drives. Have NPCs react accordingly to their principles, on and off screen. NPCs should always have a drive to survive.
-- Play to find out what happens.
+### Difficoltà
+- Il realismo e il posizionamento narrativo sono un buon punto di partenza per impostare la difficoltà.
+- Le scelte dovrebbero avere conseguenze e ogni fallimento dovrebbe essere interessante.
+- I tiri salvezza coprono vari scenari di incertezza e rischio. Se non c'è nessuno dei due, non chiedete un tiro.
+- Premiate l'intelligenza e l'ingegno.
 
+### Pericolo
+- Il rischio è grande per i danni duraturi, le ricadute dello stress e il pericolo schiacciante di incontrare le Antiche Potenze o la loro progenie.
+- Presentate chiaramente ai giocatori il potenziale di pericolo e dai loro l'opportunità di reagire.
+- Aumentando la quantità di stress aumenterà la velocità con cui gli investigatori vengono avvolti dalla corruzione delle Antiche Potenze.
+- I personaggi muoiono.
 
-### Difficulty
-- Realism and fictional positioning are a good starting place for setting difficulty.
-- Choices should have consequences and all failure should be interesting.
-- Saves cover various scenarios of uncertainty and risk. If there is neither, do not call for a roll.
-- Reward cleverness and ingenuity.
+### Scelte
+- Offrite scelte difficili.
+- Tutte le situazioni dovrebbero avere esiti multipli.
+- Chiarite l'intento del giocatore prima che i dadi vengano lanciati per assicurarvi che i giocatori abbiano tutte le informazioni che sarebbero ovvie per il loro personaggio.
+- L'influenza degli Antichi Poteri piega e spezza la realtà, rendendo oscura la piena portata di alcuni esiti.
+- Ogni azione dovrebbe lasciare un impatto sul mondo in qualche modo.
 
+### Fallimento
+- Il fallimento dovrebbe spingere la storia in avanti.
+- Promuovete un tavolo dove successo e fallimento sono ugualmente eccitanti.
+- È incoraggiato sollecitare complicazioni o colpi di scena da parte dei giocatori.
 
-### Danger
-- The risk is great for lasting harm, fallout from stress and overwhelming danger of encountering the Old Powers or their progeny.
-- Present the potential of danger clearly for players and give them the opportunity to react.
-- Increasing the amount of stress will increase the rate investigators are enveloped by the corruption of the Old Powers.
-- Characters die.
+### Dado del Fato
+- A volte la casualità è necessaria. Tira 1d6 per consultare il Dado del Fato
+- 6: risultato positivo/ 4-5: risultato misto/ 1-3: risultato negativo
 
-
-### Choice
-- Offer tough choices.
-- All situations should have multiple outcomes.
-- Clarify player intent before dice are rolled to make sure players have all information that would be obvious to their character.
-- The influence of the Old Powers bends and breaks reality, making the full scope of some outcomes obscured.
-- Every action should leave an impact on the world in some way.
-
-
-
-### Failure
-- Failure should push the story forward.
-- Foster a table where success and failure are equally exciting.
-- It is encouraged to elicit complications or twists from players.
-
-
-
-### Die of Fate
-- Sometimes randomness is required. Roll 1d6 to consult the die of fate
-- 6: Good result/ 4-5: Mixed result/ 1-3: Bad result
-
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
-## Principles for Players
-### Agency
-- The numbers on your character sheet act as tools to mechanically engage with the game. They do not define your character.
-- Use how your character has grown to inform your play.
-- Embrace the weird and unknown.
+## Principi per i Giocatori
+### Agire
+- I numeri sulla scheda del tuo personaggio sono strumenti per interagire meccanicamente nel gioco. Non definiscono il vostro personaggio.
+- Usate le origine del vostro personaggio per ispirare il vostro gioco.
+- Abbracciate il bizzarro e l'ignoto.
+
+### Lavoro di squadra
+- Lavorate per sostenere gli altri al tavolo.
+- Incoraggiate l'interazione da parte degli altri giocatori.
+- I personaggi non devono sempre essere allineati, ma i giocatori dovrebbero mirare allo stesso obiettivo di giocare storie memorabili di orrore e interazioni divertenti con gli amici.
+
+### Parlare
+- I PNG hanno pulsioni e difetti. Interagite con loro come fareste con una persona reale.
+- Costruite relazioni, impegnatevi con i rivali e investite nei PNG.
+- Informazioni e risultati positivi possono spesso essere ottenuti attraverso il dialogo. Detto questo, a volte la comunione di un cultista richiede un'offerta di sangue e ossa.
+
+### Cautela
+- Combattere è rischioso e le conseguenze della violenza sono di lunga durata.
+- Una mente distrutta è tanto debilitante quanto un corpo rotto.
+- Ottenete qualsiasi vantaggio possibile. La preparazione può evitare una morte certa.
+- La magia è caotica e brandire l'inconoscibile può avere conseguenze disastrose.
+- La vittoria arriva in molte forme, e spesso il successo viene da una ritirata.
+
+### Pianificazione
+- Fate domande.
+- Non esiste un attributo di percezione o intelligenza. Il modo in cui vi impegnate con il mondo dipende da come usate le informazioni che vi vengono fornite.
+- Esplorazione, acume e verifica dei fatti sono necessari per la sopravvivenza.
 
 
-### Teamwork
-- Work to support others at the table.
-- Elicit interaction from other players.
-- Characters don’t always have to be aligned, but players should be aiming toward the same goal of memorable stories of horror and fun interactions with friends.
+### Ambizione
+- Scoprite le spinte e gli obiettivi per voi come giocatori, per il vostro personaggio e per la squadra. Usateli per ispirare il gioco.
+- Provate e fallite. Una storia coinvolgente è infinitamente più interessante e memorabile dei semplici successi.
+- Sono le complicazioni e le azioni risultanti che ricordiamo in seguito.
+- I personaggi muoiono, ma la storia continua.
+- Giocate per scoprire cosa succede.
 
-
-### Talking
-- NPCs have drives and flaws. Interact with them as you would a real person.
-- Build relationships, engage with rivals, and invest in the NPCs.
-- Information and positive outcomes can often be achieved through dialogue. That being said, sometimes a cultist’s communion requires an offering of blood and bone.
-
-
-### Caution
-- Fighting is risky and the consequences of violence are long lasting.
-- A shattered mind is just as debilitating as a broken body.
-- Gain any advantage you can. Preparation can stave off certain doom.
-- Magic is chaotic and wielding the unknowable can have dire consequences.
-- Victory comes in many forms, and often it is a successful retreat.
-
-
-### Planning
-- Ask questions.
-- There is no perception or intelligence attribute. How you engage with the world hinges on how you use the information provided.
-- Reconnaissance, subtlety, and fact-finding are necessary for survival.
-
-
-### Ambition
-- Discover the drives and goals for you as a player, your character, and the team. Use those to inform play.
-- Try and fail forward. An engaging story is infinitely more interesting and memorable than simple successes.
-- It is the complications and resulting actions that we remember afterward.
-- Characters die, but the story will continue.
-- Play to find out what happens.
-
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
-## Character Creation
+## Creazione dei Personaggi
 
-#### 1. Ability Scores
-Player Characters (PCs) have three ability scores:
+#### 1. Punteggi di Abilità
+I Personaggi Giocanti (PG) hanno tre punteggi di abilità:
 
-
-- **Strength (STR)**: Physicality, brawn & toughness.
-- **Dexterity (DEX)**: Speed, sneaking & precision.
-- **Control (CTRL)**: Willpower, charm & weird
-
-
-When creating a Player Character (PC), the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+- Forza (FOR)**: Fisicità, forza e durezza.
+- Destrezza (DES)**: Velocità, furtività e precisione.
+- Controllo (CTRL)**: Forza di volontà, fascino e stranezza.
 
 
-#### 2. Hit Protection
-Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indicate a character's health but reflects their ability to avoid damage (both physical damage and stress). HP can be recovered after a few moments rest (see [Healing](#healing)). Both **Damage** and **Stress** subtract first from your HP. Some things do Damage, some things do Stress, and some do both.
+Quando si crea un Personaggio Giocante (PG), il giocatore deve tirare 3d6 per ogni punteggio di abilità del suo personaggio, in ordine. È possibile poi scambiare due risultati qualsiasi.
 
-**(+ _ Armor)** is  a tag that  items have to indicate that they provide protection from damage and reduce it before it is applied to HP.
 
-**(+_Stability)** is a tag that  special items have to indicate that they provide protection from stress and reduce it before it is applied to HP.  Any excess damage or stress (past 0 HP) is applied to the appropriate attribute.
+#### 2. Protezione dai Colpi
+Tirate 1d6 per determinare la Protezione dai Colpi (PC) iniziale del tuo PG. La PC non indica la salute di un personaggio, ma riflette la sua capacità di evitare i danni (sia i danni fisici che lo stress). La PC può essere recuperata dopo qualche istante di riposo (vedi [Cure](#cure)). Sia il **Danno** che lo **Stress** sottraggono per primi la vostra PC. Alcune cose provocano Danno, alcune cose provocano Stress, e alcune provocano entrambi.
 
-If stress would take a PC's HP exactly to 0, the player must roll on the [Stress Fallout](#stress-fallout-tables) table.
+**(+ _ Armatura)** è un'etichetta che gli oggetti hanno per indicare che forniscono protezione dal danno e lo riducono prima che venga applicato alla PC.
 
-#### 3. Investigator Details
-- Choose a name for your character,
-- Roll a [background](#background). This informs their knowledge and potential skills.
-- Choose a style of clothing or look for your character.
-- Answer the [Getting To Know Your Character](#getting-to-know-your-character).
-- Determine the rest of your character’s [traits](#character-traits-roll-d10-or-choose).
-- Choose their age or roll 2d20+16.
+**(+_Stabilità)** è un'etichetta che gli oggetti speciali hanno per indicare che forniscono protezione dallo stress e lo riducono prima che sia applicato alla PC.  Qualsiasi danno o stress in eccesso (oltre 0 PC) viene applicato all'attributo appropriato.
 
-#### 4. Starting Gear
-All investigators start with an Investigator Bundle (a phone, cash, notebook & pen). Players then roll on the [Starting Gear](#starting-gear) tables to determine equipment. If indicated, add Magic to your character sheet and refer to the [Magic](#magic)
+Se lo stress porterebbe la PC di un PG esattamente a 0, il giocatore deve tirare sulla tabella [Ricaduta da Stress](#tabelle-ricaduta-stress).
 
-Characters have a total of 10 inventory slots: a backpack or bag (six slots), hands and upper body (four slots). Most items take up one slot, with smaller items that can be bundled together. Bulky items take two slots and are awkward or require two hands.
+#### 3. Dettagli dell'investigatore
+- Scegliete un nome per il vostro personaggio,
+- Tirate un [background](#background). Questo definisce le loro conoscenze e le loro potenziali abilità.
+- Scegliete uno stile di abbigliamento o un aspetto per il vostro personaggio.
+- Rispondete al [Conoscere il Vostro Personaggio](#conoscere-il-vostro-personaggio).
+- Determinate il resto dei [tratti] del vostro personaggio (#tratti-del-personaggio-tirate-un-d10-o-scegliete).
+- Scegliete la loro età o tirate 2d20+16.
 
-The [Equipment List](#equipment-list) has a more detailed overview of weapons and investigative gear. As a table, decide on what common household tools PCs have access to in addition to their starting gear.
+#### 4. Equipaggiamento iniziale
+Tutti gli investigatori iniziano con un Pacchetto Investigatore (un telefono, soldi, quaderno e penna). I giocatori tirano poi sulle tabelle [Equipaggiamento iniziale](#equipaggiamento-iniziale) per determinare l'equipaggiamento. Se indicato, aggiungete la Magia alla scheda del vostro personaggio e fate riferimento alla tabella [Magia](#magia)
 
-#### 5. The Party
-The final step is to establish a party set up using the [Party Questions](#party-questions) section. This provides the initial context for investigators and their journey into the unknown.
+I personaggi hanno un totale di 10 spazi di inventario: uno zaino o una borsa (sei spazi), le mani e la parte superiore del corpo (quattro spazi). La maggior parte degli oggetti occupa uno spazio, con oggetti più piccoli che possono essere raggruppati. Gli oggetti ingombranti occupano due spazi e sono scomodi o richiedono due mani.
 
-[back to index](#index)
+L'[Equipaggiamento](#equipaggiamento) ha una panoramica più dettagliata delle armi e dell'equipaggiamento investigativo. Come tavolo, decidete a quali attrezzi domestici comuni hanno accesso i PG in aggiunta al loro equipaggiamento iniziale.
+
+#### 5. Il gruppo
+Il passo finale è quello di stabilire l'organizzazione del gruppo usando la sezione [Domande sul gruppo](#domande-sul-gruppo). Questo fornisce il contesto iniziale per gli investigatori e il loro viaggio nell'ignoto.
+
+[torna all'indice](#indice)
 <p></p>
 
 ## Names & Background
@@ -245,541 +231,565 @@ Choose a style of clothing/look. A gold star if you find visual references to sh
 
 <p></p>
 
-### Getting To Know Your Character
+## Nomi e background
 
+### Nomi:
+Scegliete un nome che meglio si adatta al personaggio che volete interpretare (spesso lo faccio alla fine del processo di generazione del personaggio.
 
-#### The Abyss Stares Back
-What was your first encounter with the unknown? Roll or choose:
+### Abbigliamento
+Scegliete uno stile di abbigliamento/look. Una stella d'oro se trovi dei riferimenti visivi da condividere con il gruppo.
+
+### Background
 
 ||||
 |------|-----------|-----------|-----------|
-|1           |Lost a loved one under mysterious circumstances. |6          |The evidence online is too much to be ignored.     |
-|2           |Witnessed something in the darkness. |7          |You survived an attack you cannot explain.     |
-|3           |Something is lurking in your dreams. |8          |Someone close to you is pulling you in, or pushing you away.     |
-|4           |Cult activity (perhaps they recruited someone significant). |9          |You may be a card carrying member in a secret society.     |
-|5           |You read something not meant for mortal minds. |10          |You haven’t yet, that’s what session 1 is for!     |
+|1 |Giornalista |11 |Ereditiero |
+|2 |Commesso di negozio|12 |Autore |
+|3 |Investigatore privato |13 |Professore |
+|4 |Prete (ex?) |14 |Internet Dipendente |
+|5 |Medico | 15 |Avvocato |
+|6 |Archivista | 16 |Ex poliziotto |
+|7 |Artista | 17 |Mestiere|
+|8 |Atleta | 18 |Servizi Sociali |
+|9 |Criminale |19 |Finanza |
+|10 |Senzatetto |20 |Accoglienza |
 
-#### Ideology and Beliefs
-What is your character’s initial ideology/beliefs? What lens do they use to interpret the world and guide them toward action? Create your own or use the table below:
+<p></p>
 
-|   |                                                                                |    |                                                        |
+### Conoscere il vostro personaggio
+
+
+#### L'abisso ti fissa
+Qual è stato il vostro primo incontro con l'ignoto? Tirate o scegliete:
+
+||||
+|------|-----------|-----------|-----------|
+|1 |Hai perso una persona cara in circostanze misteriose. |6 |Le prove online sono troppe per essere ignorate.     |
+|2 |Sei stato testimone di qualcosa nell'oscurità. |7 |Sei sopravvissuto ad un attacco che non sai spiegare.     |
+|3 |Qualcosa è in agguato nei tuoi sogni. |8 |Qualcuno vicino a te ti attira o ti spinge via.     |
+|4 |Attività della setta (forse hanno reclutato qualcuno di importante). |9 |Potresti essere un membro di una società segreta.     |
+|5 |Hai letto qualcosa che non è destinato alle menti mortali. |10 |Non l'hai ancora fatto, è a questo che serve la sessione 1!     |
+
+#### Ideologia e credenze
+Qual è l'ideologia/le convinzioni iniziali del vostro personaggio? Quale lente usano per interpretare il mondo e per guidarli verso l'azione? Create usate la tabella qui sotto o create la vostra:
+
+| | | | |
 |---|--------------------------------------------------------------------------------|----|--------------------------------------------------------|
-| 1 | Everything has a rational explanation rooted in science.                       | 6  | Individuals can make a difference.                     |
-| 2 | You ascribe to a specific political ideology.                                  | 7  | A specific religion guides you.                        |
-| 3 | Morality is black and white.                                                   | 8  | You believe in fate and it directly impacts your life. |
-| 4 | Belief in higher powers. Astrology, spirituality, etc.                         | 9  | Free will is the only truth.                           |
-| 5 | There are deep truths that others are not aware of. The answers are out there. | 10 | You believe in the power of community.                 |
+| 1 | Tutto ha una spiegazione razionale radicata nella scienza.                       | 6 | Gli individui possono fare la differenza.                     |
+| 2 | Ti ascrivi ad una specifica ideologia politica.                                  | 7 | Una specifica religione ti guida.                        |
+| 3 | La moralità è bianca o nera.                                                   | 8 | Credi nel destino e che abbia un impatto diretto sulla tua vita. |
+| 4 | Credi in poteri superiori. Astrologia, spiritualità, ecc.                         | 9 | Il libero arbitrio è l'unica verità.                           |
+| 5 | Ci sono verità profonde di cui gli altri non sono consapevoli. Le risposte sono là fuori. | 10 | Credi nel potere della comunità.                 |
 
 
-#### Connections
-- List one significant person to the investigator. What is their relationship? Give them a name and brief description.
-- List one contact the investigator has. This could be connected to their background. What is the contact’s area of expertise and what is their relationship to the investigator?
+#### Connessioni
+- Elencate una persona significativa per l'investigatore. Qual è la loro relazione? Indicate un nome e una breve descrizione.
+- Elencate un contatto che l'investigatore ha. Questo potrebbe essere collegato al loro background. Qual è l'area di competenza del contatto e qual è il suo rapporto con l'investigatore?
 
-Potential Connections
+Potenziali connessioni
 
-|   |                           |    |                  |
+| | | | |
 |---|---------------------------|----|------------------|
-| 1 | Family member             | 6  | Online associate |
-| 2 | Lover (current or former) | 7  | Hero             |
-| 3 | Friend                    | 8  | Rival            |
-| 4 | Mentor                    | 9  | A Specialist     |
-| 5 | Protege                   | 10 | NPC              |
+| 1 | Membro della famiglia | 6 | Collaboratore online |
+| 2 | Amante (attuale o ex) | 7 | Eroe |
+| 3 | Amico | 8 | Rivale |
+| 4 | Mentore | 9 | Uno specialista |
+| 5 | Protetto | 10 | PNG |
 
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
-## Character Traits (Roll d10 or choose)
+## Tratti del personaggio (Tirate un d10 o scegliete)
 
-#### Physique
+#### Fisico
 
-|  |          |      |            |
+| | | | |
 | -------- | -------- | ---- | ---------- |
-| 1        | Athletic | 6    | Scrawny    |
-| 2        | Brawny   | 7    | Short      |
-| 3        | Curvy   | 8    | Statuesque |
-| 4        | Lanky    | 9    | Stout      |
-| 5        | Rugged   | 10   | Towering   |
+| 1 | Atletico | 6 | Magro |
+| 2 | Corpulento | 7 | Basso |
+| 3 | Curvy | 8 | Statuario |
+| 4 | Allampanato | 9 | Robusto |
+| 5 | Robusto | 10 | Imponente |
 
-#### Face
+#### Faccia
 
-|  |           |      |          |
+| | | | |
 | ---- | --------- | ---- | -------- |
-| 1    | Bony      | 6    | Perfect  |
-| 2    | Broken    | 7    | Round |
-| 3    | Chiseled  | 8    | Sharp    |
-| 4    | Elongated | 9    | Square   |
-| 5    | Dimpled      | 10   | Sunken   |
+| 1 | Ossuto | 6 | Perfetto |
+| 2 | Rotto | 7 | Rotondo |
+| 3 | Scolpito | 8 | Affilato |
+| 4 | Allungato | 9 | Quadrato |
+| 5 | Smussato | 10 | Affondato |
 
-#### Speech
+#### Parlata
 
-|  |         |      |            |
+| | | | |
 | ------ | ------- | ---- | ---------- |
-| 1      | Blunt   | 6    | Gravelly   |
-| 2      | Booming | 7    | Precise    |
-| 3      | Cryptic | 8    | Squeaky    |
-| 4      | Droning | 9    | Choppy     |
-| 5      | Formal  | 10   | Whispery   |
+| 1 | Schietta | 6 | Greve |
+| 2 | Tonante | 7 | Precisa |
+| 3 | Misteriosa | 8 | Stridula |
+| 4 | Fragorosa | 9 | Balbettante |
+| 5 | Formale | 10 | Bisbigliante |
 
-#### Clothing
+#### Abbigliamento
 
-|  |         |      |        |
+| | | | |
 | -------- | ------- | ---- | ------ |
-| 1        | Antique | 6    | Frayed |
-| 2        | Bloody  | 7    | Frumpy |
-| 3        | Elegant | 8    | Livery |
-| 4        | Filthy  | 9    | Rancid |
-| 5        | Foreign | 10   | Soiled |
+| 1 | Antico | 6 | Logoro |
+| 2 | Sanguinolento | 7 | Sgargiante |
+| 3 | Elegante | 8 | Livrea |
+| 4 | Sporco | 9 | Fetido |
+| 5 | Esotico | 10 | Sudicio |
 
-#### Virtue (optional)
+#### Virtù (opzionale)
 
-|  |             |      |           |
+| | | | |
 | ------ | ----------- | ---- | --------- |
-| 1      | Ambitious   | 6    | Honorable |
-| 2      | Cautious    | 7    | Humble    |
-| 3      | Courageous  | 8    | Merciful  |
-| 4      | Disciplined | 9    | Serene    |
-| 5      | Gregarious  | 10   | Tolerant  |
+| 1 | Ambizioso | 6 | Onorevole |
+| 2 | Cauto | 7 | Umile |
+| 3 | Coraggioso | 8 | Compassionevole |
+| 4 | Disciplinato | 9 | Sereno |
+| 5 | Socievole | 10 | Tollerante |
 
-#### Flaw (optional)
+#### Difetto (opzionale)
 
-|  |            |      |          |
+| | | | |
 | ---- | ---------- | ---- | -------- |
-| 1    | Aggressive | 6    | Lazy     |
-| 2    | Bitter     | 7    | Nervous  |
-| 3    | Craven     | 8    | Rude     |
-| 4    | Deceitful  | 9    | Vain     |
-| 5    | Greedy     | 10   | Vengeful |
+| 1 | Aggressivo | 6 | Pigro |
+| 2 | Scorbutico | 7 | Nervoso |
+| 3 | Vile | 8 | Rude |
+| 4 | Bugiardo | 9 | Vanitoso |
+| 5 | Avido | 10 | Vendicativo |
 
-#### Misfortunes (optional)
+#### Disgrazie (opzionale)
 
-|  |             |      |             |
+| | | | |
 | ----------- | ----------- | ---- | ----------- |
-| 1           | Abandoned   | 6    | Defrauded   |
-| 2           | Addicted    | 7    | Demoted     |
-| 3           | Blackmailed | 8    | Discredited |
-| 4           | Condemned   | 9    | Disowned    |
-| 5           | Cursed      | 10   | Exiled      |
+| 1 | Abbandonato | 6 | Truffato |
+| 2 | Assuefatto | 7 | Declassato |
+| 3 | Ricattato | 8 | Screditato |
+| 4 | Condannato | 9 | Ripudiato |
+| 5 | Maledetto | 10 | Esiliato |
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
-## Starting Gear
-All PCs begin with an **Investigator Bundle**:
-- Phone (roll 2d4): 1-4 is a flip phone; 5-8 is a smart phone
-- Starting Cash ($3d10 x 3d10 )
-- Notebook and pen
+## Equipaggiamento iniziale
+Tutti i PG iniziano con un **Pacchetto Investigatore**:
+- Telefono (tiro 2d4): 1-4 è un telefono flip; 5-8 è uno smart phone
+- Denaro iniziale ($3d10 x 3d10)
+- Taccuino e penna
 
-#### Weapons (d20)
+#### Armi (d20)
 
-|                |                  |                          |                                |                                |
+| | | | | |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |:----------------------------: |
-|          1          |       2-7       |          8-17           |               18-19               |               20               |
-| Armored Vest | Improvised or Crude Weapon | Dagger, Baton, Taser/Mace or pistol | Rifle or Shotgun | Magic (see Magic) |
+| 1 | 2-7 | 8-17 | 18-19 | 20 |
+| Giubbotto corazzato | Arma improvvisata o grezza | Pugnale, Bastone, Taser/Gas lacrimogeno o pistola | Fucile o Fucile a pompa | Magia (vedi Magia) |
 
 
-#### Investigative Gear
+#### Equipaggiamento investigativo
 
-|      |                        |      |                |      |             |      |             |
+| | | | | | | | |
 | ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Night Vision Googles           | 6    | Handcuffs       | 11   | Flashbang    | 16   | Spray paint |
-| 2    | Zip Ties              | 7    | Grappling Hook & rope| 12   | Directional Microphone        | 17   | Laptop & Printer |
-| 3    | Binoculars | 8    | Body bag     | 13   | Glass cutting tools | 18   | Kevlar rope    |
-| 4    | Chain & Lock          | 9    | Tactical Flashlight     | 14   | A box with no seam      | 19   | Good Camera   |
-| 5    | Ancient Tome           | 10   | An ivory necklace (+1 Stability)      | 15   | Lockpicks   | 20   | Bolt Cutters   |
+| 1 | Occhiali per visione notturna | 6 | Manette | 11 | Flashbang | 16 | Vernice spray |
+| 2 | Fascette | 7 | Rampino e corda | 12 | Microfono direzionale | 17 | Laptop e stampante |
+| 3 | Binocolo | 8 | Sacco per cadavere | 13 | Strumenti per tagliare il vetro | 18 | Corda in Kevlar |
+| 4 | Catena e lucchetto | 9 | Torcia tattica | 14 | Una scatola senza cuciture | 19 | Buona macchina fotografica |
+| 5 | Tomo Antico | 10 | Una collana d'avorio (+1 Stabilità) | 15 | Grimaldelli | 20 | Tagliabulloni |
 
 #### Memento (d10)
 
-|   |   |   |   |
+| | | | |
 |---|---|---|---|
-| 1  | A note from a lost love   | 6  |  A letter in a language you cannot identify |
-| 2  | An item from your background  |  7 | A book filled with names (in another's handwriting)  |
-| 3  | A business card with a number written on the back  | 8  | A voice recording  |
-| 4  |  A piece of jewelry carved from bone | 9  | A heavily redacted file  |
-| 5 | A will   |  10 | A small, old figurine   |
+| 1 | Un biglietto di un amore perduto | 6 | Una lettera in una lingua che non puoi identificare |
+| 2 | Un oggetto del tuo background | 7 | Un libro pieno di nomi (nella calligrafia di un altro) |
+| 3 | Un biglietto da visita con un numero scritto sul retro | 8 | Una registrazione vocale |
+| 4 | Un gioiello intagliato nell'osso | 9 | Un file pesantemente modificato |
+| 5 | Un testamento | 10 | Una piccola, vecchia statuetta |
 
-#### Bonus Item
+#### Oggetto bonus
 
-|   |   |   |   |
+| | | | |
 |:-:|:-:|:-:|:-:|
-|  1-5 | 6-13   | 14-19  |   20 |
-| Memento  |  Investigative Gear | Weapon  |  Magic (see magic section) |
+| 1-5 | 6-13 | 14-19 | 20 |
+| Memento | Attrezzi investigativi | Arma | Magia (vedi sezione magia) |
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
-## Party Questions
+## Domande sul Gruppo
 
-#### The Party
-Why has the party come together? Use the answers from the Get To Know Your Character section to inform your decision. As a table create your own or use the table below (d6):
+#### Il gruppo
+Perché il gruppo si è riunito? Usa le risposte della sezione Conosci il tuo personaggio per ispirare la vostra decisione. Usate la tabella qui sotto o create la vostra (d6):
 
-|   |                                                                                                                         |
+| | |
 |---|-------------------------------------------------------------------------------------------------------------------------|
-| 1 | The investigators meet in a diner. They may or may not know each other. Fluorescent lights hum over checkered linoleum. |
-| 2 | A simple “wrong place, wrong time.” The resulting event binds the investigators together.                               |
-| 3 | United through self guided research. Online paranatural forum? Club? Support group?                                     |
-| 4 | A mysterious patron that has brought the investigators together.                                                        |
-| 5 | Members of the community respond to a series of mysterious events.                                                      |
-| 6 | Investigators (either professional or amateur) that are looking into an event.                                          |
+| 1 | Gli investigatori si incontrano in una tavola calda. Possono conoscersi o meno. Le luci fluorescenti ronzano sul linoleum a scacchi. |
+| 2 | Un semplice "posto sbagliato, momento sbagliato". L'evento che ne deriva lega gli investigatori tra loro.                               |
+| 3 | Uniti attraverso una ricerca auto-guidata. Forum paranormale online? Club? Gruppo di sostegno?                                     |
+| 4 | Un misterioso patrono che ha riunito gli investigatori.                                                        |
+| 5 | I membri della comunità rispondono a una serie di eventi misteriosi.                                                      |
+| 6 | Investigatori (professionisti o dilettanti) che stanno indagando su un evento.                                          |
 
-#### Character Bonds (optional)
-Have each player state a relationship to another character at the table. This should be informed by the background, The Abyss Stares Back, and The Party section of character creation. Some examples are:
+#### Legami tra personaggi (opzionale)
+Chiedete ad ogni giocatore di dichiarare una relazione con un altro personaggio al tavolo. Questo dovrebbe essere ispirato dal background, da L'Abisso ti fissa e dalla sezione Il Gruppo della creazione del personaggio. Alcuni esempi sono:
 
-|   |                                                              |
+| | |
 |---|--------------------------------------------------------------|
-| 1 | _____ is hiding something from me.                           |
-| 2 | _____ is my ex.                                              |
-| 3 | _____ saved me from whatever it was that tried to attack me. |
-| 4 | _____ is my drinking buddy                                   |
-| 5 | _____ is my co-worker at _____                               |
-| 6 | _____ is my neighbor.                                        |
+| 1 | _____ mi sta nascondendo qualcosa.                           |
+| 2 | _____ è il mio ex.                                              |
+| 3 | _____ mi ha salvato da qualsiasi cosa abbia cercato di attaccarmi. |
+| 4 | _____ è il mio compagno di bevute |
+| 5 | _____ è il mio collega di _____ |
+| 6 | _____ è il mio vicino di casa.                                        |
 
 
-#### Vehicles
-Determine as a group what types of vehicle or transportation the party has access to. The party may have access to more than one vehicle. Car chases are an essential part of solving a mystery.
-Vehicles have HP. When it is reduced to 0HP it is totaled. Totaling a vehicle can cause damage to those in and around the vehicle.
+#### Veicoli
+Determinate come gruppo a quali tipi di veicoli o mezzi di trasporto ha accesso il gruppo. Il gruppo può avere accesso a più di un veicolo. Gli inseguimenti in auto sono una parte essenziale della soluzione di un mistero. I veicoli hanno PC. Quando è ridotto a 0 PC è distrutto. Distruggere un veicolo può causare danni a quelli dentro e intorno al veicolo.
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
-## Equipment List
+## Equipaggiamento
 
-#### Protection
+#### Protezione
 
-||     |
+|| |
 |--------------------------------------------------------------|-----|
-|Armored Vest (+1 Armor)   |$1000   |
-|Amulet from the old country (+1 Stability)   |$1000   |
-|Gas Mask (protects against airborne toxins)    |$100   |
-|Mask (protects your identity)   |$20   |
+|Gilet corazzato (+1 Armatura) |$1000 |
+|Amuleto del vecchio paese (+1 Stabilità) |$1000 |
+| Maschera antigas (protegge dalle tossine presenti nell'aria) |$100 |
+|Maschera (protegge la tua identità) |$20 |
 
 
-#### Weapons
+#### Armi
 
-| |     |
+| | |
 |--------------------------------------------------------------|-----|
-|**Unarmed attack** (d4 damage)           |Free    |
-|**Improvised or Crude Weaponry** (d6 damage, bulky)             |$20   |
-|**Hand Weapons:** Dagger, Baton, Axe (d6 damage)            |$50   |
-|**Taser/Mace Combo** (DEX save or momentarily stunned)    |$50   |
-|**Pistol** (d6 damage)                                      |$200    |
-|**Sawed off Shotgun** (d6 blast, bulky)                                   |$500  |
-|**Rifle** (d8 damage, bulky)                                  |$750   |
-|**Shotgun** (d8 damage, bulky)  |$750   |
-|**Assault rifle** (d8 or d6 blast damage, bulky)                                  |$1250    |
-|**Combat Shotgun** (d6 damage blast with d8 area, bulky)                                  |$1250   |
-|**Sniper** (d8 damage or d12 damage when hidden, bulky)                                 |$1750   |
+|**Attacco disarmato** (d4 danni) |Libero |
+|**Armi improvvisate o grezze** (d6 danni, ingombranti) |$20 |
+|**Armi a mano:** Pugnale, Bastone, Ascia (d6 danni) |$50 |
+|**Taser/Gas lacrimogeno Combo** (tiro salvezza DEX o momentaneamente stordito) |$50 |
+|**Pistola** (d6 danni) |$200 |
+|**Doppietta a canne mozze** (d6 esplosione, ingombrante) |$500 |
+|**Fucile** (d8 danno, ingombrante) |$750 |
+|**Doppietta** (d8 danno, ingombrante) |$750 |
+|**Fucile d'assalto** (d8 o d6 danno da esplosione, ingombrante) |$1250 |
+|**Fucile da combattimento** (d6 danno da esplosione con d8 area, ingombrante) |$1250 |
+|**Fucile di precisione** (d8 danno o d12 danno se nascosto, ingombrante) |$1750 |
 
-#### Explosives
+#### Esplosivi
 
-| |     |
+| | |
 |--------------------------------------------------------------|-----|
-|**Molotov Cocktail** (sets area alight, causing d6 continued damage until put out)           |$50    |
-|**Flashbang** (blast, temporarily blinds those who fail a DEX save)             |$100   |
-|**Grenade** (d8 damage, blast)            |$100   |
-|**IED** (d6 damage, blast with d4 continued damage per round)    |$200   |
+|**Molotov** (incendia l'area, causando d6 danni continui fino allo spegnimento) |$50 |
+|**Flashbang** (esplosione, acceca temporaneamente chi fallisce un tiro salvezza DEX) |$100 |
+|**Granata** (d8 danni, esplosione) |$100 |
+|**IED** (d6 danni, esplosione con d4 danni continuati per round) |$200 |
 
-#### Modern Day Potions
+#### Pozioni moderne
 
-| |     |
+| | |
 |--------------------------------------------------------------|-----|
-|**Tranquilizers** (STR save or pass out)          |$50    |
-|**Drugs** (high based on drug, potential CTRL or STR save to grapple with negative effects)            |$50   |
-|**Poison** (lose d20 STR if passes through a blood-tissue barrier)           |$50   |
-|**Antitoxin** (stops toxins - unpleasant)    |$50   |
-|Acid (d4 damage until removed, caustic liquid that burns through materials                                    |$100    |
-|**Stims** (immediate recovery from critical damage, +1d4 temporary DEX)                                   |$100 |
+|**Tranquillizzanti** (Salvate con FOR o svienite) |$50 |
+|**Droghe** (sballo da droga, potenziale tiro salvezza CTRL o FOR per affrontare gli effetti negativi) |$50 |
+|**Avvelenamento** (perdete d20 FOR se passa attraverso una barriera sangue-tessuto) |$50 |
+|**Antitossina** (ferma le tossine - sgradevole) |$50 |
+|**Acido** (d4 danni fino alla rimozione, liquido caustico che brucia attraverso i materiali |$100 |
+|**Stimolanti** (recupero immediato dai danni critici, +1d4 di DES temporaneo) |$100 |
 
 
-#### Gear - does not include average tools found in most modern homes
+#### Attrezzi - non include gli strumenti medi che si trovano nella maggior parte delle case moderne
 
-|                       |          |             |    |
+| | | | |
 |-------------------------------------|--------------|------------------------|--------|
-| Alarm Bypass                        | $500         | Forgery Kit            | $150   |
-| Bear Trap                           | $100         | Glass Cutting Tools    | $150   |
-| Binoculars                          | $100         | Grease                 | $30    |
-| Blow Torch (welding)                | $250         | Handcuffs              | $50    |
-| Body Bag                            | $25          | Head Lamp              | $25    |
-| Bolt Cutters                        | $40          | Laptop                 | $1,000 |
-| Car Opening Kit                     | $75          | Lighter                | $10    |
-| Chain &amp; Lock                    | $50          | Locksmith tools        | $150   |
-| Chainsaw                            | $200         | Marbles                | $20    |
-| Climbing Gear                       | $150         | Mechanical Tool Kit    | $150   |
-| Comms: Ear pieces                   | $500         | Metal Ball Bearings    | $40    |
-| Comms: Walkie Talkies               | $200         | Night Vision Goggles   | $200   |
-| Directional Microphone              | $200         | Pharmacist Kit         | $150   |
-| Drone / Advanced Drone              | $200 / $1000 | Portable Ram           | $75    |
-| Good Camera                         | $400         | Portable Winch         | $100   |
-| Duffle Bag                          | $50          | Pulley &amp; Rope      | $25    |
-| Duffle full of items for Black Bloc | $150         | Road Spikes (caltrops) | $50    |
-| Electrical Tool Kit                 | $150         | Sledgehammer           | $40    |
-| Emergency Medical Kit               | $50          | Spike Strip            | $150   |
-| Emergency Surgery Kit               | $100         | Spray paint            | $15    |
-| Fake ID                             | $200         | Tarp                   | $25    |
-| Flare                               | $20          | Zip Ties               | $25    |
+| Bypass per Allarme | $500 | Kit di contraffazione | $150 |
+| Trappola per orsi | $100 | Attrezzi per tagliare il vetro | $150 |
+| Binocolo | $100 | Grasso | $30 |
+| Torcia (saldatura) | $250 | Manette | $50 |
+| Sacco per cadaveri | $25 | Lampada da testa | $25 |
+| Tagliabulloni | $40 | Laptop | $1,000 |
+| Kit di apertura auto | $75 | Accendino | $10 |
+| Catena e accessori; Serratura | $50 | Attrezzi da fabbro | $150 |
+| Motosega | $200 | Biglie | $20 |
+| Attrezzatura da arrampicata | $150 | Kit di attrezzi meccanici | $150 |
+| Auricolari (comunicatore) | $500 | Cuscinetti a sfera | $500 | Cuscinetti a sfera in metallo | $40 |
+| Walkie Talkie | $200 | Visore notturno | $200 |
+| Microfono direzionale | $200 | Kit farmacista | $150 |
+| Drone / Drone avanzato | $200 / $1000 | Ariete portatile | $75 |
+| Macchina fotografica buona | $400 | Argano portatile | $100 |
+| Borsone | $50 | Carrucola & Corda | $25 |
+| Borsone pieno di oggetti per il Black Bloc | $150 | Spuntoni Stradali (piede di corvo) | $50 |
+| Kit di attrezzi elettrici | $150 | Mazza | $40 |
+| Kit medico d'emergenza | $50 | Spike Strip | $150 |
+| Kit di chirurgia d'emergenza | $100 | Vernice spray | $15 |
+| Carta d'identità falsa | $200 | Telo | $25 |
+| Flare | $20 | Fascette | $25 |
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
-## Rules
-### Abilities
-Each of the three **abilities** are used in situations.
+## Regole
+### Abilità
+Ciascuna delle tre **abilità** è utilizzata in situazioni.
 
 
-**Strength (STR)**: Used for saves in instances of physical power and endurance. Physical damage targets STR.
+**Forza (FOR)**: Usata per i tiri salvezza in situazioni di forza fisica e resistenza. Il danno fisico si rivolge alla FOR.
 
 
-**Dexterity (DEX)**: Used for saves in instances of speed, subtlety, and precision.
+**Destrezza (DES)**: Usata per i tiri salvezza in casi di velocità, sottigliezza e precisione.
 
 
-**Control (CTRL)**: Used for saves in instances of the weird, luck, social interaction, emotional strain, stress, and fallout. Stress targets CTRL.
+**Controllo (CTRL)**: Usato per i tiri salvezza in casi di stranezze, fortuna, interazione sociale, tensione emotiva, stress e ricadute. Lo stress bersaglia il CTRL.
 
 
-### Saves
-A **save** is the resolution mechanic used in play. Saves are only used when there is risk. If there is no risk or interesting narrative outcome, no roll is needed.
+### Tiri Salvezza
+Un **tiro salvezza** è la meccanica di risoluzione usata nel gioco. I tiri salvezza sono usati solo quando c'è un rischio. Se non c'è alcun rischio o risultato narrativo interessante, non è necessario alcun tiro.
 
-To make a save PCs roll a d20 against the target attribute. If they roll *equal to or under that ability score*, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
+Per effettuare un tiro salvezza i PG tirano un d20 contro l'attributo obiettivo. Se tirano *uguale o inferiore a quel punteggio di abilità*, passano. Altrimenti, falliscono. Un 1 è sempre un successo e un 20 è sempre un fallimento.
 
-If there is a **contested action**, the party at most risk makes the save.
-
-
-### Healing
-Taking a quick rest for a few moments restores HP but can leave the investigators exposed. Ability loss takes longer to recover from. It can take as much as a week’s rest with medical intervention or magical means.
-
-### Armor and Stability
-A target's **Armor** value is deducted from incoming damage before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Armor).
-
-A target's **Stability** value is deducted from incoming stress before it is applied to HP. Equipment can provide this bonus defence (e.g. +1 Stability).  These are often items, trinkets, or objects that provide a deep sense of comfort and connection to reality.
-
-It is up to the Facilitator’s discretion to create additional equipment that have the tags (+1 Armor) or (+1 Stability).
+Se c'è un'azione **in competizione**, il gruppo che rischia di più effettua il tiro salvezza.
 
 
+### Cura
+Riposarsi per qualche istante ripristina la PC ma può lasciare gli investigatori esposti. La perdita di abilità richiede più tempo per il recupero. Può richiedere fino a una settimana di riposo con un intervento medico o con mezzi magici.
 
-### Deprivation & Fatigue
-A PC **deprived** of a crucial need (such as food or rest) is unable to recover HP or ability scores. PCs may also take the deprived tag as the result of magical consequences or enemy abilities.
+### Armatura e stabilità
+Il valore di **Armatura** di un bersaglio viene dedotto dal danno in arrivo prima che venga applicato alla PC. L'equipaggiamento può fornire questo bonus di difesa (es. +1 Armatura).
 
-Anyone deprived for more than a day adds **Fatigue** to their inventory, one for each day. Each Fatigue occupies one slot and lasts until they are able to recuperate (such as a full night's rest in a safe spot).
+Il valore di **Stabilità** di un bersaglio viene dedotto dallo stress in arrivo prima che venga applicato alla PC. L'equipaggiamento può fornire questo bonus di difesa (ad esempio +1 Stabilità).  Questi sono spesso oggetti, gingilli, o oggetti che forniscono un profondo senso di conforto e connessione con la realtà.
 
-PCs can also gain Deprived or Fatigue from casting spells or through events in the fiction.
-
-### Inventory
-Characters have a total of 10 inventory slots: a backpack (or similar case/bag) with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head).
-
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Facilitator's discretion. **Bulky** items take up two slots and are typically two-handed or awkward to carry.
-
-A PC cannot carry more items than their inventory allows. Vehicles can be used to store additional inventory, but they are inaccessible if you are away from the vehicle.
-
-*Anyone carrying a full inventory (e.g. filling all 10 slots) is reduced to 0 HP*
+È a discrezione del Facilitatore creare ulteriori equipaggiamenti che abbiano le etichette (+1 Armatura) o (+1 Stabilità).
 
 
-### Reactions
-When the PCs encounter an NPC whose reaction to the party is not obvious, the Facilitator may have a player roll 2d6 and consult the following table:
+
+### Deprivazione & Fatica
+Un PG **deprivato** di un bisogno cruciale (come il cibo o il riposo) non è in grado di recuperare PC o punteggi di abilità. I PG possono anche prendere il tag deprivazione come risultato di conseguenze magiche o abilità nemiche.
+
+Chiunque sia deprivato per più di un giorno aggiunge **Fatica** al suo inventario, una per ogni giorno. Ogni Fatica occupa uno spazio e dura fino a quando non si è in grado di recuperare (come una notte intera di riposo in un luogo sicuro).
+
+I PG possono anche guadagnare Deprivazione o Fatica lanciando incantesimi o attraverso eventi della narrativa.
+
+### Inventario
+I personaggi hanno un totale di 10 spazi di inventario: uno zaino (o una borsa simile) con sei spazi, uno spazio per ogni mano e due spazi per la parte superiore del corpo (come la cintura, il petto o la testa).
+
+La maggior parte degli oggetti occupano uno spazio, e gli oggetti piccoli possono essere raggruppati insieme. Gli spazi sono astratti e possono essere riorganizzati a discrezione del Facilitatore. Gli oggetti **Grandi** occupano due spazi e sono tipicamente a due mani o scomodi da portare.
+
+Un PG non può portare più oggetti di quanti ne permetta il suo inventario. I veicoli possono essere utilizzati per conservare l'inventario aggiuntivo, ma sono inaccessibili se si è lontani dal veicolo.
+
+*Chiunque porti un inventario completo (ad esempio, riempiendo tutti e 10 gli spazi) è ridotto a 0 PC*.
+
+
+### Reazioni
+Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, il Facilitatore può chiedere ad un giocatore di tirare 2d6 e consultare la seguente tabella:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
-|    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostile | Wary | Curious | Kind | Helpful |
+| 2 | 3-5 | 6-8 | 9-11 | 12 |
+| Ostile | Diffidente | Curioso | Gentile | Utile |
 
 
-### Associates
-PCs can hire **Associates** to aid in their investigations.
+### Associati
+I PG possono assumere **Associati** per aiutarli nelle loro indagini.
 
-To create an associate roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the **Character Creation** tables to further flesh them out. Associates cost between 50-100 dollars per day. Some are prepared for violence, but may require a little persuasion in order to undertake something truly dangerous or weird.
+Per creare un associato tirate 3d6 per ogni punteggio di abilità, poi dategli 1d6 PC e un'arma semplice (d6), poi tirate sulle tabelle **Creazione del personaggio** per dargli ulteriore corpo. Gli associati costano tra i 50 e i 100 dollari al giorno. Alcuni sono preparati alla violenza, ma possono richiedere un po' di persuasione per intraprendere qualcosa di veramente pericoloso o strano.
 
-Expert Associates: An expert is a more temporary associate who is employed for a very specific task. They have 3HP and have an area of expertise with corresponding equipment. They cost $300 per day.
+Associati esperti: Un esperto è un associato più temporaneo che viene impiegato per un compito molto specifico. Hanno 3PC e hanno un'area di competenza con l'attrezzatura corrispondente. Costano 300$ al giorno.
 
-### Vehicles
-Vehicles have HP. When HP reaches 0 the vehicle is totaled. Totaling a vehicle causes damage to those in and around it.
+### Veicoli
+I veicoli hanno PC. Quando la PC raggiunge lo 0 il veicolo viene distrutto. Distruggere un veicolo provoca danni a quelli dentro e intorno ad esso.
 
-Vehicle damage is relative to the target and its speed. Start at d6 and scale according to the fiction.
+Il danno del veicolo è relativo al bersaglio e alla sua velocità. Si parte da d6 e si scala in base alla situazione.
 
-Damage against the vehicle depends on the method. Some instances may be Impaired based on the scale.
+Il danno al veicolo dipende dal metodo. Alcune istanze possono essere danneggiate in base alla scala.
 
-### Wealth & Treasure
-Cash is the most common form of currency. Vendors (both legal and illicit) may require different forms of payment to access them. Different in game variables may alter the prices listed in the equipment section.
+### Ricchezza e tesoro
+Il contante è la forma più comune di valuta. I venditori (sia legali che illeciti) possono richiedere diverse forme di pagamento per accedervi. Diverse variabili di gioco possono alterare i prezzi elencati nella sezione dell'equipaggiamento.
 
-Debt transcends all boundaries and can be a boon or a burden.
+Il debito trascende tutti i confini e può essere un vantaggio o un peso.
 
-**Relics** are powerful items touched by the Old Powers. They are dangerous and sought after.
+Le **Reliquie** sono oggetti potenti toccati dagli Antichi Poteri. Sono pericolosi e ricercati.
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
-## Combat
+## Combattimento
 
-### Start of combat
-At the **Start of Combat**, each PC must make a DEX save for a chance to act before their adversaries.
-- **Success**: The PC may act before their opponent.
-- **Failure**: The PC does not get to go during the Start of Combat round.
-After the Start of Combat round, order proceeds with PCs acting, then adversaries.
+### Inizio del combattimento
+All'**inizio del combattimento**, ogni PG deve effettuare un tiro salvezza di DES per avere la possibilità di agire prima dei suoi avversari.
+- **Successo**: Il PG può agire prima del suo avversario.
+- **Fallimento**: Il PG non ha la possibilità di agire durante il round di Inizio del combattimento.
+Dopo il round di Inizio del Combattimento, l'ordine procede con i PG che agiscono per primi, poi gli avversari.
 
-### Rounds
-The game typically plays without strict time accounting. If timing is necessary, use 10 second rounds to keep track. A **round** is comprised of character turns. During each turn all actions, attacks, and movements take place simultaneously.
+### Round
+Il gioco tipicamente si svolge senza una rigorosa contabilizzazione del tempo. Se il cronometraggio è necessario, usa turni di 10 secondi per tenere il conto. Un **round** è composto da turni dei personaggi. Durante ogni turno tutte le azioni, gli attacchi e i movimenti avvengono simultaneamente.
 
-### Actions
-On their turn a character may move up to 40ft and take up to one action. This may be *casting a spell*, *attacking*, making a *second move*, or some other *combat maneuver*.
+### Azioni
+Nel suo turno un personaggio può muoversi fino a 40 piedi e compiere un'azione. Questa può essere il *lanciare un incantesimo*, *attaccare*, fare una *seconda mossa*, o qualche altra *mossa di combattimento*.
 
-Players state what actions they will take before rolling dice. If they attempt something risky, the Facilitator will call for a save from the appropriate party.
+I giocatori dichiarano le azioni che faranno prima di tirare i dadi. Se tentano qualcosa di rischioso, il Facilitatore chiederà un tiro salvezza alla parte interessata.
 
-All actions, attacks, and movements take place roughly at the same time.
+Tutte le azioni, gli attacchi e i movimenti avvengono più o meno nello stesso momento.
 
-### Attacking & Damage
-There are no rolls to hit. There are no misses, only varying levels of damage.
+### Attacco e danni
+Non ci sono tiri per colpire. Non ci sono fallimenti, solo livelli variabili di danno.
 
-On their turn, the attacker rolls their weapon die, subtracts any Armor bonus, and deals the remaining total to the opponent's HP. Excess damage is then dealt to STR (see Critical Damage)
+Al proprio turno, l'attaccante tira il dado della propria arma, sottrae l'eventuale bonus Armatura e infligge il totale rimanente alla PC dell'avversario. Il danno in eccesso viene poi inflitto alla FOR (vedi Danno Critico)
 
-Some attacks deal Stress instead. These follow the same process of rolling the stress die, subtracting any relevant Stability bonus and then dealing the remaining total to HP. Excess Stress is dealt to CTRL (see [Critical Stress - Fallout Trigger](#stress-fallout-tables))
+Alcuni attacchi invece infliggono Stress. Questi seguono lo stesso processo di tirare il dado dello stress, sottrarre qualsiasi bonus di Stabilità rilevante e poi infliggere il totale rimanente alla PC. Lo stress in eccesso viene inflitto al CTRL (vedi [Stress critico - Innesco di Ricaduta](#ricaduta-da-stress-tabelle))
 
-### Multiple Attackers
-If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
+### Attaccanti multipli
+Se più attaccanti bersagliano lo stesso nemico, tirate tutti i dadi dei danni e tenete il singolo risultato più alto.
 
-### Attack Modifiers
-An attack is **Impaired** if the attacker is in a position of weakness that would impact your effectiveness. Impaired attacks deal 1d4 damage. Some examples of a position of weakness are attacking through cover, being bound, mind clouded by shadows.
+### Modificatori di attacco
+Un attacco è **Compromesso** se l'attaccante si trova in una posizione di debolezza che potrebbe influire sulla tua efficacia. Gli attacchi compromessi infliggono 1d4 danni. Alcuni esempi di posizione di debolezza sono attaccare attraverso una copertura, essere legati, mente offuscata dalle ombre.
 
-An attack is **Enhanced** if the attacker is in a position of advantage. Enhanced attacks deal 1d12 damage. Some examples of a position of advantage would be leveraging a daring maneuver, attacking a helpless adversary, or having your arm guided by the void.
-Unarmed attacks always do 1d4 damage.
+Un attacco è **Potenziato** se l'attaccante è in una posizione di vantaggio. Gli attacchi potenziati infliggono 1d12 danni. Alcuni esempi di una posizione di vantaggio sono: fare leva su una manovra audace, attaccare un avversario indifeso o avere il braccio guidato dal vuoto.
+Gli attacchi disarmati infliggono sempre 1d4 danni.
 
-### Dual Weapons
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+### Armi doppie
+Se attaccate con due armi contemporaneamente, tirate entrambi i dadi dei danni e tenete il risultato più alto.
 
-### Blast
-The **blast** quality denotes an attack that hits everything in a target area with damage rolled separately for each affected. Blast can be anything from explosions to spectral tentacles to the impact of a space embryo. If scale is unclear, roll damage dice to determine the number of targets affected.
+### Esplosione
+La qualità **esplosione** denota un attacco che colpisce ogni cosa in un'area bersaglio con danni tirati separatamente per ogni colpito. L'esplosione può essere qualsiasi cosa, dalle esplosioni ai tentacoli spettrali all'impatto di un embrione spaziale. Se la scala non è chiara, tirate i dadi dei danni per determinare il numero di bersagli colpiti.
 
-### Retreat
-Escaping a doomed situation requires a successful DEX save and a safe destination in order to get away. Safely retreating is a victory in its own way.
+### Ritirata
+Fuggire da una situazione condannata richiede un tiro salvezza di DES riuscito e una destinazione sicura per potersi allontanare. Ritirarsi in sicurezza è a suo modo una vittoria.
 
-### Critical Damage
-If damage brings a target’s HP below zero, their STR is decreased by the amount remaining. They must then make a STR save to avoid taking **critical damage**.
-<br>Suffering critical damage disables the victim. All they can do is crawl and grasp for life. Aid and rest required to persevere or they will die in the hour.
+### Danno Critico
+Se il danno porta la PC di un bersaglio sotto lo zero, la sua FOR viene diminuita della quantità rimanente. Dovete quindi effettuare un tiro salvezza su FOR per evitare di subire **danni critici**.
+<br>Subire un danno critico disabilita la vittima. Tutto ciò che può fare è strisciare e aggrapparsi alla vita. Sono richiesti aiuto e riposo per perseverare o moriranno entro un'ora.
 
-### Critical Stress = Fallout
-**Stress** that reduces a target's HP below zero decreases a target's CTRL by the amount remaining. They must then make a CTRL save to avoid **Critical Stress**.
-<br>If a character fails their CTRL save they take critical stress and gain fallout from the [Stress Fallout](#stress-fallout-tables) table.
+### Stress Critico = Ricaduta
+Lo **Stress** che riduce la PC di un bersaglio sotto zero diminuisce il CTRL del bersaglio della quantità rimanente. Dovete quindi effettuare un tiro salvezza CTRL per evitare lo **Stress Critico**.
+<br>Se un personaggio fallisce il tiro salvezza su CTRL, subisce uno stress critico e guadagna la Ricaduta dalla tabella [Ricaduta da Stress](#tabelle-ricaduta-da-stress).
 
-### 0 HP Stress = Fallout
-If Stress to a PC reduces their HP to exactly 0, they must immediately roll or choose a result from the [Stress Fallout](#stress-fallout-tables) table just as if they failed their CTRL save.
+### 0 PC Stress = Ricaduta
+Se lo stress di un PG riduce la sua PC esattamente a 0, deve immediatamente tirare o scegliere un risultato dalla tabella [Ricaduta da Stress](#tabelle-ricaduta-da-stress) proprio come se avesse fallito il tiro salvezza CTRL.
 
 
 
-### Ability Score Loss
-If a PC's STR is reduced to 0, they die. If their DEX is reduced to 0, they are paralyzed. If their CTRL is reduced to 0, they are lost.
+### Perdita del punteggio di abilità
+Se la FOR di un PG è ridotta a 0, muore. Se la loro DES è ridotta a 0, sono paralizzati. Se il loro CTRL è ridotto a 0, sono perduti.
 
-### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of an associate. They immediately join the party in order to reduce downtime.
+### Incoscienza e morte
+Quando un personaggio muore, il giocatore è libero di creare un nuovo personaggio o di prendere il controllo di un compagno. Questi si uniscono immediatamente al gruppo per ridurre i tempi morti.
 
-### Detachments
-Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
+### Distaccamenti
+Grandi gruppi di combattenti simili che combattono insieme sono trattati come un unico **distaccamento**. Quando un distaccamento subisce danni critici, viene messo in rotta o indebolito significativamente. Quando raggiunge 0 FOR, viene distrutto.
 
-Attacks against detachments by individuals are **impaired** (excluding blast damage).
+Gli attacchi contro i distaccamenti da parte di individui sono **compromessi** (esclusi i danni da esplosione).
 
-Attacks against individuals by detachments are **enhanced** and deal blast damage.
+Gli attacchi contro gli individui da parte dei distaccamenti sono **potenziati** e infliggono danni da esplosione.
 
 ### Morale
-Morale is a mechanical trigger used to simulate a NPCs' desire to survive.
+Il morale è un meccanico di innesco usato per simulare il desiderio di sopravvivenza di un PNG.
 
-Enemies must pass a CTRL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's CTRL in place of their own. Lone foes must save when they're reduced to 0 HP.
+I nemici devono superare un tiro salvezza di CTRL per evitare di fuggire quando subiscono la prima vittima e di nuovo quando perdono metà del loro numero. Alcuni gruppi possono usare il CTRL del loro leader al posto del proprio. I nemici solitari devono salvare quando sono ridotti a 0 PC.
 
-Some NPCs transcend measures of morale. Their proximity to the weird means their behavior diverges from other NPCs.
+Alcuni PNG trascendono le misure della morale. La loro vicinanza alle stranezze fa sì che il loro comportamento sia diverso da quello degli altri PNG.
 
-Morale does not affect PCs.
+Il morale non ha effetto sui PG.
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
-#  Magic
+# Magia
 
-## Magic System
-Characters may be able to use **magic** if they:
-- Rolled it during character creation.
-- Gained it through **Stress Fallout**.
-- Were exposed and changed by the Old Powers during play. There are those who seek to mentor, and others who seek to inflict their lessons on others.
+## Sistema della magia
+I personaggi possono essere in grado di usare la **magia** se:
+- Tirata durante la creazione del personaggio.
+- L'hanno ottenuta attraverso la **Ricaduta da Stress**.
+- Sono stati esposti e cambiati dagli Antichi Poteri durante il gioco. Ci sono quelli che cercano di fare da mentori e altri che cercano di infliggere le loro lezioni agli altri.
 
-Random spells are generated using the table and process below.
-- Each morning the PC must fill an empty inventory slot with a random spell. PCs can only ‘create’ one spell per day. Players may instead choose to prepare a copy of a spell they lost on the previous day.
-- Spells use a single action.
-- Afterward they leave the inventory.
-- If deprived or in danger, the PC must make a CTRL save to avoid any ill-effects. Consequences of failure should correlate in level to 	the intended effect. Failure may result in Stress, Fatigue, injury, death or  Omens/Magical Catastrophe.
-- Spell effects are decided by the Facilitator with input from the player. They should work together to come up with the general effect and scope of the spell. The Facilitator makes the final ruling in play. (Baseline: offensive spells typically cause d8 damage if it’s single target or d6 if it's blast damage).
-- PCs can attempt to retain the spell by successfully making a CTRL save.
-- **On success:** Spell stays prepared. PC 	marks fatigue in an inventory slot.
-- **On a failure:** the player does not 	retain the spell, marks deprived and adds fatigued to their inventory.
+Gli incantesimi casuali sono generati usando la tabella e il procedimento qui sotto.
+- Ogni mattina il PG deve riempire uno spazio vuoto dell'inventario con un incantesimo casuale. I PG possono "creare" un solo incantesimo al giorno. I giocatori possono invece scegliere di preparare una copia di un incantesimo che hanno perso il giorno precedente.
+- Gli incantesimi utilizzano una singola azione.
+- Dopodiché lasciano l'inventario.
+- In caso di deprivazione o pericolo, il PG deve effettuare un tiro salvezza su CTRL per evitare gli effetti negativi. Le conseguenze del fallimento dovrebbero essere correlate al livello dell'effetto desiderato. Il fallimento può risultare in Stress, Affaticamento, ferite, morte o Presagio/Catastrofe magica.
+- Gli effetti degli incantesimi sono decisi dal Facilitatore con l'input del giocatore. Dovrebbero lavorare insieme per definire l'effetto generale e la portata dell'incantesimo. Il Facilitatore prende la decisione finale in gioco. (Linea guida: gli incantesimi offensivi in genere causano d8 danni se sono a bersaglio singolo o d6 se sono danni da esplosione).
+- I PG possono tentare di mantenere l'incantesimo effettuando con successo un tiro salvezza su CTRL.
+- **In caso di successo:** L'incantesimo rimane preparato. Il PG segna la fatica in uno spazio dell'inventario.
+- **In caso di fallimento:** il giocatore non trattiene l'incantesimo, segna deprivazione e aggiunge fatica al suo inventario.
 
-### Spell Tables (adapted from Maze Rats)
+### Tabelle degli incantesimi (adattato da Maze Rats)
 
-#### Step 1 - Spell Formula (2d6)
+#### Passo 1 - Formula degli incantesimi (2d6)
 
-|   |                             |                                 |
+| | | |
 |---|---------------------------------|------------------------------------|
-|   | 1-3                             | 4-6                                |
-| 1 | Physical Effect + Physical Form | Ethereal Element+ Physical Form    |
-| 2 | Physical Effect + Ethereal Form | Ethereal Element+ Ethereal Form    |
-| 3 | Ethereal Effect + Physical Form | Physical Effect + Physical Element |
-| 4 | Ethereal Effect + Ethereal Form | Physical Effect + Ethereal Element |
-| 5 | Physical Element+ Physical Form | Ethereal Effect + Physical Element |
-| 6 | Physical Element+ Ethereal Form | Ethereal Effect + Ethereal Element |
+| | 1-3 | 4-6 |
+| 1 | Effetto Fisico + Forma Fisica | Elemento Etereo + Forma Fisica |
+| 2 | Effetto Fisico + Forma Eterea | Elemento Etereo + Forma Eterea |
+| 3 | Effetto Etereo + Forma Fisica | Effetto Fisico + Elemento Fisico |
+| 4 | Effetto Etereo + Forma Eterea | Effetto Fisico + Elemento Etereo |
+| 5 | Elemento Fisico + Forma Fisica | Effetto Etereo + Elemento Fisico |
+| 6 | Elemento Fisico + Forma Eterea | Effetto Etereo + Elemento Etereo |
 
 
-#### Step 2 - Spell Name (roll 2d6 for each table called for in the formula)
+#### Passo 2 - Nome dell'Incantesimo (tira 2d6 per ogni tabella chiamata nella formula)
 
 <br>
 
 [![Alt text](/LiminalHorror/img/magic.svg "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/magic.svg)
 
-#### Omens and Magical Catastrophes
+#### Presagi e catastrofi magiche
 
-|  |                    |
+| | |
 |---------|----------------------------|
-| 1       | Animals die                |
-| 2       | City appears               |
-| 3       | Deadly fog                 |
-| 4       | Dream plague               |
-| 5       | Endless night              |
-| 6       | Endless storm              |
-| 7       | Endless twilight           |
-| 8       | Endless winter             |
-| 9       | Forest appears             |
-| 10      | Graves open                |
-| 11      | Mass slumber               |
-| 12      | Meteor strike              |
-| 13      | Mirrors speak              |
-| 14      | No stars                   |
-| 15      | Outsider enters            |
-| 16      | People vanish              |
-| 17      | Portal opens               |
-| 18      | Rifts open                 |
-| 19      | Tower appears              |
-| 20      | Water to blood             |
+| 1 | Gli animali muoiono |
+| 2 | La città appare |
+| 3 | Nebbia mortale |
+| 4 | Peste dei sogni |
+| 5 | Notte senza fine |
+| 6 | Tempesta senza fine |
+| 7 | Crepuscolo senza fine |
+| 8 | Inverno senza fine |
+| 9 | Foresta appare |
+| 10 | Le tombe si spalancano |
+| 11 | Sonno di massa |
+| 12 | Le meteore colpiscono |
+| 13 | Gli specchi parlano |
+| 14 | Nessuna stella |
+| 15 | L'estraneo entra |
+| 16 | La gente sparisce |
+| 17 | Il portale si apre |
+| 18 | La Spaccatura si apre |
+| 19 | La torre appare |
+| 20 | L'acqua diventa sangue |
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
-#### Scrolls
-**Scrolls** are similar to Magic, however:
-- They do not take up an inventory slot.
-- They do not cause fatigue.
-- They disappear after one use.
-- Players must make a CTRL save or receive 1d4 Stress
+#### Pergamene
+**Le Pergamene** sono simili alle Magie:
+- Non occupano uno spazio dell'inventario.
+- Non causano fatica.
+- Scompaiono dopo un singolo uso.
+- I giocatori devono effettuare un tiro salvezza su CTRL o ricevere 1d4 Stress
 
-#### Relics
-**Relics** are powerful and dangerous items touched by the Old Powers. Relics often have limited use and a recharge condition. *Some examples:*
+#### Reliquie
+Le **Reliquie** sono oggetti potenti e pericolosi toccati dagli Antichi Poteri. Le reliquie hanno spesso un uso limitato e una condizione di ricarica. *Alcuni esempi:*
 
-**Extractor** - 0 charges. An old brass cylinder that resembles a medieval syringe. Able to transfer a ‘consciousness’ into another vessel. *Recharge*: Use the Extractor to wrench the consciousness from an “disabled” vessel. Users must make a CTRL save or take 1d4 stress.
+**Estrattore** - 0 cariche. Un vecchio cilindro di ottone che assomiglia ad una siringa medievale. In grado di trasferire una "coscienza" in un altro contenitore. *Ricarica*: Usate l'Estrattore per strappare la coscienza da un recipiente "disattivato". Gli utenti devono effettuare un tiro salvezza CTRL o prendere 1d4 stress.
 
-**Blade of Silence**, 1 charge. This ornate dagger can disable all magic within 50ft, as long as you pay its price freely. Give forth your own blood (d6 damage) to activate. *Recharge*: Sleep under a moonless sky.
+**Lama del silenzio**, 1 carica. Questo pugnale ornato può disattivare tutta la magia entro 50 piedi, a patto di pagarne il prezzo liberamente. Dare il proprio sangue (d6 danni) per attivarlo. *Ricarica*: Dormite sotto un cielo senza luna.
 
-**White Blade of Moonbone**: (best of 2d6 CTRL damage, 3 Charges) - This glowing blade is made for one task, to sever. *Recharge*: Under a full moon, sunder a memory from one's past.
+**Lama bianca di Moonbone**: (il migliore di 2d6 danni su CTRL, 3 Cariche) - Questa lama incandescente è fatta per un solo compito, tagliare. *Ricarica*: Sotto la luna piena, sacrificare un ricordo del proprio passato.
 
-**Stone of Behrit** 1 charge. Resembling a small egg with a distorted face. If you would take critical damage, ignore it instead. This stone activates and whisks you to safety. *Recharge*:
-- Sacrifice an innocent soul to the stone, add deprived and fatigued to the character sheet.
-- On the third recharge roll on [Omens and Magical Catastrophes](#Omens-and-Catastrophes) table.
+**Pietra di Behrit** 1 carica. Assomiglia ad un piccolo uovo con un volto distorto. Se prenderesti un danno critico, ignoralo invece. Questa pietra si attiva e ti porta al sicuro. *Ricarica*:
+- Sacrificate un'anima innocente alla pietra, aggiungete deprivazione e fatica alla scheda del personaggio.
+- Al terzo tiro di ricarica sulla tabella [Presagi e Catastrofi Magiche](#presagi-e-catastrofi).
 
-**An Anatomical Guide to Memory**: The reader can converse with the souls bound within its pages. Take d6 Stress (CTRL) to read an entry. There are still empty pages in the book.
+**Guida anatomica alla memoria**: Il lettore può conversare con le anime legate nelle sue pagine. Prendete d6 Stress (CTRL) per leggere una voce. Ci sono ancora pagine vuote nel libro.
 
-**Horned Ring**, 1 charge. Twist the ring to activate. You can sense how many people are around you and have distinct impressions of their inner feelings. Every hour your awareness becomes more refined, but take 1d6+1 Stress (CTRL). *Recharge*: Remove the ring, taking the Deprived tag for 12 hour
+**Anello con corna**, 1 carica. Girate l'anello per attivarlo. Potete percepire quante persone sono intorno a voi e avere impressioni distinte dei loro sentimenti interiori. Ogni ora la vostra consapevolezza diventa più raffinata, ma prendete 1d6+1 Stress (CTRL). *Ricarica*: Rimuovete l'anello, prendendo il tag Deprivato per 12 ore
 
-**Instrument of the Black Flame**: Some weapons have sigils and runes carved into them, warping and imbuing them with a heatless, black flame. The range depends on the weapon and they deal 1d6 CTRL damage to the target while dealing 1d4 Dex damage to the wielder.
+**Strumento della fiamma nera**: Alcune armi hanno sigilli e rune incise al loro interno, deformandole e impregnandole di una fiamma nera senza calore. La portata dipende dall'arma e infliggono 1d6 danni CTRL al bersaglio mentre infliggono 1d4 danni Dex a chi le impugna.
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
 ## Stress & Fallout
@@ -835,7 +845,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 | 19                     | **The Hunt:** Patronage is a dangerous thing. It becomes harder to ignore the primal impulses that burn deep inside you. Your attacks are **Enhanced** Critical Damage mutilates your body but you can continue to act. <br>You become the primary target of otherworldly and attacks made against you are **Enhanced**.                                                                |
 | 20                     | **Doomed** *(this can be taken multiple times per character)*: <br>You have been branded for sacrifice, anointed for doom. If your next critical save against damage is a failure, you die horribly. If it is a success, you roll 3d6 + the number of times you’ve taken Doomed. If the total is higher than your max HP, take the new result.                        |
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
 # Paranatural Bestiary
@@ -938,7 +948,7 @@ Unless marked, the Fallout can only be chosen once per table. Each Fallout takes
 - To rend, to take within itself.
 - All attacks made against them are made at disadvantage.
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
 ## Creating Monsters
@@ -968,7 +978,7 @@ Use the following template to model NPCs and monsters:
 - Quick? Give it high **DEX**.
 - Weird? Give it high **CTRL** or ability to deal Stress Damage.
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
 ## Spark Tables
@@ -1034,7 +1044,7 @@ Spark Tables are used to prompt ideas. Roll 2d20 and combine the result. The ent
 - Predatory Memory
 - Transmuting Ozone
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>
 
 # Rules Summary
@@ -1091,5 +1101,5 @@ Having STR 0 means **death**; having DEX 0 is paralysis; having CTRL 0 they are 
 - Can only be chosen once at the table (unless denoted).
 - Consumes an inventory slot.
 
-[back to index](#index)
+[torna all'indice](#indice)
 <p></p>

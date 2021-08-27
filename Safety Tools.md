@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Safety Tools
+title: Strumenti di sicurezza
 nav_order: 4
 ---
 
-## Safety Tools
-Safety Tools are different resources used to ensure the safety and wellbeing of everyone at the table. Here are some great resrouces you can use at your table:
-- [Script Change RPG Toolbox:](https://briebeau.itch.io/script-change) Script change is a toolbox of safety tools that aims to integrate them organically into table conversation. Using film language that is easily accessible (rewind, fast forward, pause, etc) that helps make them easy to implement.
-- [TTRPG Safety Toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj): A great resource for tools necessary to do the work at the table to keep everyone safe, enaged, and in play.
+## Strumenti di sicurezza
+Gli strumenti di sicurezza sono diverse risorse utilizzate per garantire la sicurezza e il benessere di tutti al tavolo. Qui ci sono alcune grandi risorse che potete usare al vostro tavolo:
+- [Script Change RPG Toolbox:](https://briebeau.itch.io/script-change) Script change è una cassetta degli attrezzi di sicurezza che mira a integrarli organicamente nella conversazione al tavolo. Utilizzando un linguaggio cinematografico facilmente accessibile (riavvolgi, avanti veloce, pausa, ecc.) che aiuta a renderli facili da implementare.
+- TTRPG Safety Toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj): Una grande risorsa per gli strumenti necessari a fare il lavoro al tavolo per mantenere tutti al sicuro, ingaggiati e in gioco.

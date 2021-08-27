@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Core Game
+title: Gioco di base
 nav_order: 2
 has_children: true
 ---
 
-# Digital Play Resource
-In designing **Liminal Horror** my goal was to make is as accessible as possible.
+# Risorse di gioco digitale
+Nel progettare **Liminal Horror** il mio obiettivo era di renderlo il più accessibile possibile.
 
-The following nested links are the entirety of the SRD divided out in a way that is easy to navigate during play.
+I seguenti link annidati sono la totalità dell'SRD diviso in un modo che è facile da navigare durante il gioco.
 
-The SRD can also be found on the left navigation. It has the entirety of the game text in one place.
+L'SRD si trova anche sulla navigazione a sinistra. Ha tutto il testo del gioco in un unico posto.
 
-A **print copy** of Liminal Horror can be purchased from Exalted Funeral (coming soon)
+Una **copia stampata** di Liminal Horror può essere acquistata da Exalted Funeral (in arrivo)
 
-A **digital pdf** can be found at <a href="https://goblinarchives.itch.io/liminal-horror" target="_blank">https://goblinarchives.itch.io/liminal-horror</a>.
+Un **pdf digitale** può essere trovato su <a href="https://goblinarchives.itch.io/liminal-horror" target="_blank">https://goblinarchives.itch.io/liminal-horror</a>.

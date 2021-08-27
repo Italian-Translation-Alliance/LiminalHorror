@@ -5,51 +5,51 @@ nav_order: 5
 ---
 
 # Appendix N
-These works directly inspired this game, both in tone and content. This list is not a comprehensive one, but it is a starting point. Each one of these is worth your time and would be a trove for touchstones/inspirations/mysteries. Read them, get inspired by them. File off the serial numbers and bring it to your table.
+Queste opere hanno direttamente ispirato questo gioco, sia nel tono che nel contenuto. Questa lista non è completa, ma è un punto di partenza. Ognuno di questi vale il vostro tempo ed è una carrellata di pietre miliari/ispirazioni/misteri. Leggeteli, lasciatevi ispirare da loro. Grattate i numeri di serie e portateli al vostro tavolo.
 
-## Podcasts
-- [Old Gods of Appalachia - podcast](https://oldgodsofappalachia.com/about): A plethora of fantastic worldbuilding and cosmic horror a setting like none other (the hills of Appalachia).
-- [Friends at the Table podcast](https://friendsatthetable.net/): Hands down a must listen if you are intereted in compelling stories, world building, and deeply emotional moments. Shows what story telling/AP can be.
-- [White Vault - podcast](https://thewhitevault.com/): Archiologists sent out into the frozen wastes, trapped in a blizzard. This work is phenominal in regards to pacing, character, and building dread.
+## Podcast
+- [Old Gods of Appalachia - podcast](https://oldgodsofappalachia.com/about): Una quantità di worldbuilding fantastico e di horror cosmico in un'ambientazione come nessun'altra (le colline dell'Appalachia).
+- [Friends at the Table podcast](https://friendsatthetable.net/): È assolutamente da ascoltare se siete interessati a storie avvincenti, al worldbuilding e a momenti profondamente emotivi. Mostra cosa può essere lo story telling/AP.
+- [White Vault - podcast](https://thewhitevault.com/): Archiologi mandati nelle lande ghiacciate, intrappolati in una bufera di neve. Quest'opera è fenomenale per quanto riguarda il ritmo, il carattere e la costruzione del terrore.
 - [The Lost Bay Podcast](https://thelostbayrpg.blogspot.com/)
 
-## Manga/Comics
-- [The works of Junji Ito - Manga](https://en.wikipedia.org/wiki/Junji_Ito): His works are masterful and I'm hoping someone makes a scenario/mystery directly pulling from his work.
-- [B.P.R.D - comic](https://en.wikipedia.org/wiki/Bureau_for_Paranormal_Research_and_Defense): The orignization behind Hellboy, there are some great images/lore/myths to inspire your game. The first mystery for Liminal Horror (Plague of Frogs) took inspiration from one of B.P.R.D.'s arcs.
+## Manga/Fumetti
+- [The works of Junji Ito - Manga](https://en.wikipedia.org/wiki/Junji_Ito): Le sue opere sono magistrali e spero che qualcuno faccia uno scenario/mistero attingendo direttamente dal suo lavoro.
+- [B.P.R.D - comic](https://en.wikipedia.org/wiki/Bureau_for_Paranormal_Research_and_Defense): L'ispirazione dietro Hellboy, ci sono alcune grandi immagini/lore/miti per ispirare il vostro gioco. Il primo mistero per Liminal Horror (Plague of Frogs) ha preso ispirazione da uno degli archi di B.P.R.D.
 - [Hellboy - comic](https://en.wikipedia.org/wiki/Hellboy)
 
 ## Film
-- [Hereditary - film](https://en.wikipedia.org/wiki/Hereditary_(film)): An example of what happens if you don’t deal with the cult in you game
-- [The Thing - 1982 film](https://en.wikipedia.org/wiki/The_Thing_(1982_film)): One of the best films of all time. This would be a great scenario (if you had a mechanic for randomly replacing PCs/turning them into adversaries)
-- [The Lighthouse -film](https://en.wikipedia.org/wiki/The_Lighthouse_(2019_film)): Cosmic Horror "buddy" movie.
+- [Hereditary - film](https://en.wikipedia.org/wiki/Hereditary_(film)): Un esempio di cosa succede se non si affronta il culto nel gioco
+- [The Thing - 1982 film](https://en.wikipedia.org/wiki/The_Thing_(1982_film)): OUno dei migliori film di tutti i tempi. Questo sarebbe un grande scenario (se si avesse una meccanica per sostituire casualmente i PC/trasformarli in avversari)
+- [The Lighthouse -film](https://en.wikipedia.org/wiki/The_Lighthouse_(2019_film)): Un "buddy film" di Orrore Cosmico.
 
-## Blogs
-- [Throne of Salt - blog](http://throneofsalt.blogspot.com/): Its worth the time to delve deep.
-- [SCP Foundation - web based collaborative fiction](http://www.scpwiki.com/): You could run a session a week unitl the end of time using different monsters/things from the SCP.
-- Liminal Spaces (Twitter) @SpaceLiminalBot - this bot pulls from the reddit r/LiminalSpace/ These images really inspired the art direction of the covers (and the title)
+## Blog
+- [Throne of Salt - blog](http://throneofsalt.blogspot.com/): Vale la pena di approfondire.
+- [SCP Foundation - web based collaborative fiction](http://www.scpwiki.com/): Si potrebbe fare una sessione alla settimana fino alla fine del tempo usando diversi mostri/cose della SCP.
+- Liminal Spaces (Twitter) @SpaceLiminalBot - questo bot prende da reddit r/LiminalSpace/ Queste immagini hanno davvero ispirato la direzione artistica delle copertine (e il titolo)
 
-## TTRPGs
-- [The Company by Logan Dean - ttrpg](https://mega-corp.itch.io/the-company): A fantastic game of corporate survival horror. If you are looking for a game where you try and make it through the day employed by an evil corporate (think Resident Evil, The Laundry Archives, Alien, Half Life) then this game is the one for you. The design work is top notch.
-- [Agents of O.D.D. By Jason Toci - ttrpg](https://jasontocci.itch.io/agents-of-the-odd) If you are looking for a BPRD/Hellboy/Xfiles style game of cryptically and weird investigators of the paranormal you can’t find any better
-- [Esoteric Enterprises by Dying Stylishly Games - ttrpg](https://www.drivethrurpg.com/product/297833/Esoteric-Enterprises--Complete): A game of urban horror that is briming with the best tables / underworld generator you could ever want.
+## GDR
+- [The Company by Logan Dean - ttrpg](https://mega-corp.itch.io/the-company): Un fantastico gioco di survival horror aziendale. Se state cercando un gioco in cui cercate di farcela durante la giornata alle dipendenze di un'azienda malvagia (pensate a Resident Evil, The Laundry Archives, Alien, Half Life) allora questo gioco è quello che fa per voi. Il lavoro di design è di altissimo livello.
+- [Agents of O.D.D. By Jason Toci - ttrpg](https://jasontocci.itch.io/agents-of-the-odd) Se state cercando un gioco in stile BPRD/Hellboy/Xfiles di investigatori criptici e strani del paranormale non potete trovare di meglio
+- [Esoteric Enterprises by Dying Stylishly Games - ttrpg](https://www.drivethrurpg.com/product/297833/Esoteric-Enterprises--Complete): Un gioco di orrore urbano che trabocca dei migliori tavoli / generatore di malavita che si possa desiderare.
 
-## Games
-- [Bloodborne - game](https://en.wikipedia.org/wiki/Bloodborne)
-- [Dark Souls - game series](https://en.wikipedia.org/wiki/Dark_Souls)
-- [Paradise Killer - game](https://store.steampowered.com/app/1160220/Paradise_Killer/)
+## Giochi
+- [Bloodborne - gioco](https://en.wikipedia.org/wiki/Bloodborne)
+- [Dark Souls - serie di giochi](https://en.wikipedia.org/wiki/Dark_Souls)
+- [Paradise Killer - gioco](https://store.steampowered.com/app/1160220/Paradise_Killer/)
 
-## Books
-- [The Laundry Files -book series](https://en.wikipedia.org/wiki/The_Laundry_Files) What if comsic horror were real and so the government had to deal with its implications. And magic is math.
-- [Annihilation - book](https://en.wikipedia.org/wiki/Annihilation_(VanderMeer_novel))
-- [The writings of William S. Burroughs](https://en.wikipedia.org/wiki/William_S._Burroughs)
-- [The writings of Borges - books](https://en.wikipedia.org/wiki/Jorge_Luis_Borges)
-<br> Modern works confronting and engaging the racist ideologies of HP Lovecraft
-- [The City Born Great](https://www.tor.com/2016/09/28/the-city-born-great/) by N.K. Jemisin (short story)
-- [The City We Became](https://www.tor.com/2020/07/07/the-soul-of-a-city-the-city-we-became-by-n-k-jemisin/) by N.K Jemisin (book)
-- The Ballad of Black Tom by Victor LaValle (book)
-- The Dream-Quest of Vellitt Boe by Kij Johnson (book)
-- Hammers on Bone by Cassandra Khaw (book)
-- Winter Tide by Ruthanna Emrys (book)
-- Agents of Dreamland by Caitlín R. Kiernan (book)
-- Harlem Unbound by Chris Spivey (TTRPG)
-- Fate of Cthulhu (TTRPG)
+## Libri
+- [The Laundry Files - serie di libri](https://en.wikipedia.org/wiki/The_Laundry_Files) Se l'orrore cosmico fosse reale e quindi il governo dovesse affrontare le sue implicazioni. E la magia è matematica.
+- [Annientamento - libro](https://it.wikipedia.org/wiki/Annientamento)
+- [Le opere di William S. Burroughs](https://it.wikipedia.org/wiki/William_S._Burroughs)
+- [Le opere di Borges - books](https://it.wikipedia.org/wiki/Jorge_Luis_Borges)
+<br> Opere moderne che affrontano e sfidano le ideologie razziste di HP Lovecraft
+- [The City Born Great](https://www.tor.com/2016/09/28/the-city-born-great/) di N.K. Jemisin (racconto breve)
+- [The City We Became](https://www.tor.com/2020/07/07/the-soul-of-a-city-the-city-we-became-by-n-k-jemisin/) di N.K Jemisin (libro)
+- La ballata di Black Tom di Victor LaValle (libro)
+- The Dream-Quest of Vellitt Boe di Kij Johnson (libro)
+- Hammers on Bone di Cassandra Khaw (libro)
+- Winter Tide di Ruthanna Emrys (libro)
+- Agents of Dreamland di Caitlín R. Kiernan (libro)
+- Harlem Unbound di Chris Spivey (GRD)
+- Fate of Cthulhu (GRD)

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Facilitator Tools
+title: Strumenti del Facilitatore
 nav_order: 3
 has_children: true
 ---
 
-# Facilitator Tools
-This following section seeks to provide different options for Facilitator when thinking about prep and play. Rely heavily on your pinciples and the overview at the beginning of the text. Some may want a little more guidance and so I have provided some initial ideas to get you started.
+# Strumenti del Facilitatore
+Questa sezione seguente cerca di fornire diverse opzioni al Facilitatore quando pensa alla preparazione e al gioco. Fate molto affidamento sui vostri principi e sulla panoramica all'inizio del testo. Alcuni potrebbero volere un po' più di guida e quindi ho fornito alcune idee iniziali per iniziare.

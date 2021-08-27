@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: Informazioni
 permalink: /about/
 ---
 
-This game, and website, were written by Goblin Archives (Nick Erickson). I am a teacher/reading specialist/game designer.
+Questo gioco e sito sono stati scritti da Goblin Archives (Nick Erickson), un insegnante/lettore specialista/progettista di giochi.
 
-Ways to contact:
+Come contattarlo:
 <br>**Twitter**: [@goblin_archives](https://twitter.com/goblin_archives)
-<br>**NSR Discord**: This is a fantastic resource to talk about games,
-hacks, and is just an all around great community. I am an active member so you can reach out to me here as well.
-[Join by click here](https://discord.io/newschoolrevolution)
+<br>**NSR Discord**: Questa è una fantastica risorsa per parlare di giochi, hack ed è in tutto e per tutto una magnifica comunità. L'autore è un membro attivo quindi potete trovarlo anche qui. [Unitevi cliccando qui](https://discord.io/newschoolrevolution)
 
-Where to buy Liminal Horror:
+Dove comprare Liminal Horror:
+
+Versione inglese:
 <br>**Exalted Funeral**: [https://www.exaltedfuneral.com/products/liminal-horror-pdf](https://www.exaltedfuneral.com/products/liminal-horror-pdf)
 <br>**Itch.io**: [https://goblinarchives.itch.io/](https://goblinarchives.itch.io/)
 <br>**DriveThruRPG**: [https://www.drivethrurpg.com/browse/pub/20053/Goblin-Archives](https://www.drivethrurpg.com/browse/pub/20053/Goblin-Archives)

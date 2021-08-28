@@ -309,6 +309,7 @@ Potenziali connessioni
 | 3 | Misteriosa | 8  | Stridula     |
 | 4 | Fragorosa  | 9  | Balbettante  |
 | 5 | Formale    | 10 | Bisbigliante |
+
 #### Abbigliamento
 
 |   |               |    |            |
@@ -706,9 +707,109 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 
 #### Passo 2 - Nome dell'Incantesimo (tira 2d6 per ogni tabella chiamata nella formula)
 
-<br>
 
-[![Alt text](/LiminalHorror/img/magic.svg "Click to embiggen"){:height="100%" width="100%"}](/LiminalHorror/img/magic.svg)
+**Effetti fisici**
+
+|              |             |              |
+|--------------|-------------|--------------|
+| Animare      | Schiacciare | Fondere      |
+| Attirare     | Diminuire   | Afferrare    |
+| Legare       | Dividere    | Affrettare   |
+| Sbocciare    | Duplicare   | Ostacolare   |
+| Consumare    | Avvolgere   | Illuminare   |
+| Strisciare   | Espandere   | Imprigionare |
+| Levitare     | Riflettere  | Sigillare    |
+| Aprire       | Rigenerare  | Mutare forma |
+| Pietrificare | Piegare     | Schermare    |
+| Fasare       | Respingere  | Riprodurre   |
+| Trafiggere   | Resuscitare | Trasmutare   |
+| Inseguire    | Urlare      | Trasportare  |
+
+**Elementi Fisici**
+
+|           |           |          |
+|-----------|-----------|----------|
+| Acido     | Argilla   | Vetro    |
+| Ambra     | Corvo     | Miele    |
+| Corteccia | Cristallo | Ghiaccio |
+| Sangue    | Ambra     | Insetto  |
+| Osso      | Carne     | Legno    |
+| Salamoia  | Fungo     | Lava     |
+| Muschio   | Sabbia    | Spina    |
+| Ossidiana | Linfa     | Vite     |
+| Olio      | Serpente  | Acqua    |
+| Veleno    | Bava      | Vino     |
+| Ratto     | Pietra    | Legno    |
+| Sale      | Catrame   | Verme    |
+
+**Forma Fisica**
+
+|           |            |            |
+|-----------|------------|------------|
+| Altare    | Catena     | Elementale |
+| Armatura  | Carro      | Occhio     |
+| Freccia   | Artiglio   | Fontana    |
+| Bestia    | Mantello   | Porta      |
+| Lama      | Colosso    | Golem      |
+| Calderone | Corona     | Martello   |
+| Corno     | Sentinella | Tentacolo  |
+| Chiave    | Servo      | Trono      |
+| Maschera  | Scudo      | Torcia     |
+| Monolito  | Lancia     | Trappola   |
+| Pozzo     | Destriero  | Muro       |
+| Prigione  | Sciame     | Tela       |
+
+**Effetti Eterei**
+
+|                      |             |             |
+|----------------------|-------------|-------------|
+| Vendicare            | Forzare     | Disfare     |
+| Bandire              | Nascondere  | Abbracciare |
+| Disorientare         | Assordare   | Codificare  |
+| Accecare             | Ingannare   | Energizzare |
+| Affascinare          | Decifrare   | Illuminare  |
+| Comunicare           | Dissimulare | Infiammare  |
+| Straziare            | Nullificare | Lenire      |
+| Prevedere            | Paralizzare | Evocare     |
+| Intossicare          | Rivelare    | Terrificare |
+| Dissennare           | Rivoltare   | Ammutolire  |
+| Ipnotizzare          | Scrutare    | Logorare    |
+| Leggere nel pensiero | Silenziare  | Inaridire   |
+
+**Elementi Eterei**
+
+|                      |             |             |
+|----------------------|-------------|-------------|
+| Vendicare            | Forzare     | Disfare     |
+| Bandire              | Nascondere  | Abbracciare |
+| Disorientare         | Assordare   | Codificare  |
+| Accecare             | Ingannare   | Energizzare |
+| Affascinare          | Decifrare   | Illuminare  |
+| Comunicare           | Dissimulare | Infiammare  |
+| Straziare            | Nullificare | Lenire      |
+| Prevedere            | Paralizzare | Evocare     |
+| Intossicare          | Rivelare    | Terrificare |
+| Dissennare           | Rivoltare   | Ammutolire  |
+| Ipnotizzare          | Scrutare    | Logorare    |
+| Leggere nel pensiero | Silenziare  | Inaridire   |
+
+**Forma Eterea**
+
+|            |           |          |
+|------------|-----------|----------|
+| Aura       | Bolla     | Cono     |
+| Faro       | Chiamata  | Cubo     |
+| Raggio     | Cascata   | Danza    |
+| Esplosione | Cerchio   | Disco    |
+| Blob       | Nuvola    | Campo    |
+| Bullone    | Bobina    | Forma    |
+| Sguardo    | Piramide  | Sciame   |
+| Loop       | Raggio    | Torrente |
+| Momento    | Frammento | Tocco    |
+| Nesso      | Sfera     | Vortice  |
+| Portale    | Spray     | Onda     |
+| Impulso    | Tempesta  | Parola   |
+
 
 #### Presagi e catastrofi magiche
 

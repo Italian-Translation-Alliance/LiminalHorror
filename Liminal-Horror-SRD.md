@@ -718,6 +718,7 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 | Sbocciare    | Duplicare   | Ostacolare   |
 | Consumare    | Avvolgere   | Illuminare   |
 | Strisciare   | Espandere   | Imprigionare |
+|              |             |              |
 | Levitare     | Riflettere  | Sigillare    |
 | Aprire       | Rigenerare  | Mutare forma |
 | Pietrificare | Piegare     | Schermare    |
@@ -735,6 +736,7 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 | Sangue    | Ambra     | Insetto  |
 | Osso      | Carne     | Legno    |
 | Salamoia  | Fungo     | Lava     |
+|           |           |          |
 | Muschio   | Sabbia    | Spina    |
 | Ossidiana | Linfa     | Vite     |
 | Olio      | Serpente  | Acqua    |
@@ -752,6 +754,7 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 | Bestia    | Mantello   | Porta      |
 | Lama      | Colosso    | Golem      |
 | Calderone | Corona     | Martello   |
+|           |            |            |
 | Corno     | Sentinella | Tentacolo  |
 | Chiave    | Servo      | Trono      |
 | Maschera  | Scudo      | Torcia     |
@@ -769,6 +772,7 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 | Accecare             | Ingannare   | Energizzare |
 | Affascinare          | Decifrare   | Illuminare  |
 | Comunicare           | Dissimulare | Infiammare  |
+|                      |             |             |
 | Straziare            | Nullificare | Lenire      |
 | Prevedere            | Paralizzare | Evocare     |
 | Intossicare          | Rivelare    | Terrificare |
@@ -786,6 +790,7 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 | Accecare             | Ingannare   | Energizzare |
 | Affascinare          | Decifrare   | Illuminare  |
 | Comunicare           | Dissimulare | Infiammare  |
+|                      |             |             |
 | Straziare            | Nullificare | Lenire      |
 | Prevedere            | Paralizzare | Evocare     |
 | Intossicare          | Rivelare    | Terrificare |
@@ -804,6 +809,7 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 | Blob       | Nuvola    | Campo    |
 | Bullone    | Bobina    | Forma    |
 | Sguardo    | Piramide  | Sciame   |
+|            |           |          |
 | Loop       | Raggio    | Torrente |
 | Momento    | Frammento | Tocco    |
 | Nesso      | Sfera     | Vortice  |

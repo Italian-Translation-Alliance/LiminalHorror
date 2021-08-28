@@ -37,8 +37,8 @@ Un SRD (o System Reference Document) è spesso usato nel design dei giochi per i
 - [Combattimento](#combattimento)
 - [Magia](#magia)
 - [Stress & Crollo](#stress-&-crollo)
-- [Bestiario Paranaturale](#bestiario-paranaturale)
-- [Spark Tables](#spark-tables)
+- [Bestiario Paranormale](#bestiario-paranormale)
+- [Tabelle Scintilla](#tabelle-di-crollo-da-stress-scintilla)
 - [Riassunto delle Regole](#riassunto-delle-regole)
 
 
@@ -183,7 +183,7 @@ Tirate 1d6 per determinare la Protezione dai Colpi (PC) iniziale del tuo PG. La 
 
 **(+_Stabilità)** è un'etichetta che gli oggetti speciali hanno per indicare che forniscono protezione dallo stress e lo riducono prima che sia applicato alla PC.  Qualsiasi danno o stress in eccesso (oltre 0 PC) viene applicato all'attributo appropriato.
 
-Se lo stress porterebbe la PC di un PG esattamente a 0, il giocatore deve tirare sulla tabella [Crollo da Stress](#tabelle-crollo-stress).
+Se lo stress porterebbe la PC di un PG esattamente a 0, il giocatore deve tirare sulla tabella [Crollo da Stress](#tabelle-di-crollo-da-stress).
 
 #### 3. Dettagli dell'investigatore
 - Scegliete un nome per il vostro personaggio,
@@ -206,31 +206,6 @@ Il passo finale è quello di stabilire l'organizzazione del gruppo usando la sez
 [torna all'indice](#indice)
 <p></p>
 
-## Names & Background
-
-### Names:
-Choose a name that best fits the character you are wanting to play (often I do this at the end of the character generating process.
-
-### Clothing
-Choose a style of clothing/look. A gold star if you find visual references to share with the group.
-
-### Background
-
-||||
-|------|-----------|-----------|-----------|
-|1          |Journalist |11        |Old Money |
-|2          |Store Clerk|12        |Author |
-|3          |Private Investigator   |13        |Professor |
-|4          |Cleric (ex?) |14        |Very Online    |
-|5          |Medic  | 15        |Lawyer   |
-|6          |Archivist |  16    |Ex-Cop |
-|7          |Artist    | 17    |Trades|
-|8          |Athlete   | 18    |Social Work  |
-|9          |Criminal  |19    |Finance   |
-|10         |Drifter   |20    |Hospitality    |
-
-<p></p>
-
 ## Nomi e background
 
 ### Nomi:
@@ -241,18 +216,18 @@ Scegliete uno stile di abbigliamento/look. Una stella d'oro se trovi dei riferim
 
 ### Background
 
-||||
-|------|-----------|-----------|-----------|
-|1 |Giornalista |11 |Ereditiero |
-|2 |Commesso di negozio|12 |Autore |
-|3 |Investigatore privato |13 |Professore |
-|4 |Prete (ex?) |14 |Internet Dipendente |
-|5 |Medico | 15 |Avvocato |
-|6 |Archivista | 16 |Ex poliziotto |
-|7 |Artista | 17 |Mestiere|
-|8 |Atleta | 18 |Servizi Sociali |
-|9 |Criminale |19 |Finanza |
-|10 |Senzatetto |20 |Accoglienza |
+|    |                       |    |                     |
+|----|-----------------------|----|---------------------|
+| 1  | Giornalista           | 11 | Ereditiero          |
+| 2  | Commesso di negozio   | 12 | Autore              |
+| 3  | Investigatore privato | 13 | Professore          |
+| 4  | Prete (ex?)           | 14 | Internet Dipendente |
+| 5  | Medico                | 15 | Avvocato            |
+| 6  | Archivista            | 16 | Ex poliziotto       |
+| 7  | Artista               | 17 | Mestiere            |
+| 8  | Atleta                | 18 | Servizi Sociali     |
+| 9  | Criminale             | 19 | Finanza             |
+| 10 | Senzatetto            | 20 | Accoglienza         |
 
 <p></p>
 
@@ -262,24 +237,26 @@ Scegliete uno stile di abbigliamento/look. Una stella d'oro se trovi dei riferim
 #### L'abisso ti fissa
 Qual è stato il vostro primo incontro con l'ignoto? Tirate o scegliete:
 
-||||
-|------|-----------|-----------|-----------|
-|1 |Hai perso una persona cara in circostanze misteriose. |6 |Le prove online sono troppe per essere ignorate.     |
-|2 |Sei stato testimone di qualcosa nell'oscurità. |7 |Sei sopravvissuto ad un attacco che non sai spiegare.     |
-|3 |Qualcosa è in agguato nei tuoi sogni. |8 |Qualcuno vicino a te ti attira o ti spinge via.     |
-|4 |Attività della setta (forse hanno reclutato qualcuno di importante). |9 |Potresti essere un membro di una società segreta.     |
-|5 |Hai letto qualcosa che non è destinato alle menti mortali. |10 |Non l'hai ancora fatto, è a questo che serve la sessione 1!     |
+|   |                                                                      |    |                                                               |
+|---|----------------------------------------------------------------------|----|---------------------------------------------------------------|
+| 1 | Avete perso una persona cara in circostanze misteriose.              | 6  | Le prove online sono troppe per essere ignorate.              |
+| 2 | Siete stati testimone di qualcosa nell'oscurità.                     | 7  | Siete sopravvissuti ad un attacco che non sapete spiegare.    |
+| 3 | Qualcosa è in agguato nei vostri sogni.                              | 8  | Qualcuno vicino a voi vi attira o vi spinge via.              |
+| 4 | Attività della setta (forse hanno reclutato qualcuno di importante). | 9  | Potreste essere un membri di una società segreta.             |
+| 5 | Avete letto qualcosa che non è destinato alle menti mortali.         | 10 | Non l'avete ancora fatto, è a questo che serve la sessione 1! |
+
 
 #### Ideologia e credenze
 Qual è l'ideologia/le convinzioni iniziali del vostro personaggio? Quale lente usano per interpretare il mondo e per guidarli verso l'azione? Create usate la tabella qui sotto o create la vostra:
 
-| | | | |
-|---|--------------------------------------------------------------------------------|----|--------------------------------------------------------|
-| 1 | Tutto ha una spiegazione razionale radicata nella scienza.                       | 6 | Gli individui possono fare la differenza.                     |
-| 2 | Ti ascrivi ad una specifica ideologia politica.                                  | 7 | Una specifica religione ti guida.                        |
-| 3 | La moralità è bianca o nera.                                                   | 8 | Credi nel destino e che abbia un impatto diretto sulla tua vita. |
-| 4 | Credi in poteri superiori. Astrologia, spiritualità, ecc.                         | 9 | Il libero arbitrio è l'unica verità.                           |
-| 5 | Ci sono verità profonde di cui gli altri non sono consapevoli. Le risposte sono là fuori. | 10 | Credi nel potere della comunità.                 |
+|   |                                                                                           |    |                                                                       |
+|---|-------------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------|
+| 1 | Tutto ha una spiegazione razionale radicata nella scienza.                                | 6  | Gli individui possono fare la differenza.                             |
+| 2 | Vi ascrivete ad una specifica ideologia politica.                                         | 7  | Una specifica religione vi guida.                                     |
+| 3 | La moralità è bianca o nera.                                                              | 8  | Credete nel destino e che abbia un impatto diretto sulla vostra vita. |
+| 4 | Credete in poteri superiori. Astrologia, spiritualità, ecc.                               | 9  | Il libero arbitrio è l'unica verità.                                  |
+| 5 | Ci sono verità profonde di cui gli altri non sono consapevoli. Le risposte sono là fuori. | 10 | Credete nel potere della comunità.                                    |
+
 
 
 #### Connessioni
@@ -288,13 +265,13 @@ Qual è l'ideologia/le convinzioni iniziali del vostro personaggio? Quale lente 
 
 Potenziali connessioni
 
-| | | | |
-|---|---------------------------|----|------------------|
-| 1 | Membro della famiglia | 6 | Collaboratore online |
-| 2 | Amante (attuale o ex) | 7 | Eroe |
-| 3 | Amico | 8 | Rivale |
-| 4 | Mentore | 9 | Uno specialista |
-| 5 | Protetto | 10 | PNG |
+|   |                       |    |                      |
+|---|-----------------------|----|----------------------|
+| 1 | Membro della famiglia | 6  | Collaboratore online |
+| 2 | Amante (attuale o ex) | 7  | Eroe                 |
+| 3 | Amico                 | 8  | Rivale               |
+| 4 | Mentore               | 9  | Uno specialista      |
+| 5 | Protetto              | 10 | PNG                  |
 
 
 [torna all'indice](#indice)
@@ -304,73 +281,73 @@ Potenziali connessioni
 
 #### Fisico
 
-| | | | |
-| -------- | -------- | ---- | ---------- |
-| 1 | Atletico | 6 | Magro |
-| 2 | Corpulento | 7 | Basso |
-| 3 | Curvy | 8 | Statuario |
-| 4 | Allampanato | 9 | Robusto |
-| 5 | Robusto | 10 | Imponente |
+|   |             |    |           |
+|---|-------------|----|-----------|
+| 1 | Atletico    | 6  | Magro     |
+| 2 | Corpulento  | 7  | Basso     |
+| 3 | Curvy       | 8  | Statuario |
+| 4 | Allampanato | 9  | Robusto   |
+| 5 | Robusto     | 10 | Imponente |
+
 
 #### Faccia
 
-| | | | |
-| ---- | --------- | ---- | -------- |
-| 1 | Ossuto | 6 | Perfetto |
-| 2 | Rotto | 7 | Rotondo |
-| 3 | Scolpito | 8 | Affilato |
-| 4 | Allungato | 9 | Quadrato |
-| 5 | Smussato | 10 | Affondato |
+|   |           |    |           |
+|---|-----------|----|-----------|
+| 1 | Ossuto    | 6  | Perfetto  |
+| 2 | Rotto     | 7  | Rotondo   |
+| 3 | Scolpito  | 8  | Affilato  |
+| 4 | Allungato | 9  | Quadrato  |
+| 5 | Smussato  | 10 | Affondato |
 
 #### Parlata
 
-| | | | |
-| ------ | ------- | ---- | ---------- |
-| 1 | Schietta | 6 | Greve |
-| 2 | Tonante | 7 | Precisa |
-| 3 | Misteriosa | 8 | Stridula |
-| 4 | Fragorosa | 9 | Balbettante |
-| 5 | Formale | 10 | Bisbigliante |
-
+|   |            |    |              |
+|---|------------|----|--------------|
+| 1 | Schietta   | 6  | Greve        |
+| 2 | Tonante    | 7  | Precisa      |
+| 3 | Misteriosa | 8  | Stridula     |
+| 4 | Fragorosa  | 9  | Balbettante  |
+| 5 | Formale    | 10 | Bisbigliante |
 #### Abbigliamento
 
-| | | | |
-| -------- | ------- | ---- | ------ |
-| 1 | Antico | 6 | Logoro |
-| 2 | Sanguinolento | 7 | Sgargiante |
-| 3 | Elegante | 8 | Livrea |
-| 4 | Sporco | 9 | Fetido |
-| 5 | Esotico | 10 | Sudicio |
+|   |               |    |            |
+|---|---------------|----|------------|
+| 1 | Antico        | 6  | Logoro     |
+| 2 | Sanguinolento | 7  | Sgargiante |
+| 3 | Elegante      | 8  | Livrea     |
+| 4 | Sporco        | 9  | Fetido     |
+| 5 | Esotico       | 10 | Sudicio    |
 
 #### Virtù (opzionale)
 
-| | | | |
-| ------ | ----------- | ---- | --------- |
-| 1 | Ambizioso | 6 | Onorevole |
-| 2 | Cauto | 7 | Umile |
-| 3 | Coraggioso | 8 | Compassionevole |
-| 4 | Disciplinato | 9 | Sereno |
-| 5 | Socievole | 10 | Tollerante |
+|   |              |    |                 |
+|---|--------------|----|-----------------|
+| 1 | Ambizioso    | 6  | Onorevole       |
+| 2 | Cauto        | 7  | Umile           |
+| 3 | Coraggioso   | 8  | Compassionevole |
+| 4 | Disciplinato | 9  | Sereno          |
+| 5 | Socievole    | 10 | Tollerante      |
 
 #### Difetto (opzionale)
 
-| | | | |
-| ---- | ---------- | ---- | -------- |
-| 1 | Aggressivo | 6 | Pigro |
-| 2 | Scorbutico | 7 | Nervoso |
-| 3 | Vile | 8 | Rude |
-| 4 | Bugiardo | 9 | Vanitoso |
-| 5 | Avido | 10 | Vendicativo |
+|   |            |    |             |
+|---|------------|----|-------------|
+| 1 | Aggressivo | 6  | Pigro       |
+| 2 | Scorbutico | 7  | Nervoso     |
+| 3 | Vile       | 8  | Rude        |
+| 4 | Bugiardo   | 9  | Vanitoso    |
+| 5 | Avido      | 10 | Vendicativo |
 
 #### Disgrazie (opzionale)
 
-| | | | |
-| ----------- | ----------- | ---- | ----------- |
-| 1 | Abbandonato | 6 | Truffato |
-| 2 | Assuefatto | 7 | Declassato |
-| 3 | Ricattato | 8 | Screditato |
-| 4 | Condannato | 9 | Ripudiato |
-| 5 | Maledetto | 10 | Esiliato |
+|   |             |    |            |
+|---|-------------|----|------------|
+| 1 | Abbandonato | 6  | Truffato   |
+| 2 | Assuefatto  | 7  | Declassato |
+| 3 | Ricattato   | 8  | Screditato |
+| 4 | Condannato  | 9  | Ripudiato  |
+| 5 | Maledetto   | 10 | Esiliato   |
 
 [torna all'indice](#indice)
 <p></p>
@@ -383,38 +360,38 @@ Tutti i PG iniziano con un **Pacchetto Investigatore**:
 
 #### Armi (d20)
 
-| | | | | |
-| :-------------------: | :--------------: | :----------------------: | :----------------------------: |:----------------------------: |
-| 1 | 2-7 | 8-17 | 18-19 | 20 |
+|                     |                            |                                                   |                         |                    |
+|---------------------|----------------------------|---------------------------------------------------|-------------------------|--------------------|
+| 1                   | 2-7                        | 8-17                                              | 18-19                   | 20                 |
 | Giubbotto corazzato | Arma improvvisata o grezza | Pugnale, Bastone, Taser/Gas lacrimogeno o pistola | Fucile o Fucile a pompa | Magia (vedi Magia) |
 
 
 #### Equipaggiamento investigativo
 
-| | | | | | | | |
-| ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1 | Occhiali per visione notturna | 6 | Manette | 11 | Flashbang | 16 | Vernice spray |
-| 2 | Fascette | 7 | Rampino e corda | 12 | Microfono direzionale | 17 | Laptop e stampante |
-| 3 | Binocolo | 8 | Sacco per cadavere | 13 | Strumenti per tagliare il vetro | 18 | Corda in Kevlar |
-| 4 | Catena e lucchetto | 9 | Torcia tattica | 14 | Una scatola senza cuciture | 19 | Buona macchina fotografica |
-| 5 | Tomo Antico | 10 | Una collana d'avorio (+1 Stabilità) | 15 | Grimaldelli | 20 | Tagliabulloni |
+|   |                               |    |                                     |    |                                 |    |                            |
+|---|-------------------------------|----|-------------------------------------|----|---------------------------------|----|----------------------------|
+| 1 | Occhiali per visione notturna | 6  | Manette                             | 11 | Flashbang                       | 16 | Vernice spray              |
+| 2 | Fascette                      | 7  | Rampino e corda                     | 12 | Microfono direzionale           | 17 | Laptop e stampante         |
+| 3 | Binocolo                      | 8  | Sacco per cadavere                  | 13 | Strumenti per tagliare il vetro | 18 | Corda in Kevlar            |
+| 4 | Catena e lucchetto            | 9  | Torcia tattica                      | 14 | Una scatola senza cuciture      | 19 | Buona macchina fotografica |
+| 5 | Tomo Antico                   | 10 | Una collana d'avorio (+1 Stabilità) | 15 | Grimaldelli                     | 20 | Tagliabulloni              |
 
 #### Memento (d10)
 
-| | | | |
-|---|---|---|---|
-| 1 | Un biglietto di un amore perduto | 6 | Una lettera in una lingua che non puoi identificare |
-| 2 | Un oggetto del tuo background | 7 | Un libro pieno di nomi (nella calligrafia di un altro) |
-| 3 | Un biglietto da visita con un numero scritto sul retro | 8 | Una registrazione vocale |
-| 4 | Un gioiello intagliato nell'osso | 9 | Un file pesantemente modificato |
-| 5 | Un testamento | 10 | Una piccola, vecchia statuetta |
+|   |                                                        |    |                                                        |
+|---|--------------------------------------------------------|----|--------------------------------------------------------|
+| 1 | Un biglietto di un amore perduto                       | 6  | Una lettera in una lingua che non puoi identificare    |
+| 2 | Un oggetto del tuo background                          | 7  | Un libro pieno di nomi (nella calligrafia di un altro) |
+| 3 | Un biglietto da visita con un numero scritto sul retro | 8  | Una registrazione vocale                               |
+| 4 | Un gioiello intagliato nell'osso                       | 9  | Un file pesantemente modificato                        |
+| 5 | Un testamento                                          | 10 | Una piccola, vecchia statuetta                         |
 
 #### Oggetto bonus
 
-| | | | |
-|:-:|:-:|:-:|:-:|
-| 1-5 | 6-13 | 14-19 | 20 |
-| Memento | Attrezzi investigativi | Arma | Magia (vedi sezione magia) |
+|         |                        |       |                            |
+|---------|------------------------|-------|----------------------------|
+| 1-5     | 6-13                   | 14-19 | 20                         |
+| Memento | Attrezzi investigativi | Arma  | Magia (vedi sezione magia) |
 
 [torna all'indice](#indice)
 <p></p>
@@ -424,27 +401,26 @@ Tutti i PG iniziano con un **Pacchetto Investigatore**:
 #### Il gruppo
 Perché il gruppo si è riunito? Usa le risposte della sezione Conosci il tuo personaggio per ispirare la vostra decisione. Usate la tabella qui sotto o create la vostra (d6):
 
-| | |
-|---|-------------------------------------------------------------------------------------------------------------------------|
+|   |                                                                                                                                      |
+|---|--------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | Gli investigatori si incontrano in una tavola calda. Possono conoscersi o meno. Le luci fluorescenti ronzano sul linoleum a scacchi. |
-| 2 | Un semplice "posto sbagliato, momento sbagliato". L'evento che ne deriva lega gli investigatori tra loro.                               |
-| 3 | Uniti attraverso una ricerca auto-guidata. Forum paranormale online? Club? Gruppo di sostegno?                                     |
-| 4 | Un misterioso patrono che ha riunito gli investigatori.                                                        |
-| 5 | I membri della comunità rispondono a una serie di eventi misteriosi.                                                      |
-| 6 | Investigatori (professionisti o dilettanti) che stanno indagando su un evento.                                          |
+| 2 | Un semplice "posto sbagliato, momento sbagliato". L'evento che ne deriva lega gli investigatori tra loro.                            |
+| 3 | Uniti attraverso una ricerca auto-guidata. Forum paranormale online? Club? Gruppo di sostegno?                                       |
+| 4 | Un misterioso patrono che ha riunito gli investigatori.                                                                              |
+| 5 | I membri della comunità rispondono a una serie di eventi misteriosi.                                                                 |
+| 6 | Investigatori (professionisti o dilettanti) che stanno indagando su un evento.                                                       |
 
 #### Legami tra personaggi (opzionale)
 Chiedete ad ogni giocatore di dichiarare una relazione con un altro personaggio al tavolo. Questo dovrebbe essere ispirato dal background, da L'Abisso ti fissa e dalla sezione Il Gruppo della creazione del personaggio. Alcuni esempi sono:
 
-| | |
-|---|--------------------------------------------------------------|
-| 1 | _____ mi sta nascondendo qualcosa.                           |
-| 2 | _____ è il mio ex.                                              |
+|   |                                                                    |
+|---|--------------------------------------------------------------------|
+| 1 | _____ mi sta nascondendo qualcosa.                                 |
+| 2 | _____ è il mio ex.                                                 |
 | 3 | _____ mi ha salvato da qualsiasi cosa abbia cercato di attaccarmi. |
-| 4 | _____ è il mio compagno di bevute |
-| 5 | _____ è il mio collega di _____ |
-| 6 | _____ è il mio vicino di casa.                                        |
-
+| 4 | _____ è il mio compagno di bevute                                  |
+| 5 | _____ è il mio collega di _____                                    |
+| 6 | _____ è il mio vicino di casa.                                     |
 
 #### Veicoli
 Determinate come gruppo a quali tipi di veicoli o mezzi di trasporto ha accesso il gruppo. Il gruppo può avere accesso a più di un veicolo. Gli inseguimenti in auto sono una parte essenziale della soluzione di un mistero. I veicoli hanno PC. Quando è ridotto a 0 PC è distrutto. Distruggere un veicolo può causare danni a quelli dentro e intorno al veicolo.
@@ -456,77 +432,76 @@ Determinate come gruppo a quali tipi di veicoli o mezzi di trasporto ha accesso 
 
 #### Protezione
 
-|| |
-|--------------------------------------------------------------|-----|
-|Gilet corazzato (+1 Armatura) |$1000 |
-|Amuleto del vecchio paese (+1 Stabilità) |$1000 |
-| Maschera antigas (protegge dalle tossine presenti nell'aria) |$100 |
-|Maschera (protegge la tua identità) |$20 |
-
+|                                                              |       |
+|--------------------------------------------------------------|-------|
+| Gilet corazzato (+1 Armatura)                                | $1000 |
+| Amuleto del vecchio paese (+1 Stabilità)                     | $1000 |
+| Maschera antigas (protegge dalle tossine presenti nell'aria) | $100  |
+| Maschera (protegge la tua identità)                          | $20   |
 
 #### Armi
 
-| | |
-|--------------------------------------------------------------|-----|
-|**Attacco disarmato** (d4 danni) |Libero |
-|**Armi improvvisate o grezze** (d6 danni, ingombranti) |$20 |
-|**Armi a mano:** Pugnale, Bastone, Ascia (d6 danni) |$50 |
-|**Taser/Gas lacrimogeno Combo** (tiro salvezza DEX o momentaneamente stordito) |$50 |
-|**Pistola** (d6 danni) |$200 |
-|**Doppietta a canne mozze** (d6 esplosione, ingombrante) |$500 |
-|**Fucile** (d8 danno, ingombrante) |$750 |
-|**Doppietta** (d8 danno, ingombrante) |$750 |
-|**Fucile d'assalto** (d8 o d6 danno da esplosione, ingombrante) |$1250 |
-|**Fucile da combattimento** (d6 danno da esplosione con d8 area, ingombrante) |$1250 |
-|**Fucile di precisione** (d8 danno o d12 danno se nascosto, ingombrante) |$1750 |
+|                                                                                |        |
+|--------------------------------------------------------------------------------|--------|
+| **Attacco disarmato** (d4 danni)                                               | Libero |
+| **Armi improvvisate o grezze** (d6 danni, ingombranti)                         | $20    |
+| **Armi a mano:** Pugnale, Bastone, Ascia (d6 danni)                            | $50    |
+| **Taser/Gas lacrimogeno Combo** (tiro salvezza DEX o momentaneamente stordito) | $50    |
+| **Pistola** (d6 danni)                                                         | $200   |
+| **Doppietta a canne mozze** (d6 esplosione, ingombrante)                       | $500   |
+| **Fucile** (d8 danno, ingombrante)                                             | $750   |
+| **Doppietta** (d8 danno, ingombrante)                                          | $750   |
+| **Fucile d'assalto** (d8 o d6 danno da esplosione, ingombrante)                | $1250  |
+| **Fucile da combattimento** (d6 danno da esplosione con d8 area, ingombrante)  | $1250  |
+| **Fucile di precisione** (d8 danno o d12 danno se nascosto, ingombrante)       | $1750  |
 
 #### Esplosivi
 
-| | |
-|--------------------------------------------------------------|-----|
-|**Molotov** (incendia l'area, causando d6 danni continui fino allo spegnimento) |$50 |
-|**Flashbang** (esplosione, acceca temporaneamente chi fallisce un tiro salvezza DEX) |$100 |
-|**Granata** (d8 danni, esplosione) |$100 |
-|**IED** (d6 danni, esplosione con d4 danni continuati per round) |$200 |
+|                                                                                      |      |
+|--------------------------------------------------------------------------------------|------|
+| **Molotov** (incendia l'area, causando d6 danni continui fino allo spegnimento)      | $50  |
+| **Flashbang** (esplosione, acceca temporaneamente chi fallisce un tiro salvezza DEX) | $100 |
+| **Granata** (d8 danni, esplosione)                                                   | $100 |
+| **IED** (d6 danni, esplosione con d4 danni continuati per round)                     | $200 |
 
 #### Pozioni moderne
 
-| | |
-|--------------------------------------------------------------|-----|
-|**Tranquillizzanti** (Salvate con FOR o svienite) |$50 |
-|**Droghe** (sballo da droga, potenziale tiro salvezza CTRL o FOR per affrontare gli effetti negativi) |$50 |
-|**Avvelenamento** (perdete d20 FOR se passa attraverso una barriera sangue-tessuto) |$50 |
-|**Antitossina** (ferma le tossine - sgradevole) |$50 |
-|**Acido** (d4 danni fino alla rimozione, liquido caustico che brucia attraverso i materiali |$100 |
-|**Stimolanti** (recupero immediato dai danni critici, +1d4 di DES temporaneo) |$100 |
+|                                                                                                       |      |
+|-------------------------------------------------------------------------------------------------------|------|
+| **Tranquillizzanti** (Salvate con FOR o svienite)                                                     | $50  |
+| **Droghe** (sballo da droga, potenziale tiro salvezza CTRL o FOR per affrontare gli effetti negativi) | $50  |
+| **Avvelenamento** (perdete d20 FOR se passa attraverso una barriera sangue-tessuto)                   | $50  |
+| **Antitossina** (ferma le tossine - sgradevole)                                                       | $50  |
+| **Acido** (d4 danni fino alla rimozione, liquido caustico che brucia attraverso i materiali           | $100 |
+| **Stimolanti** (recupero immediato dai danni critici, +1d4 di DES temporaneo)                         | $100 |
 
 
 #### Attrezzi - non include gli strumenti medi che si trovano nella maggior parte delle case moderne
 
-| | | | |
-|-------------------------------------|--------------|------------------------|--------|
-| Bypass per Allarme | $500 | Kit di contraffazione | $150 |
-| Trappola per orsi | $100 | Attrezzi per tagliare il vetro | $150 |
-| Binocolo | $100 | Grasso | $30 |
-| Torcia (saldatura) | $250 | Manette | $50 |
-| Sacco per cadaveri | $25 | Lampada da testa | $25 |
-| Tagliabulloni | $40 | Laptop | $1,000 |
-| Kit di apertura auto | $75 | Accendino | $10 |
-| Catena e accessori; Serratura | $50 | Attrezzi da fabbro | $150 |
-| Motosega | $200 | Biglie | $20 |
-| Attrezzatura da arrampicata | $150 | Kit di attrezzi meccanici | $150 |
-| Auricolari (comunicatore) | $500 | Cuscinetti a sfera | $500 | Cuscinetti a sfera in metallo | $40 |
-| Walkie Talkie | $200 | Visore notturno | $200 |
-| Microfono direzionale | $200 | Kit farmacista | $150 |
-| Drone / Drone avanzato | $200 / $1000 | Ariete portatile | $75 |
-| Macchina fotografica buona | $400 | Argano portatile | $100 |
-| Borsone | $50 | Carrucola & Corda | $25 |
-| Borsone pieno di oggetti per il Black Bloc | $150 | Spuntoni Stradali (piede di corvo) | $50 |
-| Kit di attrezzi elettrici | $150 | Mazza | $40 |
-| Kit medico d'emergenza | $50 | Spike Strip | $150 |
-| Kit di chirurgia d'emergenza | $100 | Vernice spray | $15 |
-| Carta d'identità falsa | $200 | Telo | $25 |
-| Flare | $20 | Fascette | $25 |
+|                                            |              |                                    |        |
+|--------------------------------------------|--------------|------------------------------------|--------|
+| Bypass per Allarme                         | $500         | Kit di contraffazione              | $150   |
+| Trappola per orsi                          | $100         | Attrezzi per tagliare il vetro     | $150   |
+| Binocolo                                   | $100         | Grasso                             | $30    |
+| Torcia (saldatura)                         | $250         | Manette                            | $50    |
+| Sacco per cadaveri                         | $25          | Lampada da testa                   | $25    |
+| Tagliabulloni                              | $40          | Laptop                             | $1,000 |
+| Kit di apertura auto                       | $75          | Accendino                          | $10    |
+| Catena e accessori; Serratura              | $50          | Attrezzi da fabbro                 | $150   |
+| Motosega                                   | $200         | Biglie                             | $20    |
+| Attrezzatura da arrampicata                | $150         | Kit di attrezzi meccanici          | $150   |
+| Auricolari (comunicatore)                  | $500         | Cuscinetti a sfera in metallo      | $40    |
+| Walkie Talkie                              | $200         | Visore notturno                    | $200   |
+| Microfono direzionale                      | $200         | Kit farmacista                     | $150   |
+| Drone / Drone avanzato                     | $200 / $1000 | Ariete portatile                   | $75    |
+| Macchina fotografica buona                 | $400         | Argano portatile                   | $100   |
+| Borsone                                    | $50          | Carrucola & Corda                  | $25    |
+| Borsone pieno di oggetti per il Black Bloc | $150         | Spuntoni Stradali (piede di corvo) | $50    |
+| Kit di attrezzi elettrici                  | $150         | Mazza                              | $40    |
+| Kit medico d'emergenza                     | $50          | Spike Strip                        | $150   |
+| Kit di chirurgia d'emergenza               | $100         | Vernice spray                      | $15    |
+| Carta d'identità falsa                     | $200         | Telo                               | $25    |
+| Flare                                      | $20          | Fascette                           | $25    |
 
 [torna all'indice](#indice)
 <p></p>
@@ -585,9 +560,9 @@ Un PG non può portare più oggetti di quanti ne permetta il suo inventario. I v
 ### Reazioni
 Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, il Facilitatore può chiedere ad un giocatore di tirare 2d6 e consultare la seguente tabella:
 
-| | | | | |
-| :-----: | :--: | :-----: | :--: | :--: |
-| 2 | 3-5 | 6-8 | 9-11 | 12 |
+|        |            |         |         |       |
+|--------|------------|---------|---------|-------|
+| 2      | 3-5        | 6-8     | 9-11    | 12    |
 | Ostile | Diffidente | Curioso | Gentile | Utile |
 
 
@@ -664,10 +639,10 @@ Se il danno porta la PC di un bersaglio sotto lo zero, la sua FOR viene diminuit
 
 ### Stress Critico = Crollo
 Lo **Stress** che riduce la PC di un bersaglio sotto zero diminuisce il CTRL del bersaglio della quantità rimanente. Dovete quindi effettuare un tiro salvezza CTRL per evitare lo **Stress Critico**.
-<br>Se un personaggio fallisce il tiro salvezza su CTRL, subisce uno stress critico e guadagna il Crollo dalla tabella [Crollo da Stress](#tabelle-crollo-da-stress).
+<br>Se un personaggio fallisce il tiro salvezza su CTRL, subisce uno stress critico e guadagna il Crollo dalla tabella [Crollo da Stress](#tabelle-di-crollo-da-stress).
 
 ### 0 PC Stress = Crollo
-Se lo stress di un PG riduce la sua PC esattamente a 0, deve immediatamente tirare o scegliere un risultato dalla tabella [Crollo da Stress](#tabelle-crollo-da-stress) proprio come se avesse fallito il tiro salvezza CTRL.
+Se lo stress di un PG riduce la sua PC esattamente a 0, deve immediatamente tirare o scegliere un risultato dalla tabella [Crollo da Stress](#tabelle-di-crollo-da-stress) proprio come se avesse fallito il tiro salvezza CTRL.
 
 
 
@@ -718,13 +693,13 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 
 #### Passo 1 - Formula degli incantesimi (2d6)
 
-| | | |
-|---|---------------------------------|------------------------------------|
-| | 1-3 | 4-6 |
-| 1 | Effetto Fisico + Forma Fisica | Elemento Etereo + Forma Fisica |
-| 2 | Effetto Fisico + Forma Eterea | Elemento Etereo + Forma Eterea |
-| 3 | Effetto Etereo + Forma Fisica | Effetto Fisico + Elemento Fisico |
-| 4 | Effetto Etereo + Forma Eterea | Effetto Fisico + Elemento Etereo |
+|   |                                |                                  |
+|---|--------------------------------|----------------------------------|
+|   | 1-3                            | 4-6                              |
+| 1 | Effetto Fisico + Forma Fisica  | Elemento Etereo + Forma Fisica   |
+| 2 | Effetto Fisico + Forma Eterea  | Elemento Etereo + Forma Eterea   |
+| 3 | Effetto Etereo + Forma Fisica  | Effetto Fisico + Elemento Fisico |
+| 4 | Effetto Etereo + Forma Eterea  | Effetto Fisico + Elemento Etereo |
 | 5 | Elemento Fisico + Forma Fisica | Effetto Etereo + Elemento Fisico |
 | 6 | Elemento Fisico + Forma Eterea | Effetto Etereo + Elemento Etereo |
 
@@ -737,27 +712,27 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 
 #### Presagi e catastrofi magiche
 
-| | |
-|---------|----------------------------|
-| 1 | Gli animali muoiono |
-| 2 | La città appare |
-| 3 | Nebbia mortale |
-| 4 | Peste dei sogni |
-| 5 | Notte senza fine |
-| 6 | Tempesta senza fine |
-| 7 | Crepuscolo senza fine |
-| 8 | Inverno senza fine |
-| 9 | Foresta appare |
+|    |                        |
+|----|------------------------|
+| 1  | Gli animali muoiono    |
+| 2  | La città appare        |
+| 3  | Nebbia mortale         |
+| 4  | Peste dei sogni        |
+| 5  | Notte senza fine       |
+| 6  | Tempesta senza fine    |
+| 7  | Crepuscolo senza fine  |
+| 8  | Inverno senza fine     |
+| 9  | Foresta appare         |
 | 10 | Le tombe si spalancano |
-| 11 | Sonno di massa |
-| 12 | Le meteore colpiscono |
-| 13 | Gli specchi parlano |
-| 14 | Nessuna stella |
-| 15 | L'estraneo entra |
-| 16 | La gente sparisce |
-| 17 | Il portale si apre |
-| 18 | La Spaccatura si apre |
-| 19 | La torre appare |
+| 11 | Sonno di massa         |
+| 12 | Le meteore colpiscono  |
+| 13 | Gli specchi parlano    |
+| 14 | Nessuna stella         |
+| 15 | L'estraneo entra       |
+| 16 | La gente sparisce      |
+| 17 | Il portale si apre     |
+| 18 | La Spaccatura si apre  |
+| 19 | La torre appare        |
 | 20 | L'acqua diventa sangue |
 
 [torna all'indice](#indice)
@@ -792,314 +767,310 @@ Le **Reliquie** sono oggetti potenti e pericolosi toccati dagli Antichi Poteri. 
 [torna all'indice](#indice)
 <p></p>
 
-## Stress & Fallout
-Stress is identical to damage, but targets CTRL instead of STR. Stress may come as a result of narrative consequences, failed saves, magic repercussions, or enemy attacks. Stress targets HP before going to CTRL.
+## Stress & Crollo
+Lo stress è identico al danno, ma ha come bersaglio il CTRL invece della FOR. Lo stress può derivare da conseguenze narrative, tiri salvezza falliti, ripercussioni magiche o attacchi nemici. Lo stress prende di mira la PC prima di passare al CTRL.
 
-### Stress Examples
-Note: The amount and frequency of how you deal stress establishes the tone and pacing of your game. It is a dial to control the amount of Weird your players encounter and how likely they are to change as a result.
+### Esempi di Stress
+Nota: La quantità e la frequenza dell'uso dello stress stabilisce il tono e il ritmo del vostro gioco. È una manopola per controllare la quantità di Bizzarro che i vostri giocatori incontrano e quanto è probabile che cambino di conseguenza.
 
-|   |   |
-|---|---|
-| 1 Stress  |  **GLIMPSE**: Encountering the strange or odd.  |
-| 1d4 Stress  |  **CONTACT**: The weird and unexplainable.  |
-| 1d6 Stress  | **EXPOSURE**: Directly encountering the unknowable. Reality bends.  |
-| 1d8 Stress  |**CATASTROPHE**: Major Powers, Omens, Catastrophes. Reality is close to breaking.   |
-| 1d10 Stress | **DOOM**: Direct contact with Old Powers. Reality rupturing. |
+|             |                                                                                        |
+|-------------|----------------------------------------------------------------------------------------|
+| 1 Stress    | **OCCHIATA**: Incontrare lo strano o il bizzarro.                                      |
+| 1d4 Stress  | **CONTATTO**: Lo strano e l'inspiegabile.                                              |
+| 1d6 Stress  | **ESPOSIZIONE**: Incontro diretto con l'inconoscibile. La realtà si piega.             |
+| 1d8 Stress  | **CATASTROFE**: Poteri maggiori, presagi, catastrofi. La realtà è vicina alla rottura. |
+| 1d10 Stress | **ROVINA**: Contatto diretto con Poteri Antichi. Rottura della realtà.                 |
 
-### Stress Fallout Tables
-Some moments change an investigator forever.Some moments change an investigator forever. Players roll or choose from the the Stress Fallout table when either:
-- Stress reduces a PC's HP to exactly 0
-- The character takes **critical stress**.
+### Tabelle di Crollo da Stress
+Alcuni momenti cambiano un investigatore per sempre. I giocatori tirano o scelgono dalla tabella Crollo da Stress quando:
+- Lo stress riduce la PC di un PG esattamente a 0
+- Il personaggio prende **stress critico**.
 
-Unless marked, the Fallout can only be chosen once per table. Each Fallout takes up an inventory slot. It cannot be removed.
+A meno che non sia segnato, il Crollo può essere scelto solo una volta per tabella. Ogni Crollo occupa uno spazio dell'inventario. Non può essere rimosso.
+
+**Nota per i Facilitatori:** Il tono della tabella del Crollo da Stress riflette i temi e gli obiettivi del gioco. Regolatevi in base a ciò che funziona per il vostro tavolo, aggiungendo o cambiando le voci come necessario per aumentare (o diminuire) il Bizzarro. Questo è la principale manopola per controllare l'orrore cosmico del vostro gioco.
+
+|    |                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | **Siete stati sostituiti?** Avete visto cosa possono fare, le loro magie e i loro inganni. Cosa potrebbe impedire loro di prendervi? Forse non siete chi credete di essere? Come fareste a saperlo?  Durante il vostro prossimo momento di riflessione tranquilla, tirate 1d6. Se il totale è superiore alla vostra PC massima, prendete il nuovo risultato.                                                                                      |
+| 2  | **Vi ricordate di un viaggiatore sconosciuto:** Questi ricordi non sono i vostri. Sono di un tempo diverso, di un luogo diverso, da una prospettiva così diversa dalla vostra. Le realtà che attraversano sono così estranee e diverse, i loro sentimenti così stranieri. Se solo poteste capire quello che hanno provato. Durante il vostro prossimo riposo, tirate 1d6. Se il totale è superiore ai tuoi HP massimi, prendi il nuovo risultato. |
+| 3  | **Paranoia:** È paranoia se le preoccupazioni sono del tutto ragionevoli? Hai visto cosa succede nel buio, sai cosa succede nella notte.  Dopo una settimana, tira 1d6. Se il totale è superiore alla vostra PC massima, prendete il nuovo risultato.                                                                                                                                                                                             |
+| 4  | **Plagiati dagli incubi:** Viene per voi ogni notte, senza sbagliare. Non sapete se sono dall'inizio o dalla fine. Tutto quello che sapete è che non si fermano, e che devono significare qualcosa. Dopo una settimana di incubi, raccontate al vostro Facilitatore due immagini distinte che indugiano ai limiti del vostro ricordo.                                                                                                             |
+| 5  | **Mondo dello specchio:** All'inizio tutto sembrava a posto, ma ora ne siete sicuri - il mondo dentro lo specchio è diverso. Gli sguardi laterali, lo spostamento dei luoghi, è innegabile. Quando cominciate ad accorgervene, tirate 2d6. Se il totale è superiore alla vostra PC massima, prendete il nuovo risultato.                                                                                                                          |
+| 6  | **Strambo:** Adottate un comportamento strano che mette gli altri a disagio. Se resistete a indulgere nella vostra "Stranezza" per 24 ore, prendete l'etichetta Deprivato. Se gli altri vi vedono impegnati in questo comportamento inquietante, devono effettuare un tiro salvezza su CTRL o prendere 1d4 Stress.  Dopo il primo caso, tirate 3d6. Se il totale è più alto del vostro attuale CTRL, prendete il nuovo risultato.                 |
+| 7  | **Fame:** Sviluppate una fame innaturale per le cose insolite. Se non saziate il vostro appetito per 24 ore, prendete l'etichetta Deprivato. Quando mangiate, ripristinate la PC e date 1d4 di stress a chiunque possa vedere. Dopo la prima volta, tirate 3d6. Se il totale è superiore alla vostra attuale FOR, prendete il nuovo risultato.                                                                                                    |
+| 8  | **Sfregiato:** Ogni ferita che infliggete lascia il suo segno lacerante sul vostro corpo. Dopo la prima volta, effettuate un tiro salvezza su CTRL. Se lo superate, aumentate la tua FOR massima di 1d4.                                                                                                                                                                                                                                          |
+| 9  | **Comunione Liminale:** All'inizio non si notava, ma lentamente avete cominciato a fare regolarmente una sequenza di gesti, parole o azioni, quasi come se steste eseguendo un rituale. Quando cominciate ad accorgervene, effettuate un tiro salvezza su CTRL. Se lo superate, aumentate il vostro CTRL massimo di 1d4.                                                                                                                          |
+| 10 | **Corruzione Magica** *(questo può essere subito più volte per personaggio)*:  La carne è debole. Una parte del vostro corpo viene visibilmente modificata dalla tua vicinanza con il Bizzarro. Il Facilitatore e il Giocatore devono decidere come questo cambiamento si manifesta e se ha qualche impatto meccanico.                                                                                                                            |
 
 
-**Note to Facilitators:** The tone of the stress fallout table reflects the themes and goals of the game. Adjust for what works for your table, adding or changing entries as needed to ratchet up (or dial back) the weird. This is the main mechanical dial for the cosmic horror of your game.
 
-|  | Stress Fallout Tables                                                                                                                                                                                                                                                                                                                 |
-|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|
-                                                                                                                                                                                                  |
-| 1                      | **Have you been replaced?** You’ve seen what they can do -their magics and their deceptions. What would stop them from taking you? Maybe you aren’t who you think you are? How would you even know? <br>During your next moment of quiet reflection, roll 1d6. If the total is higher than your max HP, take the new result. |
-| 2                      | **Memories of an Unknown Traveler:** These memories are not your own. They are of a different time, a different place, from a perspective so unlike your own. The realities they walk through are so alien and different, their feelings so foriegn. If only you could understand what they experienced.<br>During your next rest, roll 1d6. If the total is higher than your max HP, take the new result. |
-| 3                      | **Paranoia:** Is it paranoia if the worries are completely reasonable? You’ve seen what happens in the dark, you know what goes bump in the night. <br>After a week, roll 1d6. If the total is higher than your max HP, take the new result.                                                                                |
-| 4                      | **Plagued by Nightmares:** It comes for you every night, without fail. You do not know if they are from the beginning, or the end. All you know is that they won’t stop, and that they must mean something. After a week of nightmares, tell your Facilitator two distinct images that linger at the edge of your remembering. |
-| 5                      | **Mirror World:** Everything seemed okay at first, but now you are sure of it - the world inside the mirror is different. The side glances, the shifting of places, it is undeniable.<br>When you first start to notice, roll 2d6. If the total is higher than your max HP, take the new result.                            |
-| 6                      | **Odd:** You adopt an odd behavior that makes others uncomfortable. If you resist indulging in your “Oddity” for 24 hours, take the Deprived tag. If others see you engage in this creepy behavior, they must make a CTRL save or take 1d4 Stress. <br>After the first instance, roll 3d6. If the total is higher than your current CTRL, take the new result. |
-| 7                      | **Hunger:**  You develop an unnatural hunger for the unusual. If you do not satiate your appetite for 24 hours, take the Deprived tag. When you eat, restore HP and give 1d4 stress to any that can see.<br>After the first instance, roll 3d6. If the total is higher than your current STR, take the new result. |
-| 8                      | **Scarred:** Every wound you inflict leaves its ragged mark upon your body.<br>After the first instance, make a CTRL save. If you pass, increase your max STR by 1d4.                                                                                                                                                       |
-| 9                      | **Liminal Communion:** It wasn’t noticeable at first, but you’ve slowly begun to regularly do a sequence of gestures, words, or actions -almost as if you are performing a ritual.<br>When you first start to notice, make a CTRL save. If you pass, increase your max CTRL by 1d4.                                         |
-| 10                     | **Magical Corruption** *(this can be taken multiple times per character)*:  Flesh is weak. A part of your body becomes visibly changed through your proximity to the weird. The Facilitator and Player should decide on how that change manifests and if it has any mechanical impacts.                                                                                                                                                                                      |
-
-|  |                                                                                                                                                                                                                                                                                                                                                          |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                        |                                                                                                                                                                                                                                                                                                                                                                 |                                                       |
-| 11                     | **Threshold:** There is a pale door with a black handle. It is unremarkable other than the fact that this door can seemingly appear anywhere. Sometimes the door is in places it should not be. Sometimes it stands alone, attached to nothing at all. The one thing you are sure of is that it is the same door each time- one you have not yet been able to open. |
-| 12                     | **Neural Superposition:**  You see images of unknown places superposed onto this one, sometimes making it difficult to tell what is real. In another time you may have been called an oracle. <br>When you roll **DEX saves**, roll 2d20 and take the lowest result. Once per day you see something significant (ask your Facilitator what it is).           |
-| 13                     | **Seventh Son of a Seventh Son:** Enough exposure has shifted and changed you. You are more connected to the otherworldly. Add Magic to your character sheet and follow the rules. This new power is great, and terrible.<br>The first time you use a spell it causes 1d6 stress.<br><br>Your second spell causes 1d4 stress<br><br>Finally the third spell you cast causes 1 stress. |
-| 14                     | **Marked by fear:**  The core of your being has been twisted and changed. When you act in a way that manifests your marked fear and have to make a save, roll 2d20 and take the lowest result. When you resist an opportunity to indulge the fear, take 1d4 stress. <br>Create a fundamental fear with your Facilitator.                                                                                            |
-| 15                     | **Heavy is the head:** An ethereal crown hangs above your head. It is not visible to all, only a special few. Tales have been told of your coming.<br>Make a CTRL save. If you pass, increase your max CTRL by 1d6.                                                                                                                                                 |
-| 16                     | **Full to Bursting:** You have a feeling of fullness and contentment. <br>Next time you would fail a critical damage STR save:<br>you succeed instead. Immediately and violently begin to vomit vermin (player’s choice). <br><br>Any being that can see they must make a CTRL save or take 1d6 stress.<br><br>Roll 3d6. If the total is higher than your max CTRL, take the new result. |
-| 17                     | **Progeny:** Something is growing inside of you. Hope has long since abandoned it, and it has no more room for dreams.<br>Roll 2d6. Take the new result as your max HP                                                                                                                                                                                              |
-| 18                     | **Fate’s Web** *(this can only be taken once per character but multiple times per table)*: At least a puppet can see the strings that bind it, if only you were so lucky. <br>Roll on the Magical Fallout Table - [Omens and Magical Catastrophes](#Omens-and-catastrophes).                                                                                                                |
-| 19                     | **The Hunt:** Patronage is a dangerous thing. It becomes harder to ignore the primal impulses that burn deep inside you. Your attacks are **Enhanced** Critical Damage mutilates your body but you can continue to act. <br>You become the primary target of otherworldly and attacks made against you are **Enhanced**.                                                                |
-| 20                     | **Doomed** *(this can be taken multiple times per character)*: <br>You have been branded for sacrifice, anointed for doom. If your next critical save against damage is a failure, you die horribly. If it is a success, you roll 3d6 + the number of times you’ve taken Doomed. If the total is higher than your max HP, take the new result.                        |
+| 11 | **Soglia:** C'è una porta chiara con una maniglia nera. È irrilevante, a parte il fatto che questa porta può apparire apparentemente ovunque. A volte la porta si trova in posti dove non dovrebbe essere. A volte si trova da sola, attaccata a niente. L'unica cosa di cui siete sicuri è che si tratta sempre della stessa porta, che non siete ancora riusciti ad aprire. |
+| Vedete immagini di luoghi sconosciuti sovrapposte a questa, il che rende a volte difficile distinguere ciò che è reale. In un altro tempo potrestete essere stato chiamati oracoli. <br>Quando tirate i tiri salvezza su **DES**, tirate 2d20 e prendete il risultato più basso. Una volta al giorno vedete qualcosa di significativo (chiedete al vostro Facilitatore di cosa si tratta).           |
+| 13 | **Settimo Figlio di Settimo Figlio:** Un'esposizione sufficiente vi ha cambiato. Siete più connessi con l'ultraterreno. Aggiungete la Magia alla vostra scheda personaggio e seguite le regole. Questo nuovo potere è grande, e terribile.<br>La prima volta che usate un incantesimo causa 1d6 di stress.<br><br>Il vostro secondo incantesimo causa 1d4 di stress<br><br>Infine il terzo incantesimo che lanciate causa 1 di stress. |
+| 14 | **Segnato dalla paura:** Il nucleo del vostro essere è stato contorto e cambiato. Quando agite in un modo che manifesta la vostra paura marcata e devote fare un tiro salvezza, tirate 2d20 e prendete il risultato più basso. Quando resistite ad un'opportunità di assecondare la paura, prendete 1d4 di stress. <br>Create una paura fondamentale con il vostro Facilitatore.                                                                                            |
+| 15 | **Pesante è la testa:** Una corona eterea pende sopra la vostra testa. Non è visibile a tutti, solo a pochi speciali. Sono state raccontate storie sulla vostra venuta.<br>Fate un salvataggio su CTRL. Se lo superate, aumentate il vostro CTRL massimo di 1d6.                                                                                                                                                 |
+| 16 | **Pieno fino a scoppiare:** Avete una sensazione di pienezza e contentezza. <br>La prossima volta che fallirete un tiro salvezza su FOR con danno critico:<br>avrete invece successo. Immediatamente e violentemente iniziate a vomitare parassiti (a scelta del giocatore). <br><br>Ogni essere che può vedere deve effettuare un tiro salvezza su CTRL o prendere 1d6 di stress.<br><br>Tirate 3d6. Se il totale è superiore al vostro CTRL massimo, prendete il nuovo risultato. |
+| 17 | **Progenie:** Qualcosa sta crescendo dentro di voi. La speranza l'ha abbandonata da tempo e non ha più spazio per i sogni.<br>Rilanciate 2d6. Prendete il nuovo risultato come vostra PC massima.
+| 18 | **Ragnatela del Fato** *(questo può essere preso solo una volta per personaggio ma più volte per tabella)*: Almeno un burattino può vedere i fili che lo legano, se solo voi foste così fortunati. <br>Tirate sulla Tabella delle Ricadute Magiche - [Presagi e Catastrofi Magiche](#presagi-e-catastrofi).                                                                                                                |
+| 19 | **La Caccia:** Il patrocinio è una cosa pericolosa. Diventa più difficile ignorare gli impulsi primari che bruciano dentro di voi. I vostri attacchi sono **Potenziati** Il danno critico mutila il vostro corpo ma voi potete continuare ad agire. <br>Diventate il bersaglio principale degli ultraterreni e gli attacchi effettuati contro di voi sono **Potenziati**.                                                                |
+| 20 | **Condannato** *(questo può essere preso più volte per personaggio)*: <br>Siete stato marchiati per il sacrificio, unti per il destino. Se il vostro prossimo tiro salvezza critico contro i danni è un fallimento, morite orribilmente. Se è un successo, tirate 3d6 + il numero di volte che avete preso Condannato. Se il totale è superiore alla vostra PC massima, prendete il nuovo risultato.       |
 
 [torna all'indice](#indice)
 <p></p>
 
-# Paranatural Bestiary
+# Bestiario Paranormale
 
-**Cultist**
- <br>3 HP, 1 Armor, 8 STR, 12 DEX, 10 CTRL
- <br>Dagger (d6), Blood Sigil (d4 Stress)
-- Every cult needs followers, footsoldiers, and believers.
-- To please their masters, to gain access to power, to survive.
-- Rarely alone.
+**Cultista**
+ <br>3 PC, 1 Armatura, 8 FOR, 12 DES, 10 CTRL
+ <br>Pugnale (d6), Sigillo del sangue (d4 Stress)
+- Ogni culto ha bisogno di seguaci, soldati e credenti.
+- Per compiacere i loro padroni, per avere accesso al potere, per sopravvivere.
+- Raramente da soli.
 
-**Frog-Men**
- <br> 4 HP, 13 STR, 12 DEX, 10 CTRL
- <br>Claws (d6) Tongue (d8)
-- Sapient humanoid frogs. Large, muscular. Some are able to hide as men.
-- To remain hidden. To free their master. To inherit the earth.
-- Some have a moderate ability to create illusions and cloud minds. This can cause CTRL damage
+**Uomini rana**
+ <br> 4 PC, 13 FOR, 12 DES, 10 CTRL
+ <br>Artigli (d6) Lingua (d8)
+- Rane umanoidi senzienti. Grandi e muscolose. Alcuni sono in grado di nascondersi come uomini.
+- Rimanere nascosti. Per liberare il loro padrone. Per ereditare la terra.
+- Alcuni hanno una moderata capacità di creare illusioni e offuscare le menti. Questo può causare danni al CTRL
 
-**Special Agent**
- <br>6 HP, 1 Armor, 14 STR, 12 DEX, 10 CTRL
- <br>Service Pistol (d6)
-- Black suits, black glasses. Some believe, others doubt, most follow orders.
-- To obscure, to acquire, to maintain order
-- Critical Damage: The special agent apprehends the target.
+**Agente speciale**
+ <br>6 PC, 1 Armatura, 14 FOR, 12 DES, 10 CTRL
+ <br>Pistola di servizio (d6)
+- Abiti neri, occhiali neri. Alcuni credono, altri dubitano, la maggior parte segue gli ordini.
+- Per oscurare, per acquisire, per mantenere l'ordine
+- Danno critico: L'agente speciale arresta il bersaglio.
 
-**Child of the Spoor**
- <br> 4 HP, 1 Armor, 12 STR, 8 DEX, 6 CTRL
- <br>Spoor blessed dagger (d6)
-- The flesh is host to parasitic fungus that has overtaken the brain and connected them to the grand structure. Some have fruiting bodies sprouting from fissures in the flesh, while others are barely noticeable, except for the slight fuzz.
-- To propagate. To gestate. To &^%$(~!@
-- Critical Damage: Some of the spoors enter the victim's body.
+**Bambino della Spora**
+ <br> 4 PC, 1 Armatura, 12 FOR, 8 DES, 6 CTRL
+ <br>Pugnale benedetto della spora (d6)
+- La carne è ospite di un fungo parassita che ha preso il sopravvento sul cervello e li ha collegati alla grande struttura. Alcuni hanno corpi fruttiferi che spuntano dalle fessure della carne, mentre altri sono appena percettibili, tranne che per la leggera peluria.
+- Propagare. Gestire. Per &^%$(~!@
+- Danno critico: Alcune spore entrano nel corpo della vittima.
 
-**Corporate Analyst**
- <br>8 HP, 1 Armor, 10 STR, 14 DEX, 14 CTRL
- <br>Magitek prototype weapon (d6 blast)
-- Varying in look but always professional in dress and appearance.
-- To protect corporate interests, to test, to acquire.
-- Each analyst has a different specialty, all pose unique dangers to the fabric of reality. Give a critical damage trigger that reflects their department.
+**Analista corporativo**
+ <br>8 PC, 1 Armatura, 10 FOR, 14 DES, 14 CTRL
+ <br>Arma prototipo Magitek (d6 esplosione)
+- Aspetto variabile, ma sempre professionale nell'abbigliamento e nell'aspetto.
+- Per proteggere gli interessi aziendali, per testare, per acquisire.
+- Ogni analista ha una specialità diversa, tutti pongono pericoli unici al tessuto della realtà. Dare un innesco di danno critico che riflette il loro dipartimento.
 
-**Witch**
- <br> 8 HP, 2 Armor, 8 STR, 12 DEX, 13 CTRL
- <br>Walking stick (d6) Magic (at least 2 spells)
-- Witches can look like anyone. Some have been changed through proximity to magic (you can roll on Magic - Fallout Mutations if you want to up their weird)
-- To learn, to hide, to influence. Sometimes, to teach.
-- Critical Damage: The Witch leaves their sigil upon their target, forming a connection with them.
+**Strega**
+ <br> 8 PC, 2 Armatura, 8 FOR, 12 DES, 13 CTRL
+ <br>Bastone da passeggio (d6) Magia (almeno 2 incantesimi)
+- Le streghe possono assomigliare a chiunque. Alcune sono state cambiate attraverso la vicinanza alla magia (puoi tirare su Magia - Mutazioni da Crollo se volete aumentare le loro stranezze)
+- Per imparare, per nascondersi, per influenzare. A volte, per insegnare.
+- Danno critico: La Strega lascia il suo sigillo sul suo bersaglio, formando una connessione con lui.
 
-**Ghost**
- <br>10 HP, 3 Armor, 10 STR, 10, DEX, 12 CTRL
- <br>Spectral embrace (d6 CTRL)
-- Incorporeal spirits unable to leave after death.
-- Drives vary as much as in the living. The act of becoming a ghost often means they lean toward violence, vengeance, and pettiness.
-- Can attempt a possession, target must succeed a CTRL save to resist.
+**Fantasma**
+ <br>10 PC, 3 Armatura, 10 FOR, 10, DES, 12 CTRL
+ <br>Abbraccio spettrale (d6 CTRL)
+- Spiriti incorporei incapaci di andarsene dopo la morte.
+- Le pulsioni variano tanto quanto nei vivi. L'atto di diventare un fantasma spesso significa che tendono alla violenza, alla vendetta e alla meschinità.
+- Può tentare una possessione, il bersaglio deve superare un tiro salvezza su CTRL per resistere.
 
-**Mother**
- <br> 14 HP, 1 Armor, 14 STR, 8 DEX, 14 CTRL
- <br>Claws (d8, transforming), Kiss (d6 stress)
-- Impossibly tall, curvy, pale.
-- To protect, to nurture, to punish.
-- Critical Damage: Her time is now. Mother transforms.
+**Madre**
+ <br> 14 PC, 1 Armatura, 14 FOR, 8 DES, 14 CTRL
+ <br>Artigli (d8, trasformazione), Bacio (d6 stress)
+- Impossibilmente alta, sinuosa, pallida.
+- Per proteggere, nutrire, punire.
+- Danno critico: Il suo tempo è ora. La madre si trasforma.
 
-**The Swarm**
- <br>10 HP, 3 Armor, 14 STR, 10 DEX
- <br>Cascade of vermin (d6, blast)
-- Was once a normal person, now they are host to a legion (choose maggots/worms/ants). Upon close inspection the viewer can see movement underneath the skin. Treat as a Detachment
-- To burrow, to corrupt, to spread.
-- Critical Damage: The victim is unable to pick off the swarm in time, they begin to burrow too deep.
+**Lo sciame**
+ <br>10 PC, 3 Armatura, 14 FOR, 10 DES
+ <br>Cascata di parassiti (d6, esplosione)
+- Una volta era una persona normale, ora è ospite di una legione (scegliete vermi/vermi/anti). Ad un'ispezione ravvicinata lo spettatore può vedere il movimento sotto la pelle. Trattare come un distaccamento
+- Per scavare, corrompere, diffondere.
+- Danno critico: La vittima non è in grado di eliminare lo sciame in tempo, iniziano a scavare troppo in profondità.
 
-**Fleshsmith**
- <br> 12 HP, 2 Armor, 16 STR, 8 DEX, 10 CTRL
- <br> Hands (d8 - d10)
-- Master of the flesh, his appearance shifts and changes. Most often in a massive form, all muscle & bone at impossible proportions.
-- To make art. To perfect. To manipulate
-- Critical Damage: He is an artist, and the victim’s body is the clay. The Fleshsmith distorts an appendage in an impossible way.
+**Carniscalco**
+ <br> 12 PC, 2 Armatura, 16 FOR, 8 DES, 10 CTRL
+ <br> Mani (d8 - d10)
+- Maestro della carne, il suo aspetto si sposta e cambia. Il più delle volte in una forma massiccia, tutta muscoli e ossa in proporzioni impossibili.
+- Per fare arte. Per perfezionare. Per manipolare
+- Danno critico: Lui è un artista e il corpo della vittima è l'argilla. Il Carniscalco distorce un'appendice in modo impossibile.
 
-**Company Man**
- <br> 13 HP, 1 Armor, 14 STR, 14 DEX, 14 CTRL
-- Impeccable gray suit, trailed by a non-euclidian shadow.
-- To control, to twist, to employ.
-- Can heal using the bodies of others as fuel (drones).
-- Delegated Magic: Can cast Magics through conduits, consuming their souls and sundering their flesh.
+**Uomo della Compagnia**
+ <br> 13 PC, 1 Armatura, 14 FOR, 14 DES, 14 CTRL
+- Impeccabile abito grigio, seguito da un'ombra non euclidea.
+- Per controllare, torcere, impiegare.
+- Può guarire usando i corpi degli altri come carburante (droni).
+- Magia Delegata: Può lanciare magie attraverso i condotti, consumando le loro anime e squarciando la loro carne.
 
-**Drone:**
- <br> 2 HP, 10 STR, 10 DEX, 10 CTRL,
- <br>Hands or tools (d6)
-- Often normal people. When being utilized there is a glassy look to them. Sometimes their color ain’t right (skin, hair, clothes, everything).
-- To follow. To be used.
-- Drones can ignore their first instance of critical damage. Does not retreat unless it’s master wills it.
+**Drone**
+ <br> 2 PC, 10 FOR, 10 DES, 10 CTRL,
+ <br>Mani o strumenti (d6)
+- Spesso persone normali. Quando vengono utilizzati hanno uno sguardo vitreo. A volte il loro colore non va bene (pelle, capelli, vestiti, tutto).
+- Per seguire. Per essere utilizzati.
+- I droni possono ignorare il loro primo danno critico. Non si ritira a meno che il suo padrone non lo voglia.
 
-**Echo**
- <br>10 HP, 2 Armor, 12 STR , 15 DEX , 14 CHA
- <br>Tentacle (d10, Blast)
-- Echo of an Old Power.
-- Quickly fading, must use flesh to maintain its frequency.
-- Critical damage: Avatar rends the victim and absorbs it into itself (1d4 pieces). Fully heals STR.
+**Eco**
+ <br>10 PC, 2 Armatura, 12 FOR, 15 DES, 14 CTRL
+ <br>Tentacolo (d10, Blast)
+- Eco di un vecchio potere.
+- Svanisce rapidamente, deve usare la carne per mantenere la sua frequenza.
+- Danno critico: L'avatar lacera la vittima e la assorbe in sé (1d4 pezzi). Guarisce completamente la FOR.
 
-**The Dark**
- <br>10 HP, STR 12, DEX 15, CHA 14,
- <br>Bite (d6) Shadow’s Embrace (d6 stress)
-- Appearance unknown. Number unknown. Presence preceded by the blinking out of lights
-- To rend, to take within itself.
-- All attacks made against them are made at disadvantage.
-
-[torna all'indice](#indice)
-<p></p>
-
-## Creating Monsters
-Use the following template to model NPCs and monsters:
-- Title (denotes the type of NPC/monster)
-- NPC Name (most things have a name. Some have forgotten theirs and are now solely defined by their title)
--  X HP, X Armor, X STR, X DEX, X CTRL,
-- Attack (dX, special items, qualities)
-- Description (appearance or demeanor)
-- Drive, behavior, tactic, or peculiarity
-- Special effect or critical damage consequence.
-
-#### General Principles
-- Ability Scores are 10 unless noted.
-- Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary.
-- HP: 3 HP is average , 6 HP sturdy, 1 0+ HP is serious threat
-- HP is Hit Protection, not a measure of Hit Points. It's a measure of skill, luck, drive, resilience.
-- Flavor and style = memorable
-- Use d6 as the baseline for damage.
-- Including ways to deal stress makes the game more Weird (increases chance of Stress Fallout)
-- Critical Damage triggers increase threat or strangeness
-
-#### Creature Cheat Sheet:
-- Able to avoid being hit? Give it **HP**.
-- Soak up damage? Give it **Armor**.
-- Physically powerful? Give it a high **STR** or larger damage dice.
-- Quick? Give it high **DEX**.
-- Weird? Give it high **CTRL** or ability to deal Stress Damage.
+**L'Oscurità**
+ <br>10 PC, 12 FOR, 15 DES, 14 CTRL,
+ <br>Morso (d6) Abbraccio dell'Ombra (d6 stress)
+- Aspetto sconosciuto. Numero sconosciuto. Presenza preceduta dal lampeggiare delle luci
+- Per lacerare, prendere dentro di sé.
+- Tutti gli attacchi effettuati contro di loro sono effettuati con svantaggio.
 
 [torna all'indice](#indice)
 <p></p>
 
-## Spark Tables
-Spark Tables are used to prompt ideas. Roll 2d20 and combine the result. The entries are general enough that they can be used as the inspiration for a person, place, event, or object.
+## Creare mostri
+Usa il seguente modello per modellare PNG e mostri:
+- Titolo (denota il tipo di PNG/mostro)
+- Nome del PNG (la maggior parte delle cose ha un nome. Alcuni hanno dimenticato il loro e sono ora definiti solo dal loro titolo)
+- X PC, X Armatura, X FOR, X DES, X CTRL,
+- Attacco (dX, oggetti speciali, qualità)
+- Descrizione (aspetto o contegno)
+- Guida, comportamento, tattica o peculiarità
+- Effetto speciale o conseguenza del danno critico.
 
-| d20 | Spark One   | Spark Two  |  | d20 | Spark One       | Spark Two      |
+#### Principi generali
+- I punteggi di abilità sono 10 se non indicato.
+- Punteggi di abilità: 3 è carente, 6 è debole, 10 è medio, 14 è notevole e 18 è leggendario.
+- PC: 3 PC è medio, 6 PC è robusto, 10+ PC è una seria minaccia
+- La PC è la protezione degli attacchi, non una misura dei punti ferita. È una misura dell'abilità, della fortuna, della grinta, della resilienza.
+- Genere e stile = memorabile
+- Usate il d6 come base per i danni.
+- Includere modi per gestire lo stress rende il gioco più Bizzarro (aumenta la possibilità di Crollo da Stress)
+- Gli inneschi di danno critico aumentano la minaccia o la stranezza
+
+#### Foglio riassuntivo delle creature:
+- In grado di evitare di essere colpito? Dategli **PC**.
+- Assorbire i danni? Dategli **Armatura**.
+- Fisicamente potente? Dategli un'alta **FOR** o dadi danno più grandi.
+- Veloce? Dategli un'alto **DES**.
+- Strano? Dategli un alto **CTRL** o la capacità di infliggere danni da stress.
+
+[torna all'indice](#indice)
+<p></p>
+
+## Tabelle Scintilla
+Le Tabelle Scintilla sono usate per stimolare le idee. Tirate 2d20 e combinate il risultato. Le voci sono abbastanza generali da poter essere usate come ispirazione per una persona, un luogo, un evento o un oggetto.
+
+| d20 | Prima Scintilla | Seconda Scintilla | | d20 | Prima Scintilla | Seconda Scintilla |
 |-----|-------------|------------|---|-----|-----------------|----------------|
-| 1   | Germinating | Swarm      |  | 1   | Invoking        | Filth          |
-| 2   | Bubbling    | Heart      |  | 2   | Fractured       | Transformation |
-| 3   | Nourishing  | Heresy     |  | 3   | Buried          | Host           |
-| 4   | Bone        | Church     |  | 4   | Warding         | Time           |
-| 5   | Standing    | Binding    |  | 5   | Keen            | Telepathy      |
-| 6   | Primordial  | Hunter     |  | 6   | Occult          | Construct      |
-| 7   | Spirit      | Corruption |  | 7   | Moonlight       | Weakness       |
-| 8   | Poisonous   | Passage    |  | 8   | Lesser          | Cemetery       |
-| 9   | Edible      | Threshold  |  | 9   | Rippling        | Pools          |
-| 10  | Invisible   | Grimoire   |  | 10  | Repeating       | Banishment     |
-| 11  | Rabid       | Fissure    |  | 11  | Mouthless       | Trunk          |
-| 12  | Underground | Knack      |  | 12  | Smoldering      | Whine          |
-| 13  | Oracle      | Shadows    |  | 13  | Forsaken        | Sunder         |
-| 14  | Control     | Weeping    |  | 14  | Paranoia        | Sickness       |
-| 15  | Harrowing   | Fancy      |  | 15  | Unintelligible  | Sphere         |
-| 16  | Blood       | Thread     |  | 16  | Subterranean    | Shade          |
-| 17  | Psychedelic | Sky        |  | 17  | Liminal         | Forgotten      |
-| 18  | Malformed   | Gloom      |  | 18  | Infused         | Spikes         |
-| 19  | Dank        | Tail       |  | 19  | Diseased        | Sigil          |
-| 20  | Glowing     | Deep       |  | 20  | Mounded         | Parasite       |
+| 1 | Germinare | Sciame | | 1 | Invocare | Sporcizia |
+| 2 | Gorgogliante | Cuore | 2 | Fractured | Trasformazione |
+| 3 | Nutrire | Eresia | | 3 | Sepolto | Ostia |
+| 4 | Ossa | Chiesa | | 4 | Protezione | Tempo |
+| 5 | In piedi | Vincolante | | 5 | Tagliente | Telepatia |
+| 6 | Primordiale | Cacciatore | | 6 | Occulto | Costruzione |
+| 7 | Spirito | Corruzione | | 7 | Luce della Luna | Debolezza |
+| 8 | Velenoso | Passaggio | 8 | Minore | Cimitero |
+| 9 | Commestibile | Soglia | 9 | Increspature | Piscine |
+| 10 | Invisibile | Grimorio | | 10 | Ripetizione | Esilio |
+| 11 | Rabbioso | Fissura | | 11 | Senza Bocca | Tronco |
+| 12 | Sotterraneo | Trucco | 12 | Ardente | Gemito |
+| 13 | Oracolo | Ombre | 13 | Abbandonato | Separare |
+| 14 | Controllo | Pianto | | 14 | Paranoia | Malattia |
+| 15 | Straziante | Fantasia | | 15 | Inintelligibile | Sfera |
+| 16 | Sangue | Filo | | 16 | Sotterraneo | Ombra |
+| 17 | Psichedelico | Cielo | | 17 | Liminale | Dimenticato |
+| 18 | Malformato | Tenebra | | 18 | Infuso | Chiodi |
+| 19 | Umido | Coda | | 19 | Malato | Sigillo |
+| 20 | Incandescente | Profondo | | 20 | Ammasso | Parassita |
 
-| d20 | Spark One   | Spark Two   |  | d20 | Spark One     | Spark Two   |
+| d20 | Prima Scintilla | Seconda Scintilla | | d20 | Prima Scintilla | Seconda Scintilla |
 |-----|-------------|-------------|---|-----|---------------|-------------|
-| 1   | Shifting    | Secrets     |  | 1   | Ominous       | Flanges     |
-| 2   | Missing     | Burrows     |  | 2   | Mortal        | Doorway     |
-| 3   | Weaving     | Death       |  | 3   | Knotty        | Infestation |
-| 4   | Pock-Marked | Errant      |  | 4   | Fleshy        | Slaughter   |
-| 5   | Carved      | Web         |  | 5   | Truthful      | Memory      |
-| 6   | Grotesque   | Hue         |  | 6   | Defensive     | Decay       |
-| 7   | Entangled   | Horror      |  | 7   | Screaming     | Desolation  |
-| 8   | Embryonic   | Delve       |  | 8   | Summoning     | Vibrations  |
-| 9   | Hideous     | Vast        |  | 9   | Preserved     | Ozone       |
-| 10  | Beholding   | Magic       |  | 10  | Transmutation | Sludge      |
-| 11  | Foaming     | Eye         |  | 11  | Suffocating   | Warp        |
-| 12  | Inverted    | Incantation |  | 12  | Distorted     | Sinew       |
-| 13  | Damp        | Discord     |  | 13  | Possessed     | Hallowing   |
-| 14  | Flesh       | Armor       |  | 14  | Shrunken      | Horned      |
-| 15  | Withering   | Flesh       |  | 15  | Vibrant       | Tongues     |
-| 16  | Genesis     | Spell       |  | 16  | Shimmering    | Twitterings |
-| 17  | Digesting   | Growth      |  | 17  | abyssal       | Polymorph   |
-| 18  | White       | Fungi       |  | 18  | Predatory     | Secrets     |
-| 19  | Fading      | Hunger      |  | 19  | Threaded      | Tissue      |
-| 20  | Illusory    | Appetite    |  | 20  | twisted       | Outgrowth   |
+| 1 | Mutevole | Segreti | 1 | Nefasto | Flangia |
+| 2 | Scomparso | Tana | 2 | Mortale | Soglia |
+| 3 | Tessitura | Morte | | 3 | Nodoso | Infestazione |
+| 4 | Marchiato | Errante | 4 | Carnoso | Macello |
+| 5 | Intagliato | Tela | | 5 | Veritiero | Memoria |
+| 6 | Grottesco | Tinta | | 6 | Difesa | Decadenza |
+| 7 | Impigliato | Orrore | | 7 | Urlante | Desolazione |
+| 8 | Embrionale | Addentrarsi | | 8 | Evocazione | Vibrazioni |
+| 9 | Orribile | Vasto | | 9 | Conservato | Ozono |
+| 10 | Osservare | Magia | | 10 | Trasmutazione | Fango |
+| 11 | Schiumante | Occhio | | 11 | Soffocante | Distorsione |
+| 12 | Invertito | Incantesimo | | 12 | Distorto | Vigore |
+| 13 | Umido | Discordia | | 13 | Posseduto | Incantato |
+| 14 | Carne | Armatura | | 14 | Rattrappito | Cornuto |
+| 15 | Appassimento | Carne | 15 | Vibrante | Lingue |
+| 16 | Genesi | Incantesimo | | 16 | Scintillante | Cinguettii |
+| 17 | Digerente | Crescita | | 17 | Abissale | Polimorfo |
+| 18 | Bianco | Funghi | | 18 | Predatori | Segreti |
+| 19 | Dissolvenza | Fame | | 19 | Infilato | Tessuto |
+| 20 | Illusorio | Appetito | 20 | contorto | Crescita |
 
-**Examples:**
-- Bone Swarm
-- Germinating Heresy
-- Primordial Hunter
-- Rippling Filth
-- Inverted Flesh
-- Carved Incantation
-- Digesting Armor
-- Embryonic Fungi
-- Shrunken Infestation
-- Fleshy Horns
-- Predatory Memory
-- Transmuting Ozone
+**Esempi:**
+- Sciame d'ossa
+- Eresia in Germinazione
+- Cacciatore Primordiale
+- Sporcizia Increspata
+- Carne Invertita
+- Incantesimo Intagliato
+- Armatura Digerente
+- Funghi Embrionali
+- Infestazione Rattrappita
+- Corni Carnosi
+- Memoria Predatoria
+- Ozono Trasmutante
 
 [torna all'indice](#indice)
 <p></p>
 
-# Rules Summary
+# Riassunto delle regole
 
-**ABILITIES**
-<br>**STR:** Physicality, brawn & toughness.
-<br>**DEX:** Speed, sneaking & precision.
-<br>**CTRL:**  Willpower, charm & weird.
+**ABILITA'**
+<br>**FOR:** Fisicità, forza e durezza.
+<br>**DES:** Velocità, furtività e precisione.
+<br>**CTRL:** Forza di volontà, fascino e stranezza.
 
-**SAVES**
-<br>Roll d20 equal to or under target Ability. The party at most risk in a contested action  makes the save.
+**TIRI SALVEZZA**
+<br>Tirare un d20 uguale o inferiore all'abilità bersaglio. Il gruppo più a rischio in un'azione in competizione effettua il tiro salvezza.
 
-**HIT PROTECTION**
-<br>**HP** reflects a character’s ability to avoid damage (both from damage and stress).
+**PROTEZIONE DAI COLPI**
+<br>La **PC** riflette la capacità di un personaggio di evitare i danni (sia da danno che da stress).
 
-**HEALING**
-<br>A quick rest fully restores HP but can leave the investigators exposed. **Ability** loss requires a week’s rest with medical intervention or magical means.
+**CURA**
+<br>Un rapido riposo ripristina completamente la PC ma può lasciare gli investigatori esposti. La perdita di **Abilità** richiede una settimana di riposo con intervento medico o mezzi magici.
 
-**DEPRIVATION**
-<br>**Deprived** keeps a PC from recovering HP. Being deprived for more than 24hrs adds Fatigue to a PCs inventory. **Fatigue** takes up one slot and lasts until they can recuperate. This can happen multiple times
+**DEPRIVAZIONE**
+<br>**Deprivazione** impedisce ad un PG di recuperare la PC. Essere privato per più di 24 ore aggiunge Fatica all'inventario del PG. La **Fatica** occupa uno spazio e dura finché non può recuperare. Questo può accadere più volte.
 
-**INVENTORY**
-<br>PCs have 10 inventory slots. Most items take up one slot. **Bulky** items take up two slots and are awkward or difficult to carry. All 10 slots being in use lowers HP to 0.
+**INVENTARIO**
+<br>I PG hanno 10 spazi di inventario. La maggior parte degli oggetti occupa uno spazio. Gli oggetti **ingombranti** occupano due spazi e sono scomodi o difficili da trasportare. L'utilizzo di tutti e 10 gli spazi abbassa la PC a 0.
 
-**MAGIC**
-<br> A new spell is created each morning. It is random or is a copy of one the previous day. Spells take up one item slot. Spells cost one action to cast. One may attempt a CTRL save to retain the spell. If deprived or in danger, a CTRL save may be required to avoid dire consequences.
+**MAGIA**
+<br> Ogni mattina viene creato un nuovo incantesimo. È casuale o è una copia di uno del giorno precedente. Gli incantesimi occupano uno spazio oggetto. Gli incantesimi costano un'azione per essere lanciati. Si può tentare un tiro salvezza su CTRL per mantenere l'incantesimo. In caso di deprivazione o di pericolo, può essere richiesto un tiro salvezza su CTRL per evitare conseguenze disastrose.
 
-**ACTIONS**
-<br>On their turn, characters may move 40ft and take a single action. Actions are casting a spell, attacking, additional movement, or some other reasonable action. These take place simultaneously.
+**AZIONI**
+<br>Al loro turno, i personaggi possono muoversi di 40 piedi e compiere una singola azione. Le azioni sono lanciare un incantesimo, attaccare, movimento addizionale o qualche altra azione ragionevole. Queste azioni si svolgono simultaneamente.
 
-**Retreating** from a doomed situation requires a successful DEX save and a safe destination.
+**Ritirarsi** da una situazione di pericolo richiede un tiro salvezza di DES riuscito e una destinazione sicura.
 
-For the **Start of Combat** round, characters must pass an DEX save in order to act.
-Subsequent turns have players acting, then adversaries.
+Per il turno di **inizio del combattimento**, i personaggi devono superare un tiro salvezza su DES per poter agire.
+Nei turni successivi sono i giocatori ad agire, poi gli avversari.
 
-**COMBAT**
-<br>All attacks automatically hit. Attackers roll their **Stress** or **Damage** die, subtract any protections from **Armor** (damage) or **Stability** (stress), and deal the remaining total to the opponent's HP. Excess damage is dealt to STR and excess stress is dealt to CTRL.
+**COMBATTIMENTO**
+<br>Tutti gli attacchi colpiscono automaticamente. Gli attaccanti tirano il loro dado **Stress** o **Danno**, sottraggono eventuali protezioni da **Armatura** (danno) o **Stabilità** (stress), e infliggono il totale rimanente alla PC dell'avversario. Il danno in eccesso viene inflitto alla FOR e lo stress in eccesso al CTRL.
 
-If there are **Multiple attackers**, or one using two weapons, roll all damage dice together and keep the single highest die.
+Se ci sono **Multipli attaccanti**, o uno che usa due armi, tirate tutti i dadi danno insieme e tienete il singolo dado più alto.
 
-**Unarmed** attacks always do 1d4 damage. **Impaired** attacks (position of weakness) reduce damage die to 1d4. Shooting into cover is Impaired. **Enhanced** attacks (position of advantage) increase damage die to 1d12. **Blast** affects all area targets, rolling separately for each.
+Gli attacchi **senza armi** fanno sempre 1d4 danni. Gli attacchi **Compromessi** (posizione di debolezza) riducono il dado del danno a 1d4. Sparare in copertura è compromesso. Gli attacchi **Potenziati** (posizione di vantaggio) aumentano il dado del danno a 1d12. L'attacco di **Esplosione** colpisce tutti i bersagli ad area, tirando separatamente per ognuno di essi.
 
-**DAMAGE**
-<br>Damage that exceeds the remaining HP applies the excess to STR. They must then make a STR save to avoid **critical damage**. Failure drops them out of combat, dying if left untreated.
+**DANNO**
+<br>Il danno che supera la PC residua applica l'eccesso alla FOR. Si deve quindi effettuare un tiro salvezza su FOR per evitare il **danno critico**. Il fallimento fa uscire dal combattimento, morendo se non curati.
 
-Having STR 0 means **death**; having DEX 0 is paralysis; having CTRL 0 they are lost.
+Avere FOR 0 significa **morte**; avere DES 0 significa paralisi; avere CTRL 0 significa essere perduti.
 
-**STRESS & FALLOUT**
-<br> Player chooses from the [Stress Fallout](#stress-fallout-tables) table when either:
-- Stress reduces a PC's HP to exactly 0
-- A PC takes critical stress (when they fail a CTRL save after it takes Ability damage)
+**STRESS & CROLLO**
+<br> Il giocatore sceglie dalla tabella [Crollo da Stress](#tabelle-di-crollo-da-stress) quando:
+- Lo stress riduce la PC di un PG esattamente a 0
+- Un PG subisce uno stress critico (quando fallisce un tiro salvezza su CTRL dopo aver subito danni da Abilità)
 
-<br> Each Stress Fallout entry:
-- Can only be chosen once at the table (unless denoted).
-- Consumes an inventory slot.
+<br> Ogni voce di Crollo da Stress:
+- Può essere scelta solo una volta al tavolo (a meno che non sia indicato altrimenti).
+- Consuma uno spazio dell'inventario.
 
 [torna all'indice](#indice)
 <p></p>

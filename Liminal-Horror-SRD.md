@@ -804,12 +804,11 @@ A meno che non sia segnato, il Crollo può essere scelto solo una volta per tabe
 | 10 | **Corruzione Magica** *(questo può essere subito più volte per personaggio)*:  La carne è debole. Una parte del vostro corpo viene visibilmente modificata dalla tua vicinanza con il Bizzarro. Il Facilitatore e il Giocatore devono decidere come questo cambiamento si manifesta e se ha qualche impatto meccanico.                                                                                                                            |
 
 
-
 | 11 | **Soglia:** C'è una porta chiara con una maniglia nera. È irrilevante, a parte il fatto che questa porta può apparire apparentemente ovunque. A volte la porta si trova in posti dove non dovrebbe essere. A volte si trova da sola, attaccata a niente. L'unica cosa di cui siete sicuri è che si tratta sempre della stessa porta, che non siete ancora riusciti ad aprire. |
-| Vedete immagini di luoghi sconosciuti sovrapposte a questa, il che rende a volte difficile distinguere ciò che è reale. In un altro tempo potrestete essere stato chiamati oracoli. <br>Quando tirate i tiri salvezza su **DES**, tirate 2d20 e prendete il risultato più basso. Una volta al giorno vedete qualcosa di significativo (chiedete al vostro Facilitatore di cosa si tratta).           |
+| 12 | Vedete immagini di luoghi sconosciuti sovrapposte a questa, il che rende a volte difficile distinguere ciò che è reale. In un altro tempo potrestete essere stato chiamati oracoli. <br>Quando tirate i tiri salvezza su **DES**, tirate 2d20 e prendete il risultato più basso. Una volta al giorno vedete qualcosa di significativo (chiedete al vostro Facilitatore di cosa si tratta).           |
 | 13 | **Settimo Figlio di Settimo Figlio:** Un'esposizione sufficiente vi ha cambiato. Siete più connessi con l'ultraterreno. Aggiungete la Magia alla vostra scheda personaggio e seguite le regole. Questo nuovo potere è grande, e terribile.<br>La prima volta che usate un incantesimo causa 1d6 di stress.<br><br>Il vostro secondo incantesimo causa 1d4 di stress<br><br>Infine il terzo incantesimo che lanciate causa 1 di stress. |
 | 14 | **Segnato dalla paura:** Il nucleo del vostro essere è stato contorto e cambiato. Quando agite in un modo che manifesta la vostra paura marcata e devote fare un tiro salvezza, tirate 2d20 e prendete il risultato più basso. Quando resistite ad un'opportunità di assecondare la paura, prendete 1d4 di stress. <br>Create una paura fondamentale con il vostro Facilitatore.                                                                                            |
-| 15 | **Pesante è la testa:** Una corona eterea pende sopra la vostra testa. Non è visibile a tutti, solo a pochi speciali. Sono state raccontate storie sulla vostra venuta.<br>Fate un salvataggio su CTRL. Se lo superate, aumentate il vostro CTRL massimo di 1d6.                                                                                                                                                 |
+| 15 | **Pesante è la testa:** Una corona eterea pende sopra la vostra testa. Non è visibile a tutti, solo a pochi speciali. Sono state raccontate storie sulla vostra venuta.<br>Fate un salvataggio su CTRL. Se lo superate, aumentate il vostro CTRL massimo di 1d6.|
 | 16 | **Pieno fino a scoppiare:** Avete una sensazione di pienezza e contentezza. <br>La prossima volta che fallirete un tiro salvezza su FOR con danno critico:<br>avrete invece successo. Immediatamente e violentemente iniziate a vomitare parassiti (a scelta del giocatore). <br><br>Ogni essere che può vedere deve effettuare un tiro salvezza su CTRL o prendere 1d6 di stress.<br><br>Tirate 3d6. Se il totale è superiore al vostro CTRL massimo, prendete il nuovo risultato. |
 | 17 | **Progenie:** Qualcosa sta crescendo dentro di voi. La speranza l'ha abbandonata da tempo e non ha più spazio per i sogni.<br>Rilanciate 2d6. Prendete il nuovo risultato come vostra PC massima.
 | 18 | **Ragnatela del Fato** *(questo può essere preso solo una volta per personaggio ma più volte per tabella)*: Almeno un burattino può vedere i fili che lo legano, se solo voi foste così fortunati. <br>Tirate sulla Tabella delle Ricadute Magiche - [Presagi e Catastrofi Magiche](#presagi-e-catastrofi).                                                                                                                |
@@ -955,51 +954,52 @@ Usa il seguente modello per modellare PNG e mostri:
 ## Tabelle Scintilla
 Le Tabelle Scintilla sono usate per stimolare le idee. Tirate 2d20 e combinate il risultato. Le voci sono abbastanza generali da poter essere usate come ispirazione per una persona, un luogo, un evento o un oggetto.
 
-| d20 | Prima Scintilla | Seconda Scintilla | | d20 | Prima Scintilla | Seconda Scintilla |
-|-----|-------------|------------|---|-----|-----------------|----------------|
-| 1 | Germinare | Sciame | | 1 | Invocare | Sporcizia |
-| 2 | Gorgogliante | Cuore | 2 | Fractured | Trasformazione |
-| 3 | Nutrire | Eresia | | 3 | Sepolto | Ostia |
-| 4 | Ossa | Chiesa | | 4 | Protezione | Tempo |
-| 5 | In piedi | Vincolante | | 5 | Tagliente | Telepatia |
-| 6 | Primordiale | Cacciatore | | 6 | Occulto | Costruzione |
-| 7 | Spirito | Corruzione | | 7 | Luce della Luna | Debolezza |
-| 8 | Velenoso | Passaggio | 8 | Minore | Cimitero |
-| 9 | Commestibile | Soglia | 9 | Increspature | Piscine |
-| 10 | Invisibile | Grimorio | | 10 | Ripetizione | Esilio |
-| 11 | Rabbioso | Fissura | | 11 | Senza Bocca | Tronco |
-| 12 | Sotterraneo | Trucco | 12 | Ardente | Gemito |
-| 13 | Oracolo | Ombre | 13 | Abbandonato | Separare |
-| 14 | Controllo | Pianto | | 14 | Paranoia | Malattia |
-| 15 | Straziante | Fantasia | | 15 | Inintelligibile | Sfera |
-| 16 | Sangue | Filo | | 16 | Sotterraneo | Ombra |
-| 17 | Psichedelico | Cielo | | 17 | Liminale | Dimenticato |
-| 18 | Malformato | Tenebra | | 18 | Infuso | Chiodi |
-| 19 | Umido | Coda | | 19 | Malato | Sigillo |
-| 20 | Incandescente | Profondo | | 20 | Ammasso | Parassita |
+| d20 | Prima Scintilla | Seconda Scintilla |   | d20 | Prima Scintilla | Seconda Scintilla |
+|-----|-----------------|-------------------|---|-----|-----------------|-------------------|
+| 1   | Germinare       | Sciame            |   | 1   | Invocare        | Sporcizia         |
+| 2   | Gorgogliante    | Cuore             |   | 2   | Fratturato      | Trasformazione    |
+| 3   | Nutrire         | Eresia            |   | 3   | Sepolto         | Ostia             |
+| 4   | Ossa            | Chiesa            |   | 4   | Protezione      | Tempo             |
+| 5   | In piedi        | Vincolante        |   | 5   | Tagliente       | Telepatia         |
+| 6   | Primordiale     | Cacciatore        |   | 6   | Occulto         | Costruzione       |
+| 7   | Spirito         | Corruzione        |   | 7   | Luce della Luna | Debolezza         |
+| 8   | Velenoso        | Passaggio         |   | 8   | Minore          | Cimitero          |
+| 9   | Commestibile    | Soglia            |   | 9   | Increspature    | Piscine           |
+| 10  | Invisibile      | Grimorio          |   | 10  | Ripetizione     | Esilio            |
+| 11  | Rabbioso        | Fissura           |   | 11  | Senza Bocca     | Tronco            |
+| 12  | Sotterraneo     | Trucco            |   | 12  | Ardente         | Gemito            |
+| 13  | Oracolo         | Ombre             |   | 13  | Abbandonato     | Separare          |
+| 14  | Controllo       | Pianto            |   | 14  | Paranoia        | Malattia          |
+| 15  | Straziante      | Fantasia          |   | 15  | Inintelligibile | Sfera             |
+| 16  | Sangue          | Filo              |   | 16  | Sotterraneo     | Ombra             |
+| 17  | Psichedelico    | Cielo             |   | 17  | Liminale        | Dimenticato       |
+| 18  | Malformato      | Tenebra           |   | 18  | Infuso          | Chiodi            |
+| 19  | Umido           | Coda              |   | 19  | Malato          | Sigillo           |
+| 20  | Incandescente   | Profondo          |   | 20  | Ammasso         | Parassita         |
 
-| d20 | Prima Scintilla | Seconda Scintilla | | d20 | Prima Scintilla | Seconda Scintilla |
-|-----|-------------|-------------|---|-----|---------------|-------------|
-| 1 | Mutevole | Segreti | 1 | Nefasto | Flangia |
-| 2 | Scomparso | Tana | 2 | Mortale | Soglia |
-| 3 | Tessitura | Morte | | 3 | Nodoso | Infestazione |
-| 4 | Marchiato | Errante | 4 | Carnoso | Macello |
-| 5 | Intagliato | Tela | | 5 | Veritiero | Memoria |
-| 6 | Grottesco | Tinta | | 6 | Difesa | Decadenza |
-| 7 | Impigliato | Orrore | | 7 | Urlante | Desolazione |
-| 8 | Embrionale | Addentrarsi | | 8 | Evocazione | Vibrazioni |
-| 9 | Orribile | Vasto | | 9 | Conservato | Ozono |
-| 10 | Osservare | Magia | | 10 | Trasmutazione | Fango |
-| 11 | Schiumante | Occhio | | 11 | Soffocante | Distorsione |
-| 12 | Invertito | Incantesimo | | 12 | Distorto | Vigore |
-| 13 | Umido | Discordia | | 13 | Posseduto | Incantato |
-| 14 | Carne | Armatura | | 14 | Rattrappito | Cornuto |
-| 15 | Appassimento | Carne | 15 | Vibrante | Lingue |
-| 16 | Genesi | Incantesimo | | 16 | Scintillante | Cinguettii |
-| 17 | Digerente | Crescita | | 17 | Abissale | Polimorfo |
-| 18 | Bianco | Funghi | | 18 | Predatori | Segreti |
-| 19 | Dissolvenza | Fame | | 19 | Infilato | Tessuto |
-| 20 | Illusorio | Appetito | 20 | contorto | Crescita |
+
+| d20 | Prima Scintilla | Seconda Scintilla |   | d20 | Prima Scintilla | Seconda Scintilla |
+|-----|-----------------|-------------------|---|-----|-----------------|-------------------|
+| 1   | Mutevole        | Segreti           |   | 1   | Nefasto         | Flangia           |
+| 2   | Scomparso       | Tana              |   | 2   | Mortale         | Soglia            |
+| 3   | Tessitura       | Morte             |   | 3   | Nodoso          | Infestazione      |
+| 4   | Marchiato       | Errante           |   | 4   | Carnoso         | Macello           |
+| 5   | Intagliato      | Tela              |   | 5   | Veritiero       | Memoria           |
+| 6   | Grottesco       | Tinta             |   | 6   | Difesa          | Decadenza         |
+| 7   | Impigliato      | Orrore            |   | 7   | Urlante         | Desolazione       |
+| 8   | Embrionale      | Addentrarsi       |   | 8   | Evocazione      | Vibrazioni        |
+| 9   | Orribile        | Vasto             |   | 9   | Conservato      | Ozono             |
+| 10  | Osservare       | Magia             |   | 10  | Trasmutazione   | Fango             |
+| 11  | Schiumante      | Occhio            |   | 11  | Soffocante      | Distorsione       |
+| 12  | Invertito       | Incantesimo       |   | 12  | Distorto        | Vigore            |
+| 13  | Umido           | Discordia         |   | 13  | Posseduto       | Incantato         |
+| 14  | Carne           | Armatura          |   | 14  | Rattrappito     | Cornuto           |
+| 15  | Appassimento    | Carne             |   | 15  | Vibrante        | Lingue            |
+| 16  | Genesi          | Incantesimo       |   | 16  | Scintillante    | Cinguettii        |
+| 17  | Digerente       | Crescita          |   | 17  | Abissale        | Polimorfo         |
+| 18  | Bianco          | Funghi            |   | 18  | Predatori       | Segreti           |
+| 19  | Dissolvenza     | Fame              |   | 19  | Infilato        | Tessuto           |
+| 20  | Illusorio       | Appetito          |   | 20  | contorto        | Crescita          |
 
 **Esempi:**
 - Sciame d'ossa

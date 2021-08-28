@@ -1,47 +1,46 @@
 ---
 layout: default
-title: Steps
+title: Passi
 nav_order: 1
-parent: Character Creation
-grand_parent: Core Game
+parent: Creazione dei Personaggi
+grand_parent: Gioco di base
 ---
-# Character Creation Steps
+## Passi di Creazione dei Personaggi
 
-## 1. Ability Scores
-Player Characters (PCs) have three ability scores:
+#### 1. Punteggi di Abilità
+I Personaggi Giocanti (PG) hanno tre punteggi di abilità:
 
-
-- **Strength (STR)**: Physicality, brawn & toughness.
-- **Dexterity (DEX)**: Speed, sneaking & precision.
-- **Control (CTRL)**: Willpower, charm & weird
-
-
-When creating a Player Character (PC), the player should roll 3d6 for each of their character's ability scores, in order. They may then swap any two of the results.
+- Forza (FOR)**: Fisicità, forza e durezza.
+- Destrezza (DES)**: Velocità, furtività e precisione.
+- Controllo (CTRL)**: Forza di volontà, fascino e stranezza.
 
 
-## 2. Hit Protection
-Roll 1d6 to determine your PC's starting Hit Protection (HP). HP does not indicate a character's health but reflects their ability to avoid damage (both physical damage and stress). HP can be recovered after a few moments rest (see [Healing](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Rules/) ). Both **Damage** and **Stress** subtract first from your HP. Some things do Damage, some things do Stress, and some do both.
+Quando si crea un Personaggio Giocante (PG), il giocatore deve tirare 3d6 per ogni punteggio di abilità del suo personaggio, in ordine. È possibile poi scambiare due risultati qualsiasi.
 
-**(+ _ Armor)** is  a tag that  items have to indicate that they provide protection from damage and reduce it before it is applied to HP.
 
-**(+_Stability)** is a tag that  special items have to indicate that they provide protection from stress and reduce it before it is applied to HP.  Any excess damage or stress (past 0 HP) is applied to the appropriate attribute.
+#### 2. Protezione dai Colpi
+Tirate 1d6 per determinare la Protezione dai Colpi (PC) iniziale del tuo PG. La PC non indica la salute di un personaggio, ma riflette la sua capacità di evitare i danni (sia i danni fisici che lo stress). La PC può essere recuperata dopo qualche istante di riposo (vedi [Cure](#cure)). Sia il **Danno** che lo **Stress** sottraggono per primi la vostra PC. Alcune cose provocano Danno, alcune cose provocano Stress, e alcune provocano entrambi.
 
-If stress would take a PC's HP exactly to 0, the player must roll on the [Stress Fallout](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Stress%20and%20Fallout/) table.
+**(+ _ Armatura)** è un'etichetta che gli oggetti hanno per indicare che forniscono protezione dal danno e lo riducono prima che venga applicato alla PC.
 
-## 3. Investigator Details
-- Choose a name for your character,
-- Roll a [background](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Names%20and%20Background/). This informs their knowledge and potential skills.
-- Choose a style of clothing or look for your character.
-- Answer the [Getting To Know Your Character](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Getting%20To%20Know%20Your%20Character/).
-- Determine the rest of your character’s [traits](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Character%20Traits/).
-- Choose their age or roll 2d20+16.
+**(+_Stabilità)** è un'etichetta che gli oggetti speciali hanno per indicare che forniscono protezione dallo stress e lo riducono prima che sia applicato alla PC.  Qualsiasi danno o stress in eccesso (oltre 0 PC) viene applicato all'attributo appropriato.
 
-## 4. Starting Gear
-All investigators start with an Investigator Bundle (a phone, cash, notebook & pen). Players then roll on the [Starting Gear](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Starting%20Gear/) tables to determine equipment. If indicated, add chaos magic to your character sheet and refer to the  [Magic](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Magic/)
+Se lo stress porterebbe la PC di un PG esattamente a 0, il giocatore deve tirare sulla tabella [Crollo da Stress](#tabelle-di-crollo-da-stress).
 
-Characters have a total of 10 inventory slots: a backpack or bag (six slots), hands and upper body (four slots). Most items take up one slot, with smaller items that can be bundled together. Bulky items take two slots and are awkward or require two hands.
+#### 3. Dettagli dell'investigatore
+- Scegliete un nome per il vostro personaggio,
+- Tirate un [background](#background). Questo definisce le loro conoscenze e le loro potenziali abilità.
+- Scegliete uno stile di abbigliamento o un aspetto per il vostro personaggio.
+- Rispondete al [Conoscere il Vostro Personaggio](#conoscere-il-vostro-personaggio).
+- Determinate il resto dei [tratti] del vostro personaggio (#tratti-del-personaggio-tirate-un-d10-o-scegliete).
+- Scegliete la loro età o tirate 2d20+16.
 
-The [Equipment List](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Equipment%20List/) has a more detailed overview of weapons and investigative gear. As a table, decide on what common household tools PCs have access to in addition to their starting gear.
+#### 4. Equipaggiamento iniziale
+Tutti gli investigatori iniziano con un Pacchetto Investigatore (un telefono, soldi, quaderno e penna). I giocatori tirano poi sulle tabelle [Equipaggiamento iniziale](#equipaggiamento-iniziale) per determinare l'equipaggiamento. Se indicato, aggiungete la Magia alla scheda del vostro personaggio e fate riferimento alla tabella [Magia](#magia)
 
-## 5. The Party
-The final step is to establish a party set up using the [Party Questions](https://goblinarchives.github.io/LiminalHorror/Liminal%20Horror%20System/Character%20Creation/Party%20Questions/) section. This provides the initial context for investigators and their journey into the unknown.
+I personaggi hanno un totale di 10 spazi di inventario: uno zaino o una borsa (sei spazi), le mani e la parte superiore del corpo (quattro spazi). La maggior parte degli oggetti occupa uno spazio, con oggetti più piccoli che possono essere raggruppati. Gli oggetti ingombranti occupano due spazi e sono scomodi o richiedono due mani.
+
+L'[Equipaggiamento](#equipaggiamento) ha una panoramica più dettagliata delle armi e dell'equipaggiamento investigativo. Come tavolo, decidete a quali attrezzi domestici comuni hanno accesso i PG in aggiunta al loro equipaggiamento iniziale.
+
+#### 5. Il gruppo
+Il passo finale è quello di stabilire l'organizzazione del gruppo usando la sezione [Domande sul gruppo](#domande-sul-gruppo). Questo fornisce il contesto iniziale per gli investigatori e il loro viaggio nell'ignoto.

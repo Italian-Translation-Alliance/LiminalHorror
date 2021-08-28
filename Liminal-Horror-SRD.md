@@ -18,8 +18,8 @@ Un SRD (o System Reference Document) è spesso usato nel design dei giochi per i
 <p></p>
 
 ## Riconoscimenti
-- Yochai Gal, per il [Cairn SRD](https://cairnrpg.com/cairn-srd/), le regole di base, le tabelle e la struttura necessaria per realizzare questo hack.
-- Chris McDowell, per Into the Odd e [BASTIONLAND.com](https://BASTIONLAND.com)
+- Yochai Gal, per il [Cairn SRD](https://idolofmanyhands.github.io/cairn-ita/), le regole di base, le tabelle e la struttura necessaria per realizzare questo hack.
+- Chris McDowell, per Into the Odd e [BASTIONLAND.com](https://www.bastionland.com)
 - [Ben Milton](https://itch.io/profile/questingbeast) - per Knave e il sistema magico Maze Rats.
 - Xenio per aver adattato [la magia di Maze Rats a Cairn](https://xenioinabottle.blogspot.com/2021/04/maze-rats-spells-in-cairn.html).
 
@@ -38,7 +38,7 @@ Un SRD (o System Reference Document) è spesso usato nel design dei giochi per i
 - [Magia](#magia)
 - [Stress & Crollo](#stress-&-crollo)
 - [Bestiario Paranormale](#bestiario-paranormale)
-- [Tabelle Scintilla](#tabelle-di-crollo-da-stress-scintilla)
+- [Tabelle Scintilla](#tabelle-scintilla)
 - [Riassunto delle Regole](#riassunto-delle-regole)
 
 

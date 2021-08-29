@@ -6,6 +6,10 @@ nav_order: 7
 
 # Liminal Horror System Reference Document (v.2.25)
 
+di Nick Erickson
+
+Traduzione di Roberto Bisceglie
+
 ## Cos'è un SRD? Come posso usarlo per creare il mio hack?
 Un SRD (o System Reference Document) è spesso usato nel design dei giochi per indicare un documento che contiene le informazioni che sono concesse in licenza d'uso da altri per hackerare/creare i propri materiali. Dal momento che Liminal Horror è sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) tutto il testo è aperto all'uso (altri sistemi lasciano le regole aperte all'uso ma limitano la storia/contenuti specifici). Un progetto futuro potrebbe essere una vera e propria Guida all'Hacking che parli dei diversi componenti e di come usarli. Fino ad allora, potete vedere come ho adattato il testo base del gioco da [Cairn](https://cairnrpg.com/cairn-srd/).
 

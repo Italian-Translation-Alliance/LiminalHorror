@@ -10,6 +10,8 @@ Come contattarlo:
 <br>**Twitter**: [@goblin_archives](https://twitter.com/goblin_archives)
 <br>**NSR Discord**: Questa è una fantastica risorsa per parlare di giochi, hack ed è in tutto e per tutto una magnifica comunità. L'autore è un membro attivo quindi potete trovarlo anche qui. [Unitevi cliccando qui](https://discord.io/newschoolrevolution)
 
+Traduzione italiana per l'[Italian Translation Alliance](https://italiantranslationalliance.org/) a cura di [Roberto Bisceglie](https://zeruhur.space/)
+
 Dove comprare Liminal Horror:
 
 Versione inglese:

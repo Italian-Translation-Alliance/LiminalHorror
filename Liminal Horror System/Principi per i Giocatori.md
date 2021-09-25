@@ -8,7 +8,7 @@ parent: Gioco di base
 ## Principi per i Giocatori
 ### Agire
 - I numeri sulla scheda del tuo personaggio sono strumenti per interagire meccanicamente nel gioco. Non definiscono il vostro personaggio.
-- Usate le origine del vostro personaggio per ispirare il vostro gioco.
+- Usate le origini del vostro personaggio per ispirare il vostro gioco.
 - Abbracciate il bizzarro e l'ignoto.
 
 ### Lavoro di squadra
@@ -25,13 +25,14 @@ parent: Gioco di base
 - Combattere è rischioso e le conseguenze della violenza sono di lunga durata.
 - Una mente distrutta è tanto debilitante quanto un corpo rotto.
 - Ottenete qualsiasi vantaggio possibile. La preparazione può evitare una morte certa.
-- La magia è caotica e brandire l'inconoscibile può avere conseguenze disastrose.
+- La magia è caotica e brandire l'ignoto può avere conseguenze disastrose.
 - La vittoria arriva in molte forme, e spesso il successo viene da una ritirata.
 
 ### Pianificazione
 - Fate domande.
 - Non esiste un attributo di percezione o intelligenza. Il modo in cui vi impegnate con il mondo dipende da come usate le informazioni che vi vengono fornite.
 - Esplorazione, acume e verifica dei fatti sono necessari per la sopravvivenza.
+
 
 ### Ambizione
 - Scoprite le spinte e gli obiettivi per voi come giocatori, per il vostro personaggio e per la squadra. Usateli per ispirare il gioco.

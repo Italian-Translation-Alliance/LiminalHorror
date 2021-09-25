@@ -4,22 +4,21 @@ title: Stress & Crollo
 nav_order: 10
 parent: Gioco di base
 ---
-
-# Stress & Crollo
+## Stress & Crollo
 Lo stress è identico al danno, ma ha come bersaglio il CTRL invece della FOR. Lo stress può derivare da conseguenze narrative, tiri salvezza falliti, ripercussioni magiche o attacchi nemici. Lo stress prende di mira la PC prima di passare al CTRL.
 
-## Esempi di Stress
+### Esempi di Stress
 Nota: La quantità e la frequenza dell'uso dello stress stabilisce il tono e il ritmo del vostro gioco. È una manopola per controllare la quantità di Bizzarro che i vostri giocatori incontrano e quanto è probabile che cambino di conseguenza.
 
 |             |                                                                                        |
 |-------------|----------------------------------------------------------------------------------------|
 | 1 Stress    | **OCCHIATA**: Incontrare lo strano o il bizzarro.                                      |
 | 1d4 Stress  | **CONTATTO**: Lo strano e l'inspiegabile.                                              |
-| 1d6 Stress  | **ESPOSIZIONE**: Incontro diretto con l'inconoscibile. La realtà si piega.             |
+| 1d6 Stress  | **ESPOSIZIONE**: Incontro diretto con l'ignoto. La realtà si piega.             |
 | 1d8 Stress  | **CATASTROFE**: Poteri maggiori, presagi, catastrofi. La realtà è vicina alla rottura. |
 | 1d10 Stress | **ROVINA**: Contatto diretto con Poteri Antichi. Rottura della realtà.                 |
 
-## Tabelle di Crollo da Stress
+### Tabelle di Crollo da Stress
 Alcuni momenti cambiano un investigatore per sempre. I giocatori tirano o scelgono dalla tabella Crollo da Stress quando:
 - Lo stress riduce la PC di un PG esattamente a 0
 - Il personaggio prende **stress critico**.
@@ -40,8 +39,6 @@ A meno che non sia segnato, il Crollo può essere scelto solo una volta per tabe
 | 8  | **Sfregiato:** Ogni ferita che infliggete lascia il suo segno lacerante sul vostro corpo. Dopo la prima volta, effettuate un tiro salvezza su CTRL. Se lo superate, aumentate la tua FOR massima di 1d4.                                                                                                                                                                                                                                          |
 | 9  | **Comunione Liminale:** All'inizio non si notava, ma lentamente avete cominciato a fare regolarmente una sequenza di gesti, parole o azioni, quasi come se steste eseguendo un rituale. Quando cominciate ad accorgervene, effettuate un tiro salvezza su CTRL. Se lo superate, aumentate il vostro CTRL massimo di 1d4.                                                                                                                          |
 | 10 | **Corruzione Magica** *(questo può essere subito più volte per personaggio)*:  La carne è debole. Una parte del vostro corpo viene visibilmente modificata dalla tua vicinanza con il Bizzarro. Il Facilitatore e il Giocatore devono decidere come questo cambiamento si manifesta e se ha qualche impatto meccanico.                                                                                                                            |
-
-
 | 11 | **Soglia:** C'è una porta chiara con una maniglia nera. È irrilevante, a parte il fatto che questa porta può apparire apparentemente ovunque. A volte la porta si trova in posti dove non dovrebbe essere. A volte si trova da sola, attaccata a niente. L'unica cosa di cui siete sicuri è che si tratta sempre della stessa porta, che non siete ancora riusciti ad aprire. |
 | 12 | Vedete immagini di luoghi sconosciuti sovrapposte a questa, il che rende a volte difficile distinguere ciò che è reale. In un altro tempo potrestete essere stato chiamati oracoli. <br>Quando tirate i tiri salvezza su **DES**, tirate 2d20 e prendete il risultato più basso. Una volta al giorno vedete qualcosa di significativo (chiedete al vostro Facilitatore di cosa si tratta).           |
 | 13 | **Settimo Figlio di Settimo Figlio:** Un'esposizione sufficiente vi ha cambiato. Siete più connessi con l'ultraterreno. Aggiungete la Magia alla vostra scheda personaggio e seguite le regole. Questo nuovo potere è grande, e terribile.<br>La prima volta che usate un incantesimo causa 1d6 di stress.<br><br>Il vostro secondo incantesimo causa 1d4 di stress<br><br>Infine il terzo incantesimo che lanciate causa 1 di stress. |

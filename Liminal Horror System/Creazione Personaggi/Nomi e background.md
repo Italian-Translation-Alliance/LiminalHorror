@@ -5,15 +5,15 @@ nav_order: 2
 parent: Creazione dei Personaggi
 grand_parent: Gioco di base
 ---
-# Nomi e background
+## Nomi e background
 
-## Nomi:
+### Nomi:
 Scegliete un nome che meglio si adatta al personaggio che volete interpretare (spesso lo faccio alla fine del processo di generazione del personaggio.
 
-## Abbigliamento
+### Abbigliamento
 Scegliete uno stile di abbigliamento/look. Una stella d'oro se trovi dei riferimenti visivi da condividere con il gruppo.
 
-## Background
+### Background
 
 |    |                       |    |                     |
 |----|-----------------------|----|---------------------|

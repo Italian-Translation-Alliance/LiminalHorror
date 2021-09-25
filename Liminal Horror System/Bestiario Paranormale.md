@@ -28,7 +28,7 @@ parent: Gioco di base
 - Per oscurare, per acquisire, per mantenere l'ordine
 - Danno critico: L'agente speciale arresta il bersaglio.
 
-**Bambino della Spora**
+**Figlio della Spora**
  <br> 4 PC, 1 Armatura, 12 FOR, 8 DES, 6 CTRL
  <br>Pugnale benedetto della spora (d6)
 - La carne è ospite di un fungo parassita che ha preso il sopravvento sul cervello e li ha collegati alla grande struttura. Alcuni hanno corpi fruttiferi che spuntano dalle fessure della carne, mentre altri sono appena percettibili, tranne che per la leggera peluria.

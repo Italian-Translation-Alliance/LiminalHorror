@@ -5,9 +5,9 @@ nav_order: 6
 parent: Creazione dei Personaggi
 grand_parent: Gioco di base
 ---
-# Domande sul Gruppo
+## Domande sul Gruppo
 
-## Il gruppo
+#### Il gruppo
 Perché il gruppo si è riunito? Usa le risposte della sezione Conosci il tuo personaggio per ispirare la vostra decisione. Usate la tabella qui sotto o create la vostra (d6):
 
 |   |                                                                                                                                      |
@@ -19,7 +19,7 @@ Perché il gruppo si è riunito? Usa le risposte della sezione Conosci il tuo pe
 | 5 | I membri della comunità rispondono a una serie di eventi misteriosi.                                                                 |
 | 6 | Investigatori (professionisti o dilettanti) che stanno indagando su un evento.                                                       |
 
-## Legami tra personaggi (opzionale)
+#### Legami tra personaggi (opzionale)
 Chiedete ad ogni giocatore di dichiarare una relazione con un altro personaggio al tavolo. Questo dovrebbe essere ispirato dal background, da L'Abisso ti fissa e dalla sezione Il Gruppo della creazione del personaggio. Alcuni esempi sono:
 
 |   |                                                                    |
@@ -31,5 +31,5 @@ Chiedete ad ogni giocatore di dichiarare una relazione con un altro personaggio 
 | 5 | _____ è il mio collega di _____                                    |
 | 6 | _____ è il mio vicino di casa.                                     |
 
-## Veicoli
-Determinate come gruppo a quali tipi di veicoli o mezzi di trasporto ha accesso il gruppo. Il gruppo può avere accesso a più di un veicolo. Gli inseguimenti in auto sono una parte essenziale della soluzione di un mistero. I veicoli hanno PC. Quando è ridotto a 0 PC è distrutto. Distruggere un veicolo può causare danni a quelli dentro e intorno al veicolo.
+#### Veicoli
+Determinate come gruppo a quali tipi di veicoli o mezzi di trasporto ha accesso il gruppo. Il gruppo può avere accesso a più di un veicolo. Gli inseguimenti in auto sono una parte essenziale della soluzione di un mistero. I veicoli hanno PC. Quando è ridotto a 0 PC è distrutto. Distruggere un veicolo può causare danni a quelli 

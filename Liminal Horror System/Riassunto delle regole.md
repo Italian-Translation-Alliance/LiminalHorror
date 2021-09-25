@@ -8,7 +8,7 @@ parent: Gioco di base
 # Riassunto delle regole
 
 **ABILITA'**
-<br>**FOR:** Fisicità, forza e durezza.
+<br>**FOR:** Fisicità, possanza e resistenza.
 <br>**DES:** Velocità, furtività e precisione.
 <br>**CTRL:** Forza di volontà, fascino e stranezza.
 
@@ -57,4 +57,3 @@ Avere FOR 0 significa **morte**; avere DES 0 significa paralisi; avere CTRL 0 si
 
 <br> Ogni voce di Crollo da Stress:
 - Può essere scelta solo una volta al tavolo (a meno che non sia indicato altrimenti).
-- Consuma uno spazio dell'inventario.

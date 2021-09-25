@@ -5,9 +5,9 @@ nav_order: 5
 parent: Gioco di base
 ---
 
-# Equipaggiamento
+## Equipaggiamento
 
-## Protezione
+#### Protezione
 
 |                                                              |       |
 |--------------------------------------------------------------|-------|
@@ -16,7 +16,7 @@ parent: Gioco di base
 | Maschera antigas (protegge dalle tossine presenti nell'aria) | $100  |
 | Maschera (protegge la tua identità)                          | $20   |
 
-## Armi
+#### Armi
 
 |                                                                                |        |
 |--------------------------------------------------------------------------------|--------|
@@ -32,7 +32,7 @@ parent: Gioco di base
 | **Fucile da combattimento** (d6 danno da esplosione con d8 area, ingombrante)  | $1250  |
 | **Fucile di precisione** (d8 danno o d12 danno se nascosto, ingombrante)       | $1750  |
 
-## Esplosivi
+#### Esplosivi
 
 |                                                                                      |      |
 |--------------------------------------------------------------------------------------|------|
@@ -41,7 +41,7 @@ parent: Gioco di base
 | **Granata** (d8 danni, esplosione)                                                   | $100 |
 | **IED** (d6 danni, esplosione con d4 danni continuati per round)                     | $200 |
 
-## Pozioni moderne
+#### Pozioni moderne
 
 |                                                                                                       |      |
 |-------------------------------------------------------------------------------------------------------|------|
@@ -53,7 +53,7 @@ parent: Gioco di base
 | **Stimolanti** (recupero immediato dai danni critici, +1d4 di DES temporaneo)                         | $100 |
 
 
-## Attrezzi - non include gli strumenti medi che si trovano nella maggior parte delle case moderne
+#### Attrezzi - non include gli strumenti medi che si trovano nella maggior parte delle case moderne
 
 |                                            |              |                                    |        |
 |--------------------------------------------|--------------|------------------------------------|--------|

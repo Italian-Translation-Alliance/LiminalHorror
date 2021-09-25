@@ -175,6 +175,9 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 | 19 | La torre appare        |
 | 20 | L'acqua diventa sangue |
 
+[torna all'indice](#indice)
+<p></p>
+
 #### Pergamene
 **Le Pergamene** sono simili alle Magie:
 - Non occupano uno spazio dell'inventario.

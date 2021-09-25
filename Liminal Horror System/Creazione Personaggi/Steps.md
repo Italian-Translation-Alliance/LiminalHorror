@@ -5,14 +5,14 @@ nav_order: 1
 parent: Creazione dei Personaggi
 grand_parent: Gioco di base
 ---
-## Passi di Creazione dei Personaggi
+## Creazione dei Personaggi
 
 #### 1. Punteggi di Abilità
 I Personaggi Giocanti (PG) hanno tre punteggi di abilità:
 
-- Forza (FOR)**: Fisicità, forza e durezza.
-- Destrezza (DES)**: Velocità, furtività e precisione.
-- Controllo (CTRL)**: Forza di volontà, fascino e stranezza.
+- **Forza (FOR)**: Fisicità, possanza e resistenza.
+- **Destrezza (DES)**: Velocità, furtività e precisione.
+- **Controllo (CTRL)**: Forza di volontà, fascino e stranezza.
 
 
 Quando si crea un Personaggio Giocante (PG), il giocatore deve tirare 3d6 per ogni punteggio di abilità del suo personaggio, in ordine. È possibile poi scambiare due risultati qualsiasi.

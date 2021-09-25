@@ -6,13 +6,13 @@ parent: Creazione dei personaggi
 grand_parent: Gioco di base
 ---
 
-# Equipaggiamento iniziale
+## Equipaggiamento iniziale
 Tutti i PG iniziano con un **Pacchetto Investigatore**:
 - Telefono (tiro 2d4): 1-4 è un telefono flip; 5-8 è uno smart phone
 - Denaro iniziale ($3d10 x 3d10)
 - Taccuino e penna
 
-## Armi (d20)
+#### Armi (d20)
 
 |                     |                            |                                                   |                         |                    |
 |---------------------|----------------------------|---------------------------------------------------|-------------------------|--------------------|
@@ -20,7 +20,7 @@ Tutti i PG iniziano con un **Pacchetto Investigatore**:
 | Giubbotto corazzato | Arma improvvisata o grezza | Pugnale, Bastone, Taser/Gas lacrimogeno o pistola | Fucile o Fucile a pompa | Magia (vedi Magia) |
 
 
-## Equipaggiamento investigativo
+#### Equipaggiamento investigativo
 
 |   |                               |    |                                     |    |                                 |    |                            |
 |---|-------------------------------|----|-------------------------------------|----|---------------------------------|----|----------------------------|
@@ -30,7 +30,7 @@ Tutti i PG iniziano con un **Pacchetto Investigatore**:
 | 4 | Catena e lucchetto            | 9  | Torcia tattica                      | 14 | Una scatola senza cuciture      | 19 | Buona macchina fotografica |
 | 5 | Tomo Antico                   | 10 | Una collana d'avorio (+1 Stabilità) | 15 | Grimaldelli                     | 20 | Tagliabulloni              |
 
-## Memento (d10)
+#### Memento (d10)
 
 |   |                                                        |    |                                                        |
 |---|--------------------------------------------------------|----|--------------------------------------------------------|
@@ -40,7 +40,7 @@ Tutti i PG iniziano con un **Pacchetto Investigatore**:
 | 4 | Un gioiello intagliato nell'osso                       | 9  | Un file pesantemente modificato                        |
 | 5 | Un testamento                                          | 10 | Una piccola, vecchia statuetta                         |
 
-## Oggetto bonus
+#### Oggetto bonus
 
 |         |                        |       |                            |
 |---------|------------------------|-------|----------------------------|

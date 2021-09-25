@@ -6,9 +6,9 @@ parent: Creazione dei Personaggi
 grand_parent: Gioco di base
 ---
 
-# Tratti del personaggio (Tirate un d10 o scegliete)
+## Tratti del personaggio (Tirate un d10 o scegliete)
 
-## Fisico
+#### Fisico
 
 |   |             |    |           |
 |---|-------------|----|-----------|
@@ -19,7 +19,7 @@ grand_parent: Gioco di base
 | 5 | Robusto     | 10 | Imponente |
 
 
-## Faccia
+#### Faccia
 
 |   |           |    |           |
 |---|-----------|----|-----------|
@@ -29,7 +29,7 @@ grand_parent: Gioco di base
 | 4 | Allungato | 9  | Quadrato  |
 | 5 | Smussato  | 10 | Affondato |
 
-## Parlata
+#### Parlata
 
 |   |            |    |              |
 |---|------------|----|--------------|
@@ -39,7 +39,7 @@ grand_parent: Gioco di base
 | 4 | Fragorosa  | 9  | Balbettante  |
 | 5 | Formale    | 10 | Bisbigliante |
 
-## Abbigliamento
+#### Abbigliamento
 
 |   |               |    |            |
 |---|---------------|----|------------|
@@ -49,7 +49,7 @@ grand_parent: Gioco di base
 | 4 | Sporco        | 9  | Fetido     |
 | 5 | Esotico       | 10 | Sudicio    |
 
-## Virtù (opzionale)
+#### Virtù (opzionale)
 
 |   |              |    |                 |
 |---|--------------|----|-----------------|
@@ -59,7 +59,7 @@ grand_parent: Gioco di base
 | 4 | Disciplinato | 9  | Sereno          |
 | 5 | Socievole    | 10 | Tollerante      |
 
-## Difetto (opzionale)
+#### Difetto (opzionale)
 
 |   |            |    |             |
 |---|------------|----|-------------|
@@ -69,7 +69,7 @@ grand_parent: Gioco di base
 | 4 | Bugiardo   | 9  | Vanitoso    |
 | 5 | Avido      | 10 | Vendicativo |
 
-## Disgrazie (opzionale)
+#### Disgrazie (opzionale)
 
 |   |             |    |            |
 |---|-------------|----|------------|

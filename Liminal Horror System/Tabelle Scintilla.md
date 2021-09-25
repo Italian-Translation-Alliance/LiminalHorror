@@ -4,7 +4,7 @@ title: Tabelle Scintilla
 nav_order: 13
 parent: Gioco di base
 ---
-# Tabelle Scintilla
+## Tabelle Scintilla
 Le Tabelle Scintilla sono usate per stimolare le idee. Tirate 2d20 e combinate il risultato. Le voci sono abbastanza generali da poter essere usate come ispirazione per una persona, un luogo, un evento o un oggetto.
 
 | d20 | Prima Scintilla | Seconda Scintilla |   | d20 | Prima Scintilla | Seconda Scintilla |

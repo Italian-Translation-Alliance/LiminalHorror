@@ -131,7 +131,7 @@ La morte arriva per tutti, ma alcuni subiscono un destino peggiore.
 ## Principi per i Giocatori
 ### Agire
 - I numeri sulla scheda del tuo personaggio sono strumenti per interagire meccanicamente nel gioco. Non definiscono il vostro personaggio.
-- Usate le origine del vostro personaggio per ispirare il vostro gioco.
+- Usate le origini del vostro personaggio per ispirare il vostro gioco.
 - Abbracciate il bizzarro e l'ignoto.
 
 ### Lavoro di squadra
@@ -644,7 +644,8 @@ Se il danno porta la PC di un bersaglio sotto lo zero, la sua FOR viene diminuit
 
 ### Stress Critico = Crollo
 Lo **Stress** che riduce la PC di un bersaglio sotto zero diminuisce il CTRL del bersaglio della quantità rimanente. Dovete quindi effettuare un tiro salvezza CTRL per evitare lo **Stress Critico**.
-<br>Se un personaggio fallisce il tiro salvezza su CTRL, subisce uno stress critico e guadagna il Crollo dalla tabella [Crollo da Stress](#tabelle-di-crollo-da-stress).
+
+Se un personaggio fallisce il tiro salvezza su CTRL, subisce uno stress critico e guadagna il Crollo dalla tabella [Crollo da Stress](#tabelle-di-crollo-da-stress).
 
 ### 0 PC Stress = Crollo
 Se lo stress di un PG riduce la sua PC esattamente a 0, deve immediatamente tirare o scegliere un risultato dalla tabella [Crollo da Stress](#tabelle-di-crollo-da-stress) proprio come se avesse fallito il tiro salvezza CTRL.
@@ -665,7 +666,7 @@ Gli attacchi contro i distaccamenti da parte di individui sono **compromessi** (
 Gli attacchi contro gli individui da parte dei distaccamenti sono **potenziati** e infliggono danni da esplosione.
 
 ### Morale
-Il morale è un meccanico di innesco usato per simulare il desiderio di sopravvivenza di un PNG.
+Il morale è un meccanismo di innesco usato per simulare il desiderio di sopravvivenza di un PNG.
 
 I nemici devono superare un tiro salvezza di CTRL per evitare di fuggire quando subiscono la prima vittima e di nuovo quando perdono metà del loro numero. Alcuni gruppi possono usare il CTRL del loro leader al posto del proprio. I nemici solitari devono salvare quando sono ridotti a 0 PC.
 
@@ -952,7 +953,7 @@ A meno che non sia segnato, il Crollo può essere scelto solo una volta per tabe
 - Per oscurare, per acquisire, per mantenere l'ordine
 - Danno critico: L'agente speciale arresta il bersaglio.
 
-**Bambino della Spora**
+**Figlio della Spora**
  <br> 4 PC, 1 Armatura, 12 FOR, 8 DES, 6 CTRL
  <br>Pugnale benedetto della spora (d6)
 - La carne è ospite di un fungo parassita che ha preso il sopravvento sul cervello e li ha collegati alla grande struttura. Alcuni hanno corpi fruttiferi che spuntano dalle fessure della carne, mentre altri sono appena percettibili, tranne che per la leggera peluria.

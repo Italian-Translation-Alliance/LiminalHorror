@@ -29,7 +29,7 @@ Un SRD (o System Reference Document) è spesso usato nel design dei giochi per i
 
 **Liminal Horror** è sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-**Liminal Horror** è un gioco di ruolo da tavolo con un Facilitatore e almeno altri due giocatori. I giocatori agiscono come investigatori che navigano in un mondo moderno pieno di cose terribili e inconoscibili che si nascondono negli spazi intermedi, cercando un modo per entrare.
+**Liminal Horror** è un gioco di ruolo da tavolo con un Facilitatore e almeno altri due giocatori. I giocatori agiscono come investigatori che navigano in un mondo moderno pieno di cose terribili e ignoti che si nascondono negli spazi intermedi, cercando un modo per entrare.
 
 ## Indice
 - [Panoramica](#panoramica)
@@ -61,7 +61,7 @@ Gli investigatori non sono limitati da una classe predefinita. La specialità di
 Non c'è livellamento o esperienza meccanica in **Liminal Horror**. Il successo e il fallimento portano a storie memorabili. Costruire relazioni, incontrare reliquie toccate dal vuoto e i Crolli da Stress portano alla crescita del personaggio.
 
 ### Stress e Crollo
-Il gioco tratta i temi dell'orrore cosmico. Questo è rappresentato meccanicamente con lo stress e il crollo da stress. La crollo ruota attorno al cambiamento subito dai personaggi venendo in contatto con gli Antichi Poteri. Il design evita intenzionalmente di usare la malattia mentale e il trauma come meccaniche di gioco.
+Il gioco tratta i temi dell'orrore cosmico. Questo è rappresentato meccanicamente con lo stress e il crollo da stress. Il crollo ruota attorno al cambiamento subito dai personaggi venendo in contatto con gli Antichi Poteri. Il design evita intenzionalmente di usare la malattia mentale e il trauma come meccaniche di gioco.
 
 ### Il Bizzarro
 **Liminal Horror** è progettato per essere ambientato in una città moderna. I personaggi imparano lentamente a conoscere le cose strane e pericolose nascoste nell'oscurità. Si piegheranno, o si romperanno, sotto il peso dell'ignoto.
@@ -148,7 +148,7 @@ La morte arriva per tutti, ma alcuni subiscono un destino peggiore.
 - Combattere è rischioso e le conseguenze della violenza sono di lunga durata.
 - Una mente distrutta è tanto debilitante quanto un corpo rotto.
 - Ottenete qualsiasi vantaggio possibile. La preparazione può evitare una morte certa.
-- La magia è caotica e brandire l'inconoscibile può avere conseguenze disastrose.
+- La magia è caotica e brandire l'ignoto può avere conseguenze disastrose.
 - La vittoria arriva in molte forme, e spesso il successo viene da una ritirata.
 
 ### Pianificazione
@@ -172,9 +172,9 @@ La morte arriva per tutti, ma alcuni subiscono un destino peggiore.
 #### 1. Punteggi di Abilità
 I Personaggi Giocanti (PG) hanno tre punteggi di abilità:
 
-- Forza (FOR)**: Fisicità, forza e durezza.
-- Destrezza (DES)**: Velocità, furtività e precisione.
-- Controllo (CTRL)**: Forza di volontà, fascino e stranezza.
+- **Forza (FOR)**: Fisicità, possanza e resistenza.
+- **Destrezza (DES)**: Velocità, furtività e precisione.
+- **Controllo (CTRL)**: Forza di volontà, fascino e stranezza.
 
 
 Quando si crea un Personaggio Giocante (PG), il giocatore deve tirare 3d6 per ogni punteggio di abilità del suo personaggio, in ordine. È possibile poi scambiare due risultati qualsiasi.
@@ -246,17 +246,17 @@ Qual è stato il vostro primo incontro con l'ignoto? Tirate o scegliete:
 | 1 | Avete perso una persona cara in circostanze misteriose.              | 6  | Le prove online sono troppe per essere ignorate.              |
 | 2 | Siete stati testimone di qualcosa nell'oscurità.                     | 7  | Siete sopravvissuti ad un attacco che non sapete spiegare.    |
 | 3 | Qualcosa è in agguato nei vostri sogni.                              | 8  | Qualcuno vicino a voi vi attira o vi spinge via.              |
-| 4 | Attività della setta (forse hanno reclutato qualcuno di importante). | 9  | Potreste essere un membri di una società segreta.             |
+| 4 | Attività della setta (forse hanno reclutato qualcuno di importante). | 9  | Potreste essere un membro di una società segreta.             |
 | 5 | Avete letto qualcosa che non è destinato alle menti mortali.         | 10 | Non l'avete ancora fatto, è a questo che serve la sessione 1! |
 
 
 #### Ideologia e credenze
-Qual è l'ideologia/le convinzioni iniziali del vostro personaggio? Quale lente usano per interpretare il mondo e per guidarli verso l'azione? Create usate la tabella qui sotto o create la vostra:
+Qual è l'ideologia/le convinzioni iniziali del vostro personaggio? Quale lente usano per interpretare il mondo e per guidarli verso l'azione? Usate la tabella qui sotto o create la vostra:
 
 |   |                                                                                           |    |                                                                       |
 |---|-------------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------|
 | 1 | Tutto ha una spiegazione razionale radicata nella scienza.                                | 6  | Gli individui possono fare la differenza.                             |
-| 2 | Vi ascrivete ad una specifica ideologia politica.                                         | 7  | Una specifica religione vi guida.                                     |
+| 2 | Aderite ad una specifica ideologia politica.                                         | 7  | Una specifica religione vi guida.                                     |
 | 3 | La moralità è bianca o nera.                                                              | 8  | Credete nel destino e che abbia un impatto diretto sulla vostra vita. |
 | 4 | Credete in poteri superiori. Astrologia, spiritualità, ecc.                               | 9  | Il libero arbitrio è l'unica verità.                                  |
 | 5 | Ci sono verità profonde di cui gli altri non sono consapevoli. Le risposte sono là fuori. | 10 | Credete nel potere della comunità.                                    |
@@ -873,7 +873,7 @@ Le **Reliquie** sono oggetti potenti e pericolosi toccati dagli Antichi Poteri. 
 
 **Anello con corna**, 1 carica. Girate l'anello per attivarlo. Potete percepire quante persone sono intorno a voi e avere impressioni distinte dei loro sentimenti interiori. Ogni ora la vostra consapevolezza diventa più raffinata, ma prendete 1d6+1 Stress (CTRL). *Ricarica*: Rimuovete l'anello, prendendo il tag Deprivato per 12 ore
 
-**Strumento della fiamma nera**: Alcune armi hanno sigilli e rune incise al loro interno, deformandole e impregnandole di una fiamma nera senza calore. La portata dipende dall'arma e infliggono 1d6 danni CTRL al bersaglio mentre infliggono 1d4 danni Dex a chi le impugna.
+**Strumento della fiamma nera**: Alcune armi hanno sigilli e rune incise al loro interno, deformandole e impregnandole di una fiamma nera senza calore. La portata dipende dall'arma e infliggono 1d6 danni CTRL al bersaglio mentre infliggono 1d4 danni DES a chi le impugna.
 
 [torna all'indice](#indice)
 <p></p>
@@ -888,7 +888,7 @@ Nota: La quantità e la frequenza dell'uso dello stress stabilisce il tono e il 
 |-------------|----------------------------------------------------------------------------------------|
 | 1 Stress    | **OCCHIATA**: Incontrare lo strano o il bizzarro.                                      |
 | 1d4 Stress  | **CONTATTO**: Lo strano e l'inspiegabile.                                              |
-| 1d6 Stress  | **ESPOSIZIONE**: Incontro diretto con l'inconoscibile. La realtà si piega.             |
+| 1d6 Stress  | **ESPOSIZIONE**: Incontro diretto con l'ignoto. La realtà si piega.             |
 | 1d8 Stress  | **CATASTROFE**: Poteri maggiori, presagi, catastrofi. La realtà è vicina alla rottura. |
 | 1d10 Stress | **ROVINA**: Contatto diretto con Poteri Antichi. Rottura della realtà.                 |
 
@@ -1132,7 +1132,7 @@ Le Tabelle Scintilla sono usate per stimolare le idee. Tirate 2d20 e combinate i
 # Riassunto delle regole
 
 **ABILITA'**
-<br>**FOR:** Fisicità, forza e durezza.
+<br>**FOR:** Fisicità, possanza e resistenza.
 <br>**DES:** Velocità, furtività e precisione.
 <br>**CTRL:** Forza di volontà, fascino e stranezza.
 

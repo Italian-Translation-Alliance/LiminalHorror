@@ -29,11 +29,11 @@ Un SRD (o System Reference Document) è spesso usato nel design dei giochi per i
 
 **Liminal Horror** è sotto licenza [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-**Liminal Horror** è un gioco di ruolo da tavolo con un Facilitatore e almeno altri due giocatori. I giocatori agiscono come investigatori che navigano in un mondo moderno pieno di cose terribili e ignoti che si nascondono negli spazi intermedi, cercando un modo per entrare.
+**Liminal Horror** è un gioco di ruolo da tavolo con un Custode e almeno altri due giocatori. I giocatori agiscono come investigatori che navigano in un mondo moderno pieno di cose terribili e ignoti che si nascondono negli spazi intermedi, cercando un modo per entrare.
 
 ## Indice
 - [Panoramica](#panoramica)
-- [Principi per i Facilitatori](#principi-per-i-facilitatori)
+- [Principi per i Custodi](#principi-per-i-custodi)
 - [Principi per i Giocatori](#principi-per-i-giocatori)
 - [Creazione dei personaggi](#creazione-dei-personaggi)
 - [Equipaggiamento](#equipaggiamento)
@@ -48,11 +48,11 @@ Un SRD (o System Reference Document) è spesso usato nel design dei giochi per i
 
 ## Panoramica
 
-### Facilitatore e Giocatori
-I Facilitatori prendono decisioni coerenti durante il gioco e facilitano situazioni in cui i giocatori possono impegnarsi con la narrativa. L'obiettivo è quello di creare interessanti storie di orrore e di lotta contro poteri più grandi di sé stessi.
+### Custode e Giocatori
+I Custodi prendono decisioni coerenti durante il gioco e facilitano situazioni in cui i giocatori possono impegnarsi con la narrativa. L'obiettivo è quello di creare interessanti storie di orrore e di lotta contro poteri più grandi di sé.
 
 ### Scelta per i giocatori
-I Facilitatori forniscono ai giocatori quante più informazioni possibili per essere innovativi e intelligenti nella risoluzione dei problemi. I rischi dovrebbero essere chiari, con opzioni multiple per la scelta del giocatore. Ogni scelta è importante.
+I Custodi forniscono ai giocatori quante più informazioni possibili per essere innovativi e intelligenti nella risoluzione dei problemi. I rischi dovrebbero essere chiari, con opzioni multiple per la scelta del giocatore. Ogni scelta è importante.
 
 ### Nessuna classe
 Gli investigatori non sono limitati da una classe predefinita. La specialità di un personaggio inizia con il suo background, il suo equipaggiamento e le sue esperienze.
@@ -61,7 +61,7 @@ Gli investigatori non sono limitati da una classe predefinita. La specialità di
 Non c'è livellamento o esperienza meccanica in **Liminal Horror**. Il successo e il fallimento portano a storie memorabili. Costruire relazioni, incontrare reliquie toccate dal vuoto e i Crolli da Stress portano alla crescita del personaggio.
 
 ### Stress e Crollo
-Il gioco tratta i temi dell'orrore cosmico. Questo è rappresentato meccanicamente con lo stress e il crollo da stress. Il crollo ruota attorno al cambiamento subito dai personaggi venendo in contatto con gli Antichi Poteri. Il design evita intenzionalmente di usare la malattia mentale e il trauma come meccaniche di gioco.
+Il gioco tratta i temi dell'orrore cosmico. Questo è rappresentato meccanicamente con lo stress e il crollo. Il crollo ruota attorno al cambiamento subito dai personaggi venendo in contatto con gli Antichi Poteri. Il design evita intenzionalmente di usare la malattia mentale e il trauma come meccaniche di gioco.
 
 ### Il Bizzarro
 **Liminal Horror** è progettato per essere ambientato in una città moderna. I personaggi imparano lentamente a conoscere le cose strane e pericolose nascoste nell'oscurità. Si piegheranno, o si romperanno, sotto il peso dell'ignoto.
@@ -77,7 +77,7 @@ La morte arriva per tutti, ma alcuni subiscono un destino peggiore.
 [torna all'indice](#indice)
 <p></p>
 
-## Principi per i Facilitatori
+## Principi per i Custodi
 
 ### Informazioni
 - Le informazioni non dovrebbero mai essere nascoste dietro ai tiri.
@@ -118,7 +118,6 @@ La morte arriva per tutti, ma alcuni subiscono un destino peggiore.
 
 ### Fallimento
 - Il fallimento dovrebbe spingere la storia in avanti.
-- Promuovete un tavolo dove successo e fallimento sono ugualmente eccitanti.
 - È incoraggiato sollecitare complicazioni o colpi di scena da parte dei giocatori.
 
 ### Dado del Fato
@@ -294,7 +293,7 @@ Potenziali connessioni
 | 5 | Robusto     | 10 | Imponente |
 
 
-#### Faccia
+#### Viso
 
 |   |           |    |           |
 |---|-----------|----|-----------|
@@ -541,7 +540,7 @@ Il valore di **Armatura** di un bersaglio viene dedotto dal danno in arrivo prim
 
 Il valore di **Stabilità** di un bersaglio viene dedotto dallo stress in arrivo prima che venga applicato alla PC. L'equipaggiamento può fornire questo bonus di difesa (ad esempio +1 Stabilità).  Questi sono spesso oggetti, gingilli, o oggetti che forniscono un profondo senso di conforto e connessione con la realtà.
 
-È a discrezione del Facilitatore creare ulteriori equipaggiamenti che abbiano le etichette (+1 Armatura) o (+1 Stabilità).
+È a discrezione del Custode creare ulteriori equipaggiamenti che abbiano le etichette (+1 Armatura) o (+1 Stabilità).
 
 
 
@@ -555,7 +554,7 @@ I PG possono anche guadagnare Deprivazione o Fatica lanciando incantesimi o attr
 ### Inventario
 I personaggi hanno un totale di 10 spazi di inventario: uno zaino (o una borsa simile) con sei spazi, uno spazio per ogni mano e due spazi per la parte superiore del corpo (come la cintura, il petto o la testa).
 
-La maggior parte degli oggetti occupano uno spazio, e gli oggetti piccoli possono essere raggruppati insieme. Gli spazi sono astratti e possono essere riorganizzati a discrezione del Facilitatore. Gli oggetti **Grandi** occupano due spazi e sono tipicamente a due mani o scomodi da portare.
+La maggior parte degli oggetti occupano uno spazio, e gli oggetti piccoli possono essere raggruppati insieme. Gli spazi sono astratti e possono essere riorganizzati a discrezione del Custode. Gli oggetti **Grandi** occupano due spazi e sono tipicamente a due mani o scomodi da portare.
 
 Un PG non può portare più oggetti di quanti ne permetta il suo inventario. I veicoli possono essere utilizzati per conservare l'inventario aggiuntivo, ma sono inaccessibili se si è lontani dal veicolo.
 
@@ -563,7 +562,7 @@ Un PG non può portare più oggetti di quanti ne permetta il suo inventario. I v
 
 
 ### Reazioni
-Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, il Facilitatore può chiedere ad un giocatore di tirare 2d6 e consultare la seguente tabella:
+Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, il Custode può chiedere ad un giocatore di tirare 2d6 e consultare la seguente tabella:
 
 |        |            |         |         |       |
 |--------|------------|---------|---------|-------|
@@ -609,7 +608,7 @@ Il gioco tipicamente si svolge senza una rigorosa contabilizzazione del tempo. S
 ### Azioni
 Nel suo turno un personaggio può muoversi fino a 40 piedi e compiere un'azione. Questa può essere il *lanciare un incantesimo*, *attaccare*, fare una *seconda mossa*, o qualche altra *mossa di combattimento*.
 
-I giocatori dichiarano le azioni che faranno prima di tirare i dadi. Se tentano qualcosa di rischioso, il Facilitatore chiederà un tiro salvezza alla parte interessata.
+I giocatori dichiarano le azioni che faranno prima di tirare i dadi. Se tentano qualcosa di rischioso, il Custode chiederà un tiro salvezza alla parte interessata.
 
 Tutte le azioni, gli attacchi e i movimenti avvengono più o meno nello stesso momento.
 
@@ -690,7 +689,7 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 - Gli incantesimi utilizzano una singola azione.
 - Dopodiché lasciano l'inventario.
 - In caso di deprivazione o pericolo, il PG deve effettuare un tiro salvezza su CTRL per evitare gli effetti negativi. Le conseguenze del fallimento dovrebbero essere correlate al livello dell'effetto desiderato. Il fallimento può risultare in Stress, Affaticamento, ferite, morte o Presagio/Catastrofe magica.
-- Gli effetti degli incantesimi sono decisi dal Facilitatore con l'input del giocatore. Dovrebbero lavorare insieme per definire l'effetto generale e la portata dell'incantesimo. Il Facilitatore prende la decisione finale in gioco. (Linea guida: gli incantesimi offensivi in genere causano d8 danni se sono a bersaglio singolo o d6 se sono danni da esplosione).
+- Gli effetti degli incantesimi sono decisi dal Custode con l'input del giocatore. Dovrebbero lavorare insieme per definire l'effetto generale e la portata dell'incantesimo. Il Custode prende la decisione finale in gioco. (Linea guida: gli incantesimi offensivi in genere causano d8 danni se sono a bersaglio singolo o d6 se sono danni da esplosione).
 - I PG possono tentare di mantenere l'incantesimo effettuando con successo un tiro salvezza su CTRL.
 - **In caso di successo:** L'incantesimo rimane preparato. Il PG segna la fatica in uno spazio dell'inventario.
 - **In caso di fallimento:** il giocatore non trattiene l'incantesimo, segna deprivazione e aggiunge fatica al suo inventario.
@@ -900,24 +899,24 @@ Alcuni momenti cambiano un investigatore per sempre. I giocatori tirano o scelgo
 
 A meno che non sia segnato, il Crollo può essere scelto solo una volta per tabella. Ogni Crollo occupa uno spazio dell'inventario. Non può essere rimosso.
 
-**Nota per i Facilitatori:** Il tono della tabella del Crollo da Stress riflette i temi e gli obiettivi del gioco. Regolatevi in base a ciò che funziona per il vostro tavolo, aggiungendo o cambiando le voci come necessario per aumentare (o diminuire) il Bizzarro. Questo è la principale manopola per controllare l'orrore cosmico del vostro gioco.
+**Nota per i Custodi:** Il tono della tabella del Crollo da Stress riflette i temi e gli obiettivi del gioco. Regolatevi in base a ciò che funziona per il vostro tavolo, aggiungendo o cambiando le voci come necessario per aumentare (o diminuire) il Bizzarro. Questo è la principale manopola per controllare l'orrore cosmico del vostro gioco.
 
 |    |                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1  | **Siete stati sostituiti?** Avete visto cosa possono fare, le loro magie e i loro inganni. Cosa potrebbe impedire loro di prendervi? Forse non siete chi credete di essere? Come fareste a saperlo?  Durante il vostro prossimo momento di riflessione tranquilla, tirate 1d6. Se il totale è superiore alla vostra PC massima, prendete il nuovo risultato.                                                                                      |
-| 2  | **Vi ricordate di un viaggiatore sconosciuto:** Questi ricordi non sono i vostri. Sono di un tempo diverso, di un luogo diverso, da una prospettiva così diversa dalla vostra. Le realtà che attraversano sono così estranee e diverse, i loro sentimenti così stranieri. Se solo poteste capire quello che hanno provato. Durante il vostro prossimo riposo, tirate 1d6. Se il totale è superiore ai tuoi HP massimi, prendi il nuovo risultato. |
+| 2  | **Vi ricordate di un viaggiatore sconosciuto:** Questi ricordi non sono i vostri. Sono di un tempo diverso, di un luogo diverso, da una prospettiva così diversa dalla vostra. Le realtà che attraversano sono così estranee e diverse, i loro sentimenti così stranieri. Se solo poteste capire quello che hanno provato. Durante il vostro prossimo riposo, tirate 1d6. Se il totale è superiore alla vostra PC massima, prendete il nuovo risultato. |
 | 3  | **Paranoia:** È paranoia se le preoccupazioni sono del tutto ragionevoli? Hai visto cosa succede nel buio, sai cosa succede nella notte.  Dopo una settimana, tira 1d6. Se il totale è superiore alla vostra PC massima, prendete il nuovo risultato.                                                                                                                                                                                             |
-| 4  | **Plagiati dagli incubi:** Viene per voi ogni notte, senza sbagliare. Non sapete se sono dall'inizio o dalla fine. Tutto quello che sapete è che non si fermano, e che devono significare qualcosa. Dopo una settimana di incubi, raccontate al vostro Facilitatore due immagini distinte che indugiano ai limiti del vostro ricordo.                                                                                                             |
+| 4  | **Plagiati dagli incubi:** Viene per voi ogni notte, senza sbagliare. Non sapete se sono dall'inizio o dalla fine. Tutto quello che sapete è che non si fermano, e che devono significare qualcosa. Dopo una settimana di incubi, raccontate al vostro Custode due immagini distinte che indugiano ai limiti del vostro ricordo.                                                                                                             |
 | 5  | **Mondo dello specchio:** All'inizio tutto sembrava a posto, ma ora ne siete sicuri - il mondo dentro lo specchio è diverso. Gli sguardi laterali, lo spostamento dei luoghi, è innegabile. Quando cominciate ad accorgervene, tirate 2d6. Se il totale è superiore alla vostra PC massima, prendete il nuovo risultato.                                                                                                                          |
 | 6  | **Strambo:** Adottate un comportamento strano che mette gli altri a disagio. Se resistete a indulgere nella vostra "Stranezza" per 24 ore, prendete l'etichetta Deprivato. Se gli altri vi vedono impegnati in questo comportamento inquietante, devono effettuare un tiro salvezza su CTRL o prendere 1d4 Stress.  Dopo il primo caso, tirate 3d6. Se il totale è più alto del vostro attuale CTRL, prendete il nuovo risultato.                 |
 | 7  | **Fame:** Sviluppate una fame innaturale per le cose insolite. Se non saziate il vostro appetito per 24 ore, prendete l'etichetta Deprivato. Quando mangiate, ripristinate la PC e date 1d4 di stress a chiunque possa vedere. Dopo la prima volta, tirate 3d6. Se il totale è superiore alla vostra attuale FOR, prendete il nuovo risultato.                                                                                                    |
 | 8  | **Sfregiato:** Ogni ferita che infliggete lascia il suo segno lacerante sul vostro corpo. Dopo la prima volta, effettuate un tiro salvezza su CTRL. Se lo superate, aumentate la tua FOR massima di 1d4.                                                                                                                                                                                                                                          |
 | 9  | **Comunione Liminale:** All'inizio non si notava, ma lentamente avete cominciato a fare regolarmente una sequenza di gesti, parole o azioni, quasi come se steste eseguendo un rituale. Quando cominciate ad accorgervene, effettuate un tiro salvezza su CTRL. Se lo superate, aumentate il vostro CTRL massimo di 1d4.                                                                                                                          |
-| 10 | **Corruzione Magica** *(questo può essere subito più volte per personaggio)*:  La carne è debole. Una parte del vostro corpo viene visibilmente modificata dalla tua vicinanza con il Bizzarro. Il Facilitatore e il Giocatore devono decidere come questo cambiamento si manifesta e se ha qualche impatto meccanico.                                                                                                                            |
+| 10 | **Corruzione Magica** *(questo può essere subito più volte per personaggio)*:  La carne è debole. Una parte del vostro corpo viene visibilmente modificata dalla tua vicinanza con il Bizzarro. Il Custode e il Giocatore devono decidere come questo cambiamento si manifesta e se ha qualche impatto meccanico.                                                                                                                            |
 | 11 | **Soglia:** C'è una porta chiara con una maniglia nera. È irrilevante, a parte il fatto che questa porta può apparire apparentemente ovunque. A volte la porta si trova in posti dove non dovrebbe essere. A volte si trova da sola, attaccata a niente. L'unica cosa di cui siete sicuri è che si tratta sempre della stessa porta, che non siete ancora riusciti ad aprire. |
-| 12 | Vedete immagini di luoghi sconosciuti sovrapposte a questa, il che rende a volte difficile distinguere ciò che è reale. In un altro tempo potrestete essere stato chiamati oracoli. <br>Quando tirate i tiri salvezza su **DES**, tirate 2d20 e prendete il risultato più basso. Una volta al giorno vedete qualcosa di significativo (chiedete al vostro Facilitatore di cosa si tratta).           |
+| 12 | Vedete immagini di luoghi sconosciuti sovrapposte a questa, il che rende a volte difficile distinguere ciò che è reale. In un altro tempo potreste essere stato chiamati oracoli. <br>Quando tirate i tiri salvezza su **DES**, tirate 2d20 e prendete il risultato più basso. Una volta al giorno vedete qualcosa di significativo (chiedete al vostro Custode di cosa si tratta).           |
 | 13 | **Settimo Figlio di Settimo Figlio:** Un'esposizione sufficiente vi ha cambiato. Siete più connessi con l'ultraterreno. Aggiungete la Magia alla vostra scheda personaggio e seguite le regole. Questo nuovo potere è grande, e terribile.<br>La prima volta che usate un incantesimo causa 1d6 di stress.<br><br>Il vostro secondo incantesimo causa 1d4 di stress<br><br>Infine il terzo incantesimo che lanciate causa 1 di stress. |
-| 14 | **Segnato dalla paura:** Il nucleo del vostro essere è stato contorto e cambiato. Quando agite in un modo che manifesta la vostra paura marcata e devote fare un tiro salvezza, tirate 2d20 e prendete il risultato più basso. Quando resistite ad un'opportunità di assecondare la paura, prendete 1d4 di stress. <br>Create una paura fondamentale con il vostro Facilitatore.                                                                                            |
+| 14 | **Segnato dalla paura:** Il nucleo del vostro essere è stato contorto e cambiato. Quando agite in un modo che manifesta la vostra paura marcata e devote fare un tiro salvezza, tirate 2d20 e prendete il risultato più basso. Quando resistite ad un'opportunità di assecondare la paura, prendete 1d4 di stress. <br>Create una paura fondamentale con il vostro Custode.                                                                                            |
 | 15 | **Pesante è la testa:** Una corona eterea pende sopra la vostra testa. Non è visibile a tutti, solo a pochi speciali. Sono state raccontate storie sulla vostra venuta.<br>Fate un salvataggio su CTRL. Se lo superate, aumentate il vostro CTRL massimo di 1d6.|
 | 16 | **Pieno fino a scoppiare:** Avete una sensazione di pienezza e contentezza. <br>La prossima volta che fallirete un tiro salvezza su FOR con danno critico:<br>avrete invece successo. Immediatamente e violentemente iniziate a vomitare parassiti (a scelta del giocatore). <br><br>Ogni essere che può vedere deve effettuare un tiro salvezza su CTRL o prendere 1d6 di stress.<br><br>Tirate 3d6. Se il totale è superiore al vostro CTRL massimo, prendete il nuovo risultato. |
 | 17 | **Progenie:** Qualcosa sta crescendo dentro di voi. La speranza l'ha abbandonata da tempo e non ha più spazio per i sogni.<br>Rilanciate 2d6. Prendete il nuovo risultato come vostra PC massima.

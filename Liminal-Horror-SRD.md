@@ -438,10 +438,10 @@ Determinate come gruppo a quali tipi di veicoli o mezzi di trasporto ha accesso 
 
 |                                                              |       |
 |--------------------------------------------------------------|-------|
-| Gilet corazzato (+1 Armatura)                                | $1000 |
-| Amuleto del vecchio paese (+1 Stabilità)                     | $1000 |
-| Maschera antigas (protegge dalle tossine presenti nell'aria) | $100  |
-| Maschera (protegge la tua identità)                          | $20   |
+| **Gilet corazzato** (+1 Armatura)                                | $1000 |
+| **Amuleto del vecchio paese** (+1 Stabilità)                     | $1000 |
+| **Maschera antigas** (protegge dalle tossine presenti nell'aria) | $100  |
+| **Maschera** (protegge la tua identità)                          | $20   |
 
 #### Armi
 
@@ -532,7 +532,7 @@ Per effettuare un tiro salvezza i PG tirano un d20 contro l'attributo obiettivo.
 Se c'è un'azione **in competizione**, il gruppo che rischia di più effettua il tiro salvezza.
 
 
-### Cura
+### Cure
 Riposarsi per qualche istante ripristina la PC ma può lasciare gli investigatori esposti. La perdita di abilità richiede più tempo per il recupero. Può richiedere fino a una settimana di riposo con un intervento medico o con mezzi magici.
 
 ### Armatura e stabilità
@@ -969,7 +969,7 @@ A meno che non sia segnato, il Crollo può essere scelto solo una volta per tabe
  <br>Bastone da passeggio (d6) Magia (almeno 2 incantesimi)
 - Le streghe possono assomigliare a chiunque. Alcune sono state cambiate attraverso la vicinanza alla magia (puoi tirare su Magia - Mutazioni da Crollo se volete aumentare le loro stranezze)
 - Per imparare, per nascondersi, per influenzare. A volte, per insegnare.
-- Danno critico: La Strega lascia il suo sigillo sul suo bersaglio, formando una connessione con lui.
+- Danno critico: La Strega lascia il suo sigillo sul suo bersaglio, formando una connessione con esso.
 
 **Fantasma**
  <br>10 PC, 3 Armatura, 10 FOR, 10, DES, 12 CTRL
@@ -988,7 +988,7 @@ A meno che non sia segnato, il Crollo può essere scelto solo una volta per tabe
 **Lo sciame**
  <br>10 PC, 3 Armatura, 14 FOR, 10 DES
  <br>Cascata di parassiti (d6, esplosione)
-- Una volta era una persona normale, ora è ospite di una legione (scegliete vermi/vermi/anti). Ad un'ispezione ravvicinata lo spettatore può vedere il movimento sotto la pelle. Trattare come un distaccamento
+- Una volta era una persona normale, ora è ospite di una legione (scegliete vermi/vermi/formiche). Ad un'ispezione ravvicinata lo spettatore può vedere il movimento sotto la pelle. Trattare come un distaccamento
 - Per scavare, corrompere, diffondere.
 - Danno critico: La vittima non è in grado di eliminare lo sciame in tempo, iniziano a scavare troppo in profondità.
 
@@ -1010,8 +1010,8 @@ A meno che non sia segnato, il Crollo può essere scelto solo una volta per tabe
  <br> 2 PC, 10 FOR, 10 DES, 10 CTRL,
  <br>Mani o strumenti (d6)
 - Spesso persone normali. Quando vengono utilizzati hanno uno sguardo vitreo. A volte il loro colore non va bene (pelle, capelli, vestiti, tutto).
-- Per seguire. Per essere utilizzati.
-- I droni possono ignorare il loro primo danno critico. Non si ritira a meno che il suo padrone non lo voglia.
+- Per seguire. Per essere usati.
+- Può ignorare il loro primo danno critico. Non si ritira a meno che il suo padrone non lo voglia.
 
 **Eco**
  <br>10 PC, 2 Armatura, 12 FOR, 15 DES, 14 CTRL

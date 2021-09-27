@@ -1041,7 +1041,7 @@ Usa il seguente modello per modellare PNG e mostri:
 - Effetto speciale o conseguenza del danno critico.
 
 #### Principi generali
-- I punteggi di abilità sono 10 se non indicato.
+- I punteggi di abilità sono 10 se non diversamente indicato.
 - Punteggi di abilità: 3 è carente, 6 è debole, 10 è medio, 14 è notevole e 18 è leggendario.
 - PC: 3 PC è medio, 6 PC è robusto, 10+ PC è una seria minaccia
 - La PC è la protezione degli attacchi, non una misura dei punti ferita. È una misura dell'abilità, della fortuna, della grinta, della resilienza.
@@ -1052,9 +1052,9 @@ Usa il seguente modello per modellare PNG e mostri:
 
 #### Foglio riassuntivo delle creature:
 - In grado di evitare di essere colpito? Dategli **PC**.
-- Assorbire i danni? Dategli **Armatura**.
+- Assorbe i danni? Dategli **Armatura**.
 - Fisicamente potente? Dategli un'alta **FOR** o dadi danno più grandi.
-- Veloce? Dategli un'alto **DES**.
+- Veloce? Dategli un'alta **DES**.
 - Strano? Dategli un alto **CTRL** o la capacità di infliggere danni da stress.
 
 [torna all'indice](#indice)
@@ -1147,7 +1147,7 @@ Le Tabelle Scintilla sono usate per stimolare le idee. Tirate 2d20 e combinate i
 <br>**Deprivazione** impedisce ad un PG di recuperare la PC. Essere privato per più di 24 ore aggiunge Fatica all'inventario del PG. La **Fatica** occupa uno spazio e dura finché non può recuperare. Questo può accadere più volte.
 
 **INVENTARIO**
-<br>I PG hanno 10 spazi di inventario. La maggior parte degli oggetti occupa uno spazio. Gli oggetti **ingombranti** occupano due spazi e sono scomodi o difficili da trasportare. L'utilizzo di tutti e 10 gli spazi abbassa la PC a 0.
+<br>I PG hanno 10 spazi di inventario. La maggior parte degli oggetti occupa uno spazio. Gli oggetti **grandi** occupano due spazi e sono scomodi o difficili da trasportare. L'utilizzo di tutti e 10 gli spazi abbassa la PC a 0.
 
 **MAGIA**
 <br> Ogni mattina viene creato un nuovo incantesimo. È casuale o è una copia di uno del giorno precedente. Gli incantesimi occupano uno spazio oggetto. Gli incantesimi costano un'azione per essere lanciati. Si può tentare un tiro salvezza su CTRL per mantenere l'incantesimo. In caso di deprivazione o di pericolo, può essere richiesto un tiro salvezza su CTRL per evitare conseguenze disastrose.

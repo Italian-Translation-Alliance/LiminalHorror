@@ -472,7 +472,7 @@ Determinate come gruppo a quali tipi di veicoli o mezzi di trasporto ha accesso 
 
 |                                                                                                       |      |
 |-------------------------------------------------------------------------------------------------------|------|
-| **Tranquillizzanti** (Salvate con FOR o svienite)                                                     | $50  |
+| **Tranquillizzanti** (Salvate con FOR o svenite)                                                     | $50  |
 | **Droghe** (sballo da droga, potenziale tiro salvezza CTRL o FOR per affrontare gli effetti negativi) | $50  |
 | **Avvelenamento** (perdete d20 FOR se passa attraverso una barriera sangue-tessuto)                   | $50  |
 | **Antitossina** (ferma le tossine - sgradevole)                                                       | $50  |
@@ -545,7 +545,7 @@ Il valore di **Stabilità** di un bersaglio viene dedotto dallo stress in arrivo
 
 
 ### Deprivazione & Fatica
-Un PG **deprivato** di un bisogno cruciale (come il cibo o il riposo) non è in grado di recuperare PC o punteggi di abilità. I PG possono anche prendere il tag deprivazione come risultato di conseguenze magiche o abilità nemiche.
+Un PG **deprivato** di un bisogno cruciale (come il cibo o il riposo) non è in grado di recuperare PC o punteggi di abilità. I PG possono anche prendere l'etichetta Deprivato come risultato di conseguenze magiche o abilità nemiche.
 
 Chiunque sia deprivato per più di un giorno aggiunge **Fatica** al suo inventario, una per ogni giorno. Ogni Fatica occupa uno spazio e dura fino a quando non si è in grado di recuperare (come una notte intera di riposo in un luogo sicuro).
 
@@ -871,7 +871,7 @@ Le **Reliquie** sono oggetti potenti e pericolosi toccati dagli Antichi Poteri. 
 
 **Guida anatomica alla memoria**: Il lettore può conversare con le anime legate nelle sue pagine. Prendete d6 Stress (CTRL) per leggere una voce. Ci sono ancora pagine vuote nel libro.
 
-**Anello con corna**, 1 carica. Girate l'anello per attivarlo. Potete percepire quante persone sono intorno a voi e avere impressioni distinte dei loro sentimenti interiori. Ogni ora la vostra consapevolezza diventa più raffinata, ma prendete 1d6+1 Stress (CTRL). *Ricarica*: Rimuovete l'anello, prendendo il tag Deprivato per 12 ore
+**Anello con corna**, 1 carica. Girate l'anello per attivarlo. Potete percepire quante persone sono intorno a voi e avere impressioni distinte dei loro sentimenti interiori. Ogni ora la vostra consapevolezza diventa più raffinata, ma prendete 1d6+1 Stress (CTRL). *Ricarica*: Rimuovete l'anello, prendendo l'etichetta Deprivato per 12 ore
 
 **Strumento della fiamma nera**: Alcune armi hanno sigilli e rune incise al loro interno, deformandole e impregnandole di una fiamma nera senza calore. La portata dipende dall'arma e infliggono 1d6 danni CTRL al bersaglio mentre infliggono 1d4 danni DES a chi le impugna.
 

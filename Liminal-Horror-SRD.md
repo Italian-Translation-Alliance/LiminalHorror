@@ -786,21 +786,21 @@ Gli incantesimi casuali sono generati usando la tabella e il procedimento qui so
 
 **Elementi Eterei**
 
-|                      |             |             |
-|----------------------|-------------|-------------|
-| Vendicare            | Forzare     | Disfare     |
-| Bandire              | Nascondere  | Abbracciare |
-| Disorientare         | Assordare   | Codificare  |
-| Accecare             | Ingannare   | Energizzare |
-| Affascinare          | Decifrare   | Illuminare  |
-| Comunicare           | Dissimulare | Infiammare  |
-|                      |             |             |
-| Straziare            | Nullificare | Lenire      |
-| Prevedere            | Paralizzare | Evocare     |
-| Intossicare          | Rivelare    | Terrificare |
-| Dissennare           | Rivoltare   | Ammutolire  |
-| Ipnotizzare          | Scrutare    | Logorare    |
-| Leggere nel pensiero | Silenziare  | Inaridire   |
+|             |            |             |
+|-------------|------------|-------------|
+| Cenere      | Ectoplasma | Luce        |
+| Caos        | Fuoco      | Fulmine     |
+| Distorsione | Nebbia     | Memoria     |
+| Sogno       | Fantasma   | Mente       |
+| Polvere     | Armonia    | Mutageno    |
+| Eco         | Cuore      | Negazione   |
+|             |            |             |
+| Peste       | Fumo       | Tuono       |
+| Plasma      | Neve       | Tempo       |
+| Probabilità | Anima      | Vuoto       |
+| Pioggia     | Stella     | Distorsione |
+| Marciume    | Stasi      | Sussurro    |
+| Ombra       | Vapore     | Vento       |
 
 **Forma Eterea**
 

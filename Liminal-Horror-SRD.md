@@ -17,7 +17,7 @@ Un SRD (o System Reference Document) è spesso usato nel design dei giochi per i
 - [Repository Github](https://github.com/Italian-Translation-Alliance/LiminalHorror) - aggiornato attivamente
 - [Google Doc](https://docs.google.com/document/d/12mBO-viYB7uY6SoojRooHuB1xn95m4AfI9dav39Lb4E/edit?usp=sharing)
 - [SRD Markdown](https://raw.githubusercontent.com/Italian-Translation-Alliance/LiminalHorror/gh-pages/Liminal-Horror-SRD.md)
-- [Affinity Publisher File](https://drive.google.com/file/d/1JKIryoyCWBKh9vfYgBf1I2RFuXUc-soy/view?usp=sharing)
+- [Affinity Publisher File](https://drive.google.com/file/d/14ppWmHxNLpPgt88vqJzga6WvhJn-akEX/view?usp=sharing)
 
 <p></p>
 

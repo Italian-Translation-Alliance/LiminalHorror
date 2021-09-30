@@ -4,6 +4,15 @@ remote_theme: pmarsceill/just-the-docs
 baseurl: "/LiminalHorror"
 url: ""
 logo: "/img/logo1.png"
+aux_links:
+  "Liminal Horror su GitHub":
+    - "//github.com/Italian-Translation-Alliance/LiminalHorror"
+  "PDF":
+    - "//ita-translation-alliance.itch.io/liminal-horror"
+  "Lulu":
+    - "//www.lulu.com/en/en/shop/nick-erickson-and-roberto-bisceglie/liminal-horror-versione-italiana/paperback/product-n5npm4.html?page=1&pageSize=4"
+  "Amazon":  
+    "//www.amazon.it/dp/B09HFXXJMC"
 color_scheme: light
 plugins:
   - jekyll-redirect-from

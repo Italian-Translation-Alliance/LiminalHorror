@@ -40,7 +40,7 @@ Un SRD (o System Reference Document) è spesso usato nel design dei giochi per i
 - [Regole](#regole)
 - [Combattimento](#combattimento)
 - [Magia](#magia)
-- [Stress & Crollo](#stress-&-crollo)
+- [Stress & Crollo](#stress--crollo)
 - [Bestiario Paranormale](#bestiario-paranormale)
 - [Tabelle Scintilla](#tabelle-scintilla)
 - [Riassunto delle Regole](#riassunto-delle-regole)
@@ -681,7 +681,7 @@ Il morale non ha effetto sui PG.
 ## Sistema della magia
 I personaggi possono essere in grado di usare la **magia** se:
 - Tirata durante la creazione del personaggio.
-- L'hanno ottenuta attraverso la **Crollo da Stress**.
+- L'hanno ottenuta attraverso il **Crollo da Stress**.
 - Sono stati esposti e cambiati dagli Antichi Poteri durante il gioco. Ci sono quelli che cercano di fare da mentori e altri che cercano di infliggere le loro lezioni agli altri.
 
 Gli incantesimi casuali sono generati usando la tabella e il procedimento qui sotto.

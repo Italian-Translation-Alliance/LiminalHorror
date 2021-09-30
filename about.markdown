@@ -12,9 +12,14 @@ Come contattarlo:
 
 Traduzione italiana per l'[Italian Translation Alliance](https://italiantranslationalliance.org/) a cura di [Roberto Bisceglie](https://zeruhur.space/)
 
-Dove comprare Liminal Horror:
+Dove trovare Liminal Horror:
 
-Versione inglese:
+Versione italiana:  
+<br>[**Itch.io** (PDF)](https://ita-translation-alliance.itch.io/liminal-horror)
+<br>[**Amazon (cartaceo POD)**](https://www.amazon.it/dp/B09HFXXJMC)
+<br>[**Lulu (cartaceo POD)**](https://www.lulu.com/en/en/shop/nick-erickson-and-roberto-bisceglie/liminal-horror-versione-italiana/paperback/product-n5npm4.html?page=1&pageSize=4)
+
+Versione inglese:  
 <br>**Exalted Funeral**: [https://www.exaltedfuneral.com/products/liminal-horror-pdf](https://www.exaltedfuneral.com/products/liminal-horror-pdf)
 <br>**Itch.io**: [https://goblinarchives.itch.io/](https://goblinarchives.itch.io/)
 <br>**DriveThruRPG**: [https://www.drivethrurpg.com/browse/pub/20053/Goblin-Archives](https://www.drivethrurpg.com/browse/pub/20053/Goblin-Archives)

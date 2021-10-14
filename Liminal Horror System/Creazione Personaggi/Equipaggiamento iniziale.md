@@ -2,7 +2,7 @@
 layout: default
 title: Equipaggiamento iniziale
 nav_order: 5
-parent: Creazione dei personaggi
+parent: Creazione dei Personaggi
 grand_parent: Gioco di base
 ---
 

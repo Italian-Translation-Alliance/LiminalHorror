@@ -5,7 +5,10 @@ nav_order: 1
 permalink: /
 ---
 
-**Liminal Horror** è un Gioco di ruolo da tavolo che richiede un Facilitatore e almeno altri due giocatori. I giocatori agiscono come investigatori che navigano in un mondo moderno pieno di cose terribili e inconoscibili che si nascondono negli spazi intermedi, cercando un modo per accedervi.
+**Liminal Horror** è un gioco di ruolo da tavolo con un Facilitatore e
+almeno altri due giocatori. I giocatori agiscono come investigatori che
+navigano in un mondo moderno pieno di cose terribili e ignoti che si
+nascondono negli spazi intermedi, cercando un modo per entrare.
 
 **Liminal Horror** è un sistema a regole ridotte, che fa leva sul problem solving creativo per creare esperienze memorabili al tavolo.  Il cambiamento principale dai suoi sistemi di origine è l'integrazione di un sistema di danni da stress che può risultare in un ricadute da stress. La Ricaduta da stress è il modo in cui i personaggi vengono cambiati dall'esposizione agli Antichi Poteri (sia narrativamente che meccanicamente).
 

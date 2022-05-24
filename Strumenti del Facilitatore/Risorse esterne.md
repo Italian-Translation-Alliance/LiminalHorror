@@ -5,7 +5,7 @@ nav_order: 4
 parent: Strumenti del Facilitatore
 ---
 ## Risorse esterne
-Qui sotto ci sono una raccolta di risorse che ho trovato e che vi aiuteranno nella pianificazione delle sessioni. Sono un mix di post di blog, altri giochi horror, e dovrebbero essere usati per ispirare e guidare la vostra pianificazione.
+Di seguito ecco una raccolta di risorse che ho trovato e che vi aiuteranno nella pianificazione delle sessioni. Sono un mix di post di blog, altri giochi horror, e dovrebbero essere usati per ispirare e guidare la vostra pianificazione.
 - [31 Horror Adventure Hooks di Diogo Nogueira](https://twitter.com/diogo_oldskull/status/1311645823969697792): Questa è una raccolta di 31 diversi agganci horror che potrebbero facilmente diventare la base per una sessione di Liminal Horror fenomenale. Usateli come base o come ispirazione per seminare il terrore e l'ignoto nel gioco.
 - [The Trajectory of Fear - or How to Use Horror Tropes Effectively in your game](https://img.fireden.net/tg/image/1453/84/1453840962349.pdf) (pdf) di Ash Law. Questo è un documento che esamina come usare quattro tipi di paura (disagio, paura, terrore, orrore) nei vostri giochi.
 - [20 Narrative Horror Resources](https://mordheim.es/20-narrative-horror-resources/) di Eduardo Carabaño. Questa è una lista evocativa di immagini e spunti da usare/ispirare.

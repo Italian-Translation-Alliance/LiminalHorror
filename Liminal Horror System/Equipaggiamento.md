@@ -9,18 +9,16 @@ parent: Gioco di base
 
 #### Protezione
 
-|                                                              |       |
-|--------------------------------------------------------------|-------|
 | Gilet corazzato (+1 Armatura)                                | $1000 |
-| Amuleto del vecchio paese (+1 Stabilità)                     | $1000 |
+|--------------------------------------------------------------|-------|
+| Amuleto delle Vecchie Tradizioni (+1 Stabilità)              | $1000 |
 | Maschera antigas (protegge dalle tossine presenti nell'aria) | $100  |
 | Maschera (protegge la tua identità)                          | $20   |
 
 #### Armi
 
-|                                                                                |        |
-|--------------------------------------------------------------------------------|--------|
 | **Attacco disarmato** (d4 danni)                                               | Libero |
+|--------------------------------------------------------------------------------|--------|
 | **Armi improvvisate o grezze** (d6 danni, ingombranti)                         | $20    |
 | **Armi a mano:** Pugnale, Bastone, Ascia (d6 danni)                            | $50    |
 | **Taser/Gas lacrimogeno Combo** (tiro salvezza DEX o momentaneamente stordito) | $50    |
@@ -34,30 +32,26 @@ parent: Gioco di base
 
 #### Esplosivi
 
-|                                                                                      |      |
-|--------------------------------------------------------------------------------------|------|
 | **Molotov** (incendia l'area, causando d6 danni continui fino allo spegnimento)      | $50  |
+|--------------------------------------------------------------------------------------|------|
 | **Flashbang** (esplosione, acceca temporaneamente chi fallisce un tiro salvezza DEX) | $100 |
 | **Granata** (d8 danni, esplosione)                                                   | $100 |
 | **IED** (d6 danni, esplosione con d4 danni continuati per round)                     | $200 |
 
 #### Pozioni moderne
 
-|                                                                                                       |      |
+| **Tranquillizzanti** (Salvate con FOR o svenite)                                                      | $50  |
 |-------------------------------------------------------------------------------------------------------|------|
-| **Tranquillizzanti** (Salvate con FOR o svienite)                                                     | $50  |
 | **Droghe** (sballo da droga, potenziale tiro salvezza CTRL o FOR per affrontare gli effetti negativi) | $50  |
-| **Avvelenamento** (perdete d20 FOR se passa attraverso una barriera sangue-tessuto)                   | $50  |
+| **Veleno** (perdete d20 FOR se passa attraverso una barriera sangue-tessuto)                          | $50  |
 | **Antitossina** (ferma le tossine - sgradevole)                                                       | $50  |
 | **Acido** (d4 danni fino alla rimozione, liquido caustico che brucia attraverso i materiali           | $100 |
 | **Stimolanti** (recupero immediato dai danni critici, +1d4 di DES temporaneo)                         | $100 |
 
+#### Attrezzi - non include gli strumenti normali che si trovano nella maggior parte delle case moderne
 
-#### Attrezzi - non include gli strumenti medi che si trovano nella maggior parte delle case moderne
-
-|                                            |              |                                    |        |
-|--------------------------------------------|--------------|------------------------------------|--------|
 | Bypass per Allarme                         | $500         | Kit di contraffazione              | $150   |
+|--------------------------------------------|--------------|------------------------------------|--------|
 | Trappola per orsi                          | $100         | Attrezzi per tagliare il vetro     | $150   |
 | Binocolo                                   | $100         | Grasso                             | $30    |
 | Torcia (saldatura)                         | $250         | Manette                            | $50    |

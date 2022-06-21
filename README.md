@@ -25,5 +25,4 @@ Un mixtape creato dal designer Sam Leigh [@GoblinMixtape](https://twitter.com/Go
 
 Il testo completo è concesso in licenza sotto [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-
 Il repository github per questo testo può essere trovato [qui](https://github.com/Italian-Translation-Alliance/LiminalHorror) e [in versione originale](https://github.com/GoblinArchives/LiminalHorror).

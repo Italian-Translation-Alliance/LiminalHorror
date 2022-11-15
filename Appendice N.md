@@ -43,7 +43,8 @@ Queste opere hanno direttamente ispirato questo gioco, sia nel tono che nel cont
 - [Annientamento - libro](https://it.wikipedia.org/wiki/Annientamento)
 - [Le opere di William S. Burroughs](https://it.wikipedia.org/wiki/William_S._Burroughs)
 - [Le opere di Borges - books](https://it.wikipedia.org/wiki/Jorge_Luis_Borges)
-<br> Opere moderne che affrontano e sfidano le ideologie razziste di HP Lovecraft
+
+Opere moderne che affrontano e sfidano le ideologie razziste di HP Lovecraft
 - [The City Born Great](https://www.tor.com/2016/09/28/the-city-born-great/) di N.K. Jemisin (racconto breve)
 - [The City We Became](https://www.tor.com/2020/07/07/the-soul-of-a-city-the-city-we-became-by-n-k-jemisin/) di N.K Jemisin (libro)
 - [La ballata di Black Tom](https://it.wikipedia.org/wiki/La_ballata_di_Black_Tom) di Victor LaValle (libro)

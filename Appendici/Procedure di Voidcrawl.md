@@ -9,7 +9,7 @@ nav_order: 1
 
 Questa procedura è stata adattata dal blog [(twitter: @mayvisit)](https://twitter.com/mayvisit) di mv: [procedura di derelictcrawl per Mothership - hypertext corner](https://www.hypertextcorner.com/derelictcrawl)
 
-Un sistema a turni per le tue sessioni di Liminal Horror che crea una procedura per esplorare gli spazi oscuri e dimenticati in cui risiedono coloro che sono toccati dall'abisso. Usa un incontro sovraccarico [^1] [^2]
+Un sistema a turni per le tue sessioni di Liminal Horror che crea una procedura per esplorare gli spazi oscuri e dimenticati in cui risiedono coloro che sono toccati dall'abisso. Usa un incontro sovraccaricato. [^1] [^2]
 
 [^1]: Il sovraccarico del dado d'incontro è stato originariamente introdotto in [Sovraccarico del dado d'incontro](https://www.necropraxis.com/2014/02/03/overloading-the-encounter-die) di Necropraxis
 
@@ -37,7 +37,7 @@ Ad ogni turno di esplorazione (dopo che il gruppo ha dichiarato la propria azion
 | ------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1       | Oscuro Presagio | Tira per determinare un giocatore a caso. Tira sulla tabella di Crollo. Presenta un segno o un presagio relativo a quella ricaduta ed è destinato ad essere la prossima ricaduta che riceveranno.                                                                                        |
 | 2-4     | Incontro        | Il facilitatore tira sulla tabella degli incontri. Se solo un mostro è nel luogo, lo incontrano e basta.                                                                                                                                                                                 |
-| 5-7     | Orrore          | The crew discovers something frightening/horrific. each character gains 1-4 Stress.                                                                                                                                                                                                      |
+| 5-7     | Orrore          | Il gruppo scopre qualcosa di spaventoso/orribile. ogni personaggio guadagna 1-4 Stress.                                                                                                                                                                                                      |
 | 8-10    | Contrattempo    | Il gruppo incontra un contrattempo (un pericolo che ostacola il gruppo - fisico, ambientale o magico). Una possibilità è che si verifichi una situazione di scarsità (rottura dell'equipaggiamento, esaurimento delle scorte). Concentratevi su ciò che è più rilevante in quel momento. |
 | 11-13   | Locale          | L'ambiente cambia intorno al gruppo (allarme, chiusura di un percorso, spostamento del materiale fisico di uno spazio, ecc.)                                                                                                                                                             |
 | 14-16   | Indizio         | Presenta un suggerimento, un avvertimento o un indizio. {Ombre avvolte da fiamme blu, fori di proiettile, macchie di sangue sfrigolanti.} Le abilità e le pulsioni dei mostri possono influenzare la scelta.                                                                             |

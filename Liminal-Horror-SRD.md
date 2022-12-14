@@ -115,7 +115,7 @@ equipaggiamento e dalle sue esperienze.
 
 Non c'è livellamento o meccaniche per l'esperienza in **Liminal
 Horror**. Il successo e il fallimento portano a storie memorabili.
-Costruire relazioni, incontrare reliquie entrare in contatto col vuoto e
+Costruire relazioni, incontrare reliquie, entrare in contatto col vuoto e
 subire Crolli da Stress costituiscono forme di crescita del personaggio.
 
 ### Stress e Crollo
@@ -451,12 +451,13 @@ riferimenti visivi da condividere con il gruppo.
 
 #### L'abisso guarda dentro di te
 
-Qual è stato il vostro primo incontro con l'ignoto? Tirate o scegliete:
+Qual è stato il tuo primo incontro con l'ignoto? Tirate o scegliete:
 
-| 1   | Avete perso una persona cara in circostanze misteriose.                     | 6   | Le prove online sono troppe per essere ignorate!           |
-|-----|-----------------------------------------------------------------------------|-----|------------------------------------------------------------|
-| 2   | Avete visto qualcosa, nel buio.                                             | 7   | Sei sopravvissuto a un attacco che non sai spiegare.       |
-| 3   | Qualcosa è in agguato nei vostri sogni.                                     | 8   | Qualcuno vicino a te i attira o ti spinge via.             |
+|     |                                                                             |     |                                                            |
+| --- | --------------------------------------------------------------------------- | --- | ---------------------------------------------------------- |
+| 1   | Hai perso una persona cara in circostanze misteriose.                       | 6   | Le prove online sono troppe per essere ignorate!           |
+| 2   | Hai visto qualcosa, nel buio.                                               | 7   | Sei sopravvissuto a un attacco che non sai spiegare.       |
+| 3   | Qualcosa è in agguato nei tuoi sogni.                                       | 8   | Qualcuno vicino a te i attira o ti spinge via.             |
 | 4   | Attività della setta (forse hanno reclutato qualcuno di importante per te). | 9   | Potresti essere un membro di una società segreta.          |
 | 5   | Hai letto qualcosa che non è destinato alle menti mortali.                  | 10  | Non è ancora successo, è a questo che serve la sessione 1! |
 
@@ -467,8 +468,9 @@ personaggio all'inizio della storia? Quale lente usa per interpretare il
 mondo e come guida per le proprie azioni ? Usa la tabella qui sotto o
 crea la tua:
 
+|     |                                                                                           |     |                                                                       |
+| --- | ----------------------------------------------------------------------------------------- | --- | --------------------------------------------------------------------- |
 | 1   | Tutto ha una spiegazione razionale radicata nella scienza.                                | 6   | Gli individui possono fare la differenza.                             |
-|-----|-------------------------------------------------------------------------------------------|-----|-----------------------------------------------------------------------|
 | 2   | Aderisci ad una specifica ideologia politica.                                             | 7   | Una specifica religione ti guida.                                     |
 | 3   | La moralità è bianca o nera.                                                              | 8   | Credi nel destino e che esso abbia un impatto diretto sulla tua vita. |
 | 4   | Credi in poteri superiori. Astrologia, spiritualità, ecc.                                 | 9   | Il libero arbitrio è l'unica verità.                                  |
@@ -485,8 +487,9 @@ crea la tua:
 
 Potenziali connessioni
 
+|     |                       |     |                      |
+| --- | --------------------- | --- | -------------------- |
 | 1   | Membro della famiglia | 6   | Collaboratore online |
-|-----|-----------------------|-----|----------------------|
 | 2   | Amante (attuale o ex) | 7   | Eroe                 |
 | 3   | Amico                 | 8   | Rivale               |
 | 4   | Mentore               | 9   | Uno specialista      |
@@ -494,7 +497,7 @@ Potenziali connessioni
 
 [torna all'indice](#indice)
 
-## Tratti del personaggio (Tirate un d10 o scegliete)
+## Tratti del personaggio (Tira un d10 o scegli)
 
 #### Fisico
 
@@ -650,11 +653,11 @@ veicolo stesso.
 
 #### Protezione
 
-| Gilet corazzato (+1 Armatura)                                | $1000 |
-|--------------------------------------------------------------|-------|
-| Amuleto delle Vecchie Tradizioni (+1 Stabilità)              | $1000 |
-| Maschera antigas (protegge dalle tossine presenti nell'aria) | $100  |
-| Maschera (protegge la tua identità)                          | $20   |
+| **Gilet corazzato** (+1 Armatura)                                | $1000 |
+| ---------------------------------------------------------------- | ----- |
+| **Amuleto delle Vecchie Tradizioni** (+1 Stabilità)              | $1000 |
+| **Maschera antigas** (protegge dalle tossine presenti nell'aria) | $100  |
+| **Maschera** (protegge la tua identità)                          | $20   |
 
 #### Armi
 
@@ -664,20 +667,20 @@ veicolo stesso.
 | **Armi a mano:** Pugnale, Bastone, Ascia (d6 danni)                            | $50    |
 | **Taser/Gas lacrimogeno Combo** (tiro salvezza DEX o momentaneamente stordito) | $50    |
 | **Pistola** (d6 danni)                                                         | $200   |
-| **Doppietta a canne mozze** (d6 esplosione, ingombrante)                       | $500   |
+| **Doppietta a canne mozze** (d6 scoppio, ingombrante)                       | $500   |
 | **Fucile** (d8 danno, ingombrante)                                             | $750   |
 | **Doppietta** (d8 danno, ingombrante)                                          | $750   |
-| **Fucile d'assalto** (d8 o d6 danno da esplosione, ingombrante)                | $1250  |
-| **Fucile da combattimento** (d6 danno da esplosione con d8 area, ingombrante)  | $1250  |
+| **Fucile d'assalto** (d8 o d6 danno da scoppio, ingombrante)                | $1250  |
+| **Fucile da combattimento** (d6 danno da scoppio con d8 area, ingombrante)  | $1250  |
 | **Fucile di precisione** (d8 danno o d12 danno se nascosto, ingombrante)       | $1750  |
 
 #### Esplosivi
 
 | **Molotov** (incendia l'area, causando d6 danni continui fino allo spegnimento)      | $50  |
 |--------------------------------------------------------------------------------------|------|
-| **Flashbang** (esplosione, acceca temporaneamente chi fallisce un tiro salvezza DEX) | $100 |
-| **Granata** (d8 danni, esplosione)                                                   | $100 |
-| **IED** (d6 danni, esplosione con d4 danni continuati per round)                     | $200 |
+| **Flashbang** (scoppio, acceca temporaneamente chi fallisce un tiro salvezza DEX) | $100 |
+| **Granata** (d8 danni, scoppio)                                                   | $100 |
+| **IED** (d6 danni, scoppio con d4 danni continuati per round)                     | $200 |
 
 #### Pozioni moderne
 
@@ -686,7 +689,7 @@ veicolo stesso.
 | **Droghe** (sballo da droga, potenziale tiro salvezza CTRL o FOR per affrontare gli effetti negativi) | $50  |
 | **Veleno** (perdete d20 FOR se passa attraverso una barriera sangue-tessuto)                          | $50  |
 | **Antitossina** (ferma le tossine - sgradevole)                                                       | $50  |
-| **Acido** (d4 danni fino alla rimozione, liquido caustico che brucia attraverso i materiali           | $100 |
+| **Acido** (d4 danni fino alla rimozione, liquido caustico che brucia attraverso i materiali)          | $100 |
 | **Stimolanti** (recupero immediato dai danni critici, +1d4 di DES temporaneo)                         | $100 |
 
 #### Attrezzi - non include gli strumenti normali che si trovano nella maggior parte delle case moderne
@@ -699,7 +702,7 @@ veicolo stesso.
 | Sacco per cadaveri                         | $25          | Lampada da testa                   | $25    |
 | Tagliabulloni                              | $40          | Laptop                             | $1,000 |
 | Kit di apertura auto                       | $75          | Accendino                          | $10    |
-| Catena e accessori; Serratura              | $50          | Attrezzi da fabbro                 | $150   |
+| Catena e accessori; Lucchetto              | $50          | Attrezzi da fabbro                 | $150   |
 | Motosega                                   | $200         | Biglie                             | $20    |
 | Attrezzatura da arrampicata                | $150         | Kit di attrezzi meccanici          | $150   |
 | Auricolari (comunicatore)                  | $500         | Cuscinetti a sfera in metallo      | $40    |
@@ -934,11 +937,11 @@ Gli attacchi disarmati infliggono sempre 1d4 danni.
 Se attaccate con due armi contemporaneamente, tirate entrambi i dadi dei
 danni e tenete il risultato più alto.
 
-### Esplosione
+### Scoppio
 
-La qualità **esplosione** denota un attacco che colpisce ogni cosa in
+La qualità **scoppio** denota un attacco che colpisce ogni cosa in
 un'area bersaglio con danni tirati separatamente per ogni colpito.
-L'esplosione può essere qualsiasi cosa, dalle esplosioni ai tentacoli
+Lo scoppio può essere qualsiasi cosa, dalle esplosioni ai tentacoli
 spettrali all'impatto di un embrione spaziale. Se la scala non è chiara,
 tirate i dadi dei danni per determinare il numero di bersagli colpiti.
 
@@ -986,16 +989,11 @@ immediatamente al gruppo per ridurre i tempi morti.
 
 ### Distaccamenti
 
-Grandi gruppi di combattimento sono trattati come un unico
-**distaccamento**. Quando un distaccamento subisce danni critici, viene
-messo in rotta o indebolito significativamente. Quando raggiunge 0 FOR,
-è distrutto.
+Grandi gruppi di guerrieri simili che combattono insieme sono trattati come un’unica **formazione**. Quando una formazione subisce un danno critico, viene messo in rotta o indebolito significativamente. Quando raggiunge 0 FOR, viene distrutta.
 
-Gli attacchi contro i distaccamenti da parte di individui sono
-**compromessi** (esclusi i danni da esplosione).
+Attacchi contro le formazioni da parte di individui sono compromessi (esclusi i danni da scoppio).
 
-Gli attacchi contro gli individui da parte dei distaccamenti sono
-**potenziati** e infliggono danni da esplosione.
+Attacchi contro gli individui da parte delle formazioni sono potenziati e infliggono danni da scoppio.
 
 ### Morale
 
@@ -1053,7 +1051,7 @@ procedimento qui sotto.
     > l'effetto generale e la portata dell'incantesimo. Il Facilitatore
     > prende la decisione finale in gioco. (Linea guida: gli incantesimi
     > offensivi in genere causano d8 danni se sono a bersaglio singolo o
-    > d6 se sono danni da esplosione).
+    > d6 se sono danni da scoppio).
 
 -   I PG possono tentare di mantenere attivo l'incantesimo effettuando
     > con successo un tiro salvezza su CTRL.
@@ -1081,8 +1079,9 @@ procedimento qui sotto.
 
 **Effetti fisici**
 
+|              |             |              |
+| ------------ | ----------- | ------------ |
 | Animare      | Schiacciare | Fondere      |
-|--------------|-------------|--------------|
 | Attirare     | Diminuire   | Afferrare    |
 | Legare       | Dividere    | Affrettare   |
 | Sbocciare    | Duplicare   | Ostacolare   |
@@ -1098,8 +1097,9 @@ procedimento qui sotto.
 
 **Elementi Fisici**
 
+|           |           |          |
+| --------- | --------- | -------- |
 | Acido     | Argilla   | Vetro    |
-|-----------|-----------|----------|
 | Ambra     | Corvo     | Miele    |
 | Corteccia | Cristallo | Ghiaccio |
 | Sangue    | Ambra     | Insetto  |
@@ -1115,8 +1115,9 @@ procedimento qui sotto.
 
 **Forma Fisica**
 
+|           |            |            |
+| --------- | ---------- | ---------- |
 | Altare    | Catena     | Elementale |
-|-----------|------------|------------|
 | Armatura  | Carro      | Occhio     |
 | Freccia   | Artiglio   | Fontana    |
 | Bestia    | Mantello   | Porta      |
@@ -1132,8 +1133,9 @@ procedimento qui sotto.
 
 **Effetti Eterei**
 
+|                      |             |             |
+| -------------------- | ----------- | ----------- |
 | Vendicare            | Forzare     | Disfare     |
-|----------------------|-------------|-------------|
 | Bandire              | Nascondere  | Abbracciare |
 | Disorientare         | Assordare   | Codificare  |
 | Accecare             | Ingannare   | Energizzare |
@@ -1149,25 +1151,27 @@ procedimento qui sotto.
 
 **Elementi Eterei**
 
-| Vendicare            | Forzare     | Disfare     |
-|----------------------|-------------|-------------|
-| Bandire              | Nascondere  | Abbracciare |
-| Disorientare         | Assordare   | Codificare  |
-| Accecare             | Ingannare   | Energizzare |
-| Affascinare          | Decifrare   | Illuminare  |
-| Comunicare           | Dissimulare | Infiammare  |
-|                      |             |             |
-| Straziare            | Nullificare | Lenire      |
-| Prevedere            | Paralizzare | Evocare     |
-| Intossicare          | Rivelare    | Terrificare |
-| Dissennare           | Rivoltare   | Ammutolire  |
-| Ipnotizzare          | Scrutare    | Logorare    |
-| Leggere nel pensiero | Silenziare  | Inaridire   |
+|             |              |           |
+| ----------- | ------------ | --------- |
+| Anima       | Eco          | Luce      |
+| Armonia     | Ectoplasma   | Memoria   |
+| Calore      | Fantasma     | Mente     |
+| Caos        | Fulmine      | Mutazione |
+| Cenere      | Fumo         | Nebbia    |
+| Distorsione | Fuoco        | Negazione |
+|             |              |           |
+| Neve        | Probabilità  | Tempo     |
+| Ombra       | Putrefazione | Tuono     |
+| Pestilenza  | Sogno        | Vapore    |
+| Pioggia     | Stasi        | Vento     |
+| Plasma      | Stella       | Vuoto     |
+| Polvere     | Sussurro     | Warp      |
 
 **Forma Eterea**
 
+|            |           |          |
+| ---------- | --------- | -------- |
 | Aura       | Bolla     | Cono     |
-|------------|-----------|----------|
 | Faro       | Chiamata  | Cubo     |
 | Raggio     | Cascata   | Danza    |
 | Esplosione | Cerchio   | Disco    |
@@ -1249,7 +1253,7 @@ pietra si attiva e ti porta al sicuro. *Ricarica*:
 -   Sacrifica un'anima innocente alla pietra, aggiunge deprivazione e
     > fatica alla scheda del personaggio.
 
--   Al terzo tiro di ricarica sulla tabella [Presagi e Catastrofi
+-   Alla terza ricarica tira sulla tabella [Presagi e Catastrofi
     > Magiche](#presagi-e-catastrofi-magiche).
 
 **Guida anatomica alla memoria**: Il lettore può conversare con le anime
@@ -1257,7 +1261,7 @@ legate nelle sue pagine. Prende d6 Stress (CTRL) per leggere una voce.
 Ci sono ancora pagine vuote nel libro.
 
 **Anello con corna**, 1 carica. Girare l'anello per attivarlo. Puoi
-percepire quante persone sono intorno a voi e avere impressioni distinte
+percepire quante persone sono intorno a te e avere impressioni distinte
 dei loro sentimenti interiori. Ogni ora la tua consapevolezza diventa
 più raffinata, ma prendi 1d6+1 Stress (CTRL). *Ricarica*: Rimuovere
 l'anello, prendendo il tag Deprivato per 12 ore
@@ -1309,19 +1313,19 @@ funziona per il vostro tavolo, aggiungendo o cambiando le voci alla
 bisogna per aumentare (o diminuire) la quantità di Bizzarro. Questo è la
 principale manopola per controllare l'orrore cosmico del vostro gioco.
 
-| 1   | **Ti hanno sostituito?** hai visto cosa possono fare, le loro magie e i loro inganni. Cosa potrebbe impedire loro di prenderti? Forse non sei chi credi di essere? Come puoi saperlo? Durante il tuo prossimo momento di riflessione tranquilla, tira 1d6. Se il totale è superiore alla vostra PC massima, prendi un nuovo risultato.                                                                                                                   |
+| 1   | **Ti hanno sostituito?** hai visto cosa possono fare, le loro magie e i loro inganni. Cosa potrebbe impedire loro di prenderti? Forse non sei chi credi di essere? Come puoi saperlo? Durante il tuo prossimo momento di riflessione tranquilla, tira 1d6. Se il totale è superiore alla vostra PC massima, mantieni il nuovo punteggio.                                                                                                                   |
 |-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2   | **Ti ricordi di un viaggiatore sconosciuto:** Questi ricordi non sono tuoi. Sono di un tempo diverso, di un luogo diverso, da una prospettiva del tutto diversa dalla tua. Le realtà che attraversano sono del tutto estranee e inquietanti, i loro sentimenti del tutto alieni. Se solo poteste capire quello che hanno provato! Durante il tuo prossimo riposo, tirate 1d6. Se il totale è superiore alla vostra PC massima, prendi risultato.         |
-| 3   | **Paranoia:** È paranoia se le tue paure sono del tutto ragionevoli? Hai visto cosa succede nel buio, sai cosa succede nella notte. Dopo una settimana, tira 1d6. Se il totale è superiore alla vostra PC massima, prendi nuovo risultato.                                                                                                                                                                                                               |
-| 4   | **Plagiati dagli incubi:** Viene per te ogni notte, senza sbagliare. Non sai se dall'inizio o dalla fine. Tutto quello che sai è che non si fermano, e che devono significare qualcosa. Dopo una settimana di incubi, racconta al Facilitatore due immagini distinte che indugiano ai limiti della tua.                                                                                                                                                  |
-| 5   | **Mondo dello specchio:** All'inizio tutto sembrava a posto, ma ora ne sei sicuro - il mondo nello specchio è diverso. Gli sguardi laterali, lo spostamento dei luoghi, è innegabile. Quando cominci a accorgertene, tira 2d6. Se il totale è superiore alla tua PC massima, prendi il nuovo risultato.                                                                                                                                                  |
-| 6   | **Strambo:** inizi a comportarti in un modo strano che mette gli altri a disagio. Se resisti a indulgere nella tua "Stranezza" per 24 ore, diventi Deprivato. Se gli altri ti vedono impegnati in questo comportamento inquietante, devono effettuare un tiro salvezza su CTRL o prendere 1d4 Stress. Dopo il primo caso, tira 3d6. Se il totale è più alto del tuo attuale CTRL, prendi il nuovo risultato.                                             |
-| 7   | **Fame:** Sviluppi una fame innaturale per cose insolite. Se non sazi il tuo appetito per 24 ore, prendi l'etichetta Deprivato. Quando mangi, ripristini la PC e dai 1d4 di stress a chiunque ti possa vedere. Dopo la prima volta, tira 3d6. Se il totale è superiore alla vostra attuale FOR, prendete il risultato come nuovo punteggio.                                                                                                              |
+| 2   | **Ti ricordi di un viaggiatore sconosciuto:** Questi ricordi non sono tuoi. Sono di un tempo diverso, di un luogo diverso, da una prospettiva del tutto diversa dalla tua. Le realtà che attraversano sono del tutto estranee e inquietanti, i loro sentimenti del tutto alieni. Se solo potessi capire quello che hanno provato! Durante il tuo prossimo riposo, tirate 1d6. Se il totale è superiore alla tua PC massima, mantieni il nuovo punteggio.         |
+| 3   | **Paranoia:** È paranoia se le tue paure sono del tutto ragionevoli? Hai visto cosa succede nel buio, sai cosa succede nella notte. Dopo una settimana, tira 1d6. Se il totale è superiore alla tua PC massima, mantieni il nuovo punteggio.                                                                                                                                                                                                               |
+| 4   | **Plagiati dagli incubi:** Viene per te ogni notte, senza sbagliare. Non sai se dall'inizio o dalla fine. Tutto quello che sai è che non si fermano, e che devono significare qualcosa. Dopo una settimana di incubi, racconta al Facilitatore due immagini distinte che indugiano ai limiti della tua memoria.                                                                                                                                                  |
+| 5   | **Mondo dello specchio:** All'inizio tutto sembrava a posto, ma ora ne sei sicuro - il mondo nello specchio è diverso. Gli sguardi laterali, lo spostamento dei luoghi, è innegabile. Quando cominci a accorgertene, tira 2d6. Se il totale è superiore alla tua PC massima, mantieni il nuovo punteggio.                                                                                                                                                  |
+| 6   | **Strambo:** inizi a comportarti in un modo strano che mette gli altri a disagio. Se resisti a indulgere nella tua "Stranezza" per 24 ore, diventi Deprivato. Se gli altri ti vedono impegnato in questo comportamento inquietante, devono effettuare un tiro salvezza su CTRL o prendere 1d4 Stress. Dopo il primo caso, tira 3d6. Se il totale è più alto del tuo attuale CTRL, mantieni il nuovo punteggio.                                             |
+| 7   | **Fame:** Sviluppi una fame innaturale per cose insolite. Se non sazi il tuo appetito per 24 ore, prendi l'etichetta Deprivato. Quando mangi, ripristini la PC e dai 1d4 di stress a chiunque ti possa vedere. Dopo la prima volta, tira 3d6. Se il totale è superiore alla tua attuale FOR, mantieni il nuovo punteggio.                                                                                                              |
 | 8   | **Sfregiato:** Ogni ferita che infliggi lascia il suo segno lacerante sul tuo corpo. Dopo la prima volta, effettua un tiro salvezza su CTRL. Se lo superi, aumentate la tua FOR massima di 1d4.                                                                                                                                                                                                                                                          |
 |     | **Comunione Liminale:** All'inizio non si notava, ma lentamente hai cominciato a fare regolarmente una sequenza di gesti, parole o azioni, quasi come se stessi eseguendo un rituale. Quando cominci ad accorgertene, effettua un tiro salvezza su CTRL. Se lo superi, aumenta il tuo CTRL massimo di 1d4.                                                                                                                                               |
 | 10  | **Corruzione Magica** *(questo può essere subito più volte per personaggio)*: La carne è debole. Una parte del vostro corpo viene visibilmente modificata dalla contatto con il Bizzarro. Il Facilitatore e il Giocatore devono decidere come questo cambiamento si manifesta e se ha qualche impatto meccanico.                                                                                                                                         |
-| 11  | **Soglia:** C'è una porta chiara con una maniglia nera. È irrilevante, a parte il fatto che questa porta può apparire apparentemente ovunque. A volte la porta si trova in posti dove non dovrebbe essere. A volte si trova da sola, chiusa sul niente. L'unica cosa di cui sei sicuro è che si tratta sempre della stessa porta, che non sei ancora riusciti ad aprire.                                                                                 |
-| 12  | Vedi immagini di luoghi sconosciuti sovrapposte a questa, il che rende a volte difficile distinguere ciò che è reale. In un altro tempo avresti potuto essere chiamato oracolo. Quando tiri i tiri salvezza su **DES**, tira 2d20 e prendi il risultato più basso. Una volta al giorno vedi qualcosa di significativo (chiedi al Facilitatore di cosa si tratta).                                                                                        |
+| 11  | **Soglia:** C'è una porta chiara con una maniglia nera. È irrilevante, a parte il fatto che questa porta può comparire apparentemente ovunque. A volte la porta si trova in posti dove non dovrebbe essere. A volte si trova da sola, chiusa sul niente. L'unica cosa di cui sei sicuro è che si tratta sempre della stessa porta, che non sei ancora riuscito ad aprire.                                                                                 |
+| 12  | **Sovrimpressione Neurale**: Vedi immagini di luoghi sconosciuti sovrapposte a questa, il che rende a volte difficile distinguere ciò che è reale. In un altro tempo avresti potuto essere chiamato oracolo. Quando tiri i tiri salvezza su **DES**, tira 2d20 e prendi il risultato più basso. Una volta al giorno vedi qualcosa di significativo (chiedi al Facilitatore di cosa si tratta).                                                                                        |
 | 13  | **Settimo Figlio di Settimo Figlio:** Un'esposizione abbastanza potente ti ha cambiato. Sei più connesso con l'ultraterreno. Aggiungi la Magia alla tua scheda personaggio e seguine le regole. Questo nuovo potere è grande, e terribile. La prima volta che usi un incantesimo, lo sforzo ti causa 1d6 di stress. Il tuo secondo incantesimo causa 1d4 di stress. Infine il terzo incantesimo che lanci causa 1 di stress.                             |
 | 14  | **Segnato dalla paura:** Il nucleo del tuo essere è stato piegato e mutato. Quando agisci in un modo che manifesta la tua paura e devi fare un tiro salvezza, tira 2d20 e prendi il risultato più basso. Quando resisti a un'opportunità di lasciarti andare alla paura e agire di conseguenza, prendi 1d4 di stress. Crea una paura primaria, radicale; , discutine con il Facilitatore.                                                                |
 | 15  | **Pesante è la testa:** Una corona eterea pende sopra la tua testa. Non è visibile a tutti, solo a pochi individui speciali. Storie sono narrate sul tuo avvento. Fa' un tiro salvezza su CTRL. Se lo superi, aumenta il tuo CTRL massimo di 1d6.                                                                                                                                                                                                        |
@@ -1329,7 +1333,7 @@ principale manopola per controllare l'orrore cosmico del vostro gioco.
 | 17  | **Progenie:** Qualcosa sta crescendo dentro di te. La speranza l'ha abbandonata da tempo e non ha più spazio per i sogni. Tirate nuovamente 2d6. Prendete il nuovo risultato come vostra PC massima.                                                                                                                                                                                                                                                     |
 | 18  | **Ragnatela del Fato** *(questo può essere preso solo una volta per personaggio ma più volte per tabella)*: un burattino può pur sempre vedere i fili che lo legano... se solo tu fossi così fortunato. Tira sulla Tabella delle Ricadute Magiche - [Presagi e Catastrofi Magiche](#rjefff).                                                                                                                                                             |
 | 19  | **La Caccia:** Il patrocinio è una cosa pericolosa. Diventa più difficile ignorare gli impulsi primari che bruciano dentro di te. I vostri attacchi sono **Potenziati.** Il danno critico può anche mutilare il tuo corpo, ma tu vai comunque avanti a combattere. Diventi il bersaglio principale degli ultraterreni e gli attacchi effettuati contro di te sono **Potenziati**.                                                                        |
-| 20  | **Condannato** *(questo può essere preso più volte per personaggio)*: Sei stato marchiati per il sacrificio, unto per un fosco destino. Se il vostro prossimo tiro salvezza critico contro i danni è un fallimento, morite orribilmente. Se è un successo, tirate 3d6 + il numero di volte che avete preso Condannato. Se il totale è superiore alla vostra PC massima, prendete il nuovo risultato.                                                     |
+| 20  | **Condannato** *(può essere preso più volte per personaggio)*: Sei stato marchiato per il sacrificio, unto per un fosco destino. Se il tuo prossimo tiro salvezza critico contro i danni è un fallimento, muori orribilmente. Se è un successo, tira 3d6 + il numero di volte che hai preso Condannato. Se il totale è superiore alla tua PC massima, prendi il nuovo risultato                                                   |
 
 [torna all'indice](#indice)
 
@@ -1378,7 +1382,7 @@ benedetto della spora (d6)
 -   Danno critico: Alcune spore entrano nel corpo della vittima.
 
 **Analista corporativo** 8 PC, 1 Armatura, 10 FOR, 14 DES, 14 CTRL Arma
-prototipo Magitek (d6 esplosione)
+prototipo Magitek (d6 scoppio)
 
 -   Aspetto variabile, ma sempre professionale nell'abbigliamento e
     > nell'aspetto.
@@ -1394,7 +1398,7 @@ prototipo Magitek (d6 esplosione)
 
 -   Le streghe possono avere qualunque aspetto. Alcune sono state
     > cambiate dalla pratica della magia (puoi tirare su Magia -
-    > Mutazioni da Crollo se volete aumentare le loro stranezze)
+    > Mutazioni da Crollo se vuoi aumentare le loro stranezze)
 
 -   Imparare, nascondersi, influenzare. A volte, insegnare.
 
@@ -1423,7 +1427,7 @@ trasformazione), Bacio (d6 stress)
 -   Danno critico: Il suo tempo è ora. La madre si trasforma.
 
 **Lo sciame** 10 PC, 3 Armatura, 14 FOR, 10 DES Cascata di parassiti
-(d6, esplosione)
+(d6, scoppio)
 
 -   Una volta era una persona normale, ora è ospite di una legione
     > (scegliete vermi/scolopendre). Ad un'ispezione ravvicinata lo si
@@ -1677,7 +1681,7 @@ Gli attacchi **senz'armi** fanno sempre 1d4 danni. Gli attacchi
 **Compromessi** (posizione di debolezza) riducono il dado del danno a
 1d4. Sparare in copertura è compromesso. Gli attacchi **Potenziati**
 (posizione di vantaggio) aumentano il dado del danno a 1d12. L'attacco
-di **Esplosione** colpisce tutti i bersagli ad area, tirando
+**Scoppio** colpisce tutti i bersagli ad area, tirando
 separatamente per ognuno di essi.
 
 **DANNO** Il danno che supera la PC residua applica l'eccesso alla FOR.
